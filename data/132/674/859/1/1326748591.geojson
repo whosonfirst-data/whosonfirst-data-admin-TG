@@ -1,0 +1,68 @@
+{
+  "id": 1326748591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.35,9.75,0.35,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":0.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kissaboui",
+    "gn:country_code":"TG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366013,
+    "gn:latitude":9.75,
+    "gn:longitude":0.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kissaboui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366013,
+        "wk:page":"Kissaboui"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0c4b99b68f0004b097dbb63a552a6a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1326748591,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1326748591,
+    "wof:lastmodified":1537573896,
+    "wof:name":"Kissaboui",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.35,
+    9.75,
+    0.35,
+    9.75
+],
+  "geometry": {"coordinates":[0.35,9.75],"type":"Point"}
+}

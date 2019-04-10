@@ -1,0 +1,77 @@
+{
+  "id": 1226257455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55,9.35,0.55,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":0.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouyounle",
+    "gn:country_code":"TG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365593,
+    "gn:latitude":9.35,
+    "gn:longitude":0.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kouyounl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171,
+        85632189,
+        85671319,
+        1108759939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365593
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"50204b4dbc1bb2228a2b987b5294d31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1226257455,
+            "region_id":85678541
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759939,
+            "locality_id":1226257455,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1226257455,
+    "wof:lastmodified":1536917204,
+    "wof:name":"Kouyounle",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55,
+    9.35,
+    0.55,
+    9.35
+],
+  "geometry": {"coordinates":[0.55,9.35],"type":"Point"}
+}

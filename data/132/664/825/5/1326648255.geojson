@@ -1,0 +1,67 @@
+{
+  "id": 1326648255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56667,6.28333,1.56667,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":1.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pondaha",
+    "gn:country_code":"TG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364355,
+    "gn:latitude":6.28333,
+    "gn:longitude":1.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pondaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364355
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9ac52278521bec70be697498210bf126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1326648255,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1326648255,
+    "wof:lastmodified":1536815994,
+    "wof:name":"Pondaha",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56667,
+    6.28333,
+    1.56667,
+    6.28333
+],
+  "geometry": {"coordinates":[1.56667,6.28333],"type":"Point"}
+}

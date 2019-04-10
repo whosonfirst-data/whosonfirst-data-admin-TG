@@ -1,0 +1,71 @@
+{
+  "id": 1327039995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.61667,9.78333,0.61667,9.78333",
+    "geom:latitude":9.78333,
+    "geom:longitude":0.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bekando",
+    "gn:country_code":"TG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367523,
+    "gn:latitude":9.78333,
+    "gn:longitude":0.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9kando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9kando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367523,
+        "wk:page":"Bekando"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"42b70a9dfadc131f0991992726620bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1327039995,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1327039995,
+    "wof:lastmodified":1537702884,
+    "wof:name":"Bekando",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.61667,
+    9.78333,
+    0.61667,
+    9.78333
+],
+  "geometry": {"coordinates":[0.61667,9.78333],"type":"Point"}
+}

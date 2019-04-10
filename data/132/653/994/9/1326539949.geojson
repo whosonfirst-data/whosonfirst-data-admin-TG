@@ -1,0 +1,73 @@
+{
+  "id": 1326539949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28333,9.33333,1.28333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":1.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bodoude",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367408,
+    "gn:latitude":9.33333,
+    "gn:longitude":1.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bodoud\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9daud\u00e9",
+        "Bodoud\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367408,
+        "wk:page":"Bodoude"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f9be01e95f5ec13ae62b57ef2a2717e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561173,
+            "locality_id":1326539949,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1326539949,
+    "wof:lastmodified":1537702882,
+    "wof:name":"Bodoude",
+    "wof:parent_id":1108561173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28333,
+    9.33333,
+    1.28333,
+    9.33333
+],
+  "geometry": {"coordinates":[1.28333,9.33333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293210487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6,8.75,1.6,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":1.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kambole",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366216,
+    "gn:latitude":8.75,
+    "gn:longitude":1.6,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Kambol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabol\u00e9",
+        "Kanmbole",
+        "Cambole",
+        "Kaboli",
+        "Gambol\u00e9",
+        "Kambol\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366216,
+        "wk:page":"Kambole"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ff5bdf8bad5cd3bee4cf406633d1443f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":1293210487,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1293210487,
+    "wof:lastmodified":1537702866,
+    "wof:name":"Kambole",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6,
+    8.75,
+    1.6,
+    8.75
+],
+  "geometry": {"coordinates":[1.6,8.75],"type":"Point"}
+}

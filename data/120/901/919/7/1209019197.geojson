@@ -1,0 +1,61 @@
+{
+  "id": 1209019197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01667,10.63333,-0.01667,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":-0.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koumbok",
+    "gn:country_code":"TG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365697,
+    "gn:latitude":10.63333,
+    "gn:longitude":-0.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Koumbok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365697
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0bd97357b70db4b6b1be89e20dceb6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209019197
+        }
+    ],
+    "wof:id":1209019197,
+    "wof:lastmodified":1536300198,
+    "wof:name":"Koumbok",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.016669999999999997,
+    10.63333,
+    -0.016669999999999997,
+    10.63333
+],
+  "geometry": {"coordinates":[-0.01667,10.63333],"type":"Point"}
+}

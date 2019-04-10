@@ -1,0 +1,67 @@
+{
+  "id": 1310559529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48028,6.20556,1.48028,6.20556",
+    "geom:latitude":6.20556,
+    "geom:longitude":1.48028,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Aziza",
+    "gn:country_code":"TG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589576,
+    "gn:latitude":6.20556,
+    "gn:longitude":1.48028,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Aziza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589576
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"eae7ea44ab2836d7907559c882401f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1310559529,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310559529,
+    "wof:lastmodified":1536838133,
+    "wof:name":"Aziza",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48028,
+    6.20556,
+    1.48028,
+    6.20556
+],
+  "geometry": {"coordinates":[1.48028,6.20556],"type":"Point"}
+}

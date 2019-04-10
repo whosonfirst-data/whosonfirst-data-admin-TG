@@ -1,0 +1,72 @@
+{
+  "id": 1243082373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15,7.55,1.15,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":1.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gbekon",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366572,
+    "gn:latitude":7.55,
+    "gn:longitude":1.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gb\u00e9kon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gb\u00e9con",
+        "Gb\u00e9kon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366572
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"680e53de6eb5951bc3b60de5809be749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1243082373,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1243082373,
+    "wof:lastmodified":1537702871,
+    "wof:name":"Gbekon",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15,
+    7.55,
+    1.15,
+    7.55
+],
+  "geometry": {"coordinates":[1.15,7.55],"type":"Point"}
+}

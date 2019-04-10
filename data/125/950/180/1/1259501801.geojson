@@ -1,0 +1,67 @@
+{
+  "id": 1259501801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5,9.16667,1.5,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":1.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Azam",
+    "gn:country_code":"TG",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367696,
+    "gn:latitude":9.16667,
+    "gn:longitude":1.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Azam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367696
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"61236c0d54b82f288d579d242b6ed848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":1259501801,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1259501801,
+    "wof:lastmodified":1536831467,
+    "wof:name":"Azam",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5,
+    9.16667,
+    1.5,
+    9.16667
+],
+  "geometry": {"coordinates":[1.5,9.16667],"type":"Point"}
+}

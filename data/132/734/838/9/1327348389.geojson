@@ -1,0 +1,73 @@
+{
+  "id": 1327348389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83333,7.78333,0.83333,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":0.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kpalave",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365563,
+    "gn:latitude":7.78333,
+    "gn:longitude":0.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpalav\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpalavh\u00e9",
+        "Kpalaf\u00e9",
+        "Kpalav\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365563
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ef4def222424690cf61283040bdcb3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561187,
+            "locality_id":1327348389,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1327348389,
+    "wof:lastmodified":1537702858,
+    "wof:name":"Kpalave",
+    "wof:parent_id":1108561187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83333,
+    7.78333,
+    0.83333,
+    7.78333
+],
+  "geometry": {"coordinates":[0.83333,7.78333],"type":"Point"}
+}

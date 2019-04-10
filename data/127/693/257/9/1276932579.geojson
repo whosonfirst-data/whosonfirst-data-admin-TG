@@ -1,0 +1,71 @@
+{
+  "id": 1276932579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29306,6.31167,1.29306,6.31167",
+    "geom:latitude":6.31167,
+    "geom:longitude":1.29306,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Rhaye",
+    "gn:country_code":"TG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364322,
+    "gn:latitude":6.31167,
+    "gn:longitude":1.29306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rhay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ay\u00e9",
+        "Rhay\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364322
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f8bd009f8e06ede8b063eb33f8daba73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1276932579,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276932579,
+    "wof:lastmodified":1537702843,
+    "wof:name":"Rhaye",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29306,
+    6.31167,
+    1.29306,
+    6.31167
+],
+  "geometry": {"coordinates":[1.29306,6.31167],"type":"Point"}
+}

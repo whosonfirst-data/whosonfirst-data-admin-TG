@@ -1,0 +1,70 @@
+{
+  "id": 1226357247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65,10.96667,0.65,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":0.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konpiena",
+    "gn:country_code":"TG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365833,
+    "gn:latitude":10.96667,
+    "gn:longitude":0.65,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Konpi\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konpi\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365833
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9243522718176abc65a00ca355959645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1226357247,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1226357247,
+    "wof:lastmodified":1537702862,
+    "wof:name":"Konpiena",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65,
+    10.96667,
+    0.65,
+    10.96667
+],
+  "geometry": {"coordinates":[0.65,10.96667],"type":"Point"}
+}

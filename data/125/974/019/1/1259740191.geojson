@@ -1,0 +1,67 @@
+{
+  "id": 1259740191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.10611,10.61389,0.10611,10.61389",
+    "geom:latitude":10.61389,
+    "geom:longitude":0.10611,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Lokpano",
+    "gn:country_code":"TG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365269,
+    "gn:latitude":10.61389,
+    "gn:longitude":0.10611,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Lokpano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365269
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1e57d0c5135be60f90e38d20e2f4b001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561159,
+            "locality_id":1259740191,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259740191,
+    "wof:lastmodified":1536984757,
+    "wof:name":"Lokpano",
+    "wof:parent_id":1108561159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.10611,
+    10.61389,
+    0.10611,
+    10.61389
+],
+  "geometry": {"coordinates":[0.10611,10.61389],"type":"Point"}
+}

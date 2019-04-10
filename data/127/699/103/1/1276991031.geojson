@@ -1,0 +1,73 @@
+{
+  "id": 1276991031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.39379,9.87581,0.39379,9.87581",
+    "geom:latitude":9.87581,
+    "geom:longitude":0.39379,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kpankpade",
+    "gn:country_code":"TG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365552,
+    "gn:latitude":9.87581,
+    "gn:longitude":0.39379,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kpankpad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bankpand\u00e9",
+        "Kpankpand\u00e9",
+        "Kpankpad\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365552,
+        "wk:page":"Kpankpande"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"846677cef44ecb2262d96d493e5391c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1276991031,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1276991031,
+    "wof:lastmodified":1537702858,
+    "wof:name":"Kpankpade",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.39379,
+    9.87581,
+    0.39379,
+    9.87581
+],
+  "geometry": {"coordinates":[0.39379,9.87581],"type":"Point"}
+}

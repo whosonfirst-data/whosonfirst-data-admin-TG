@@ -1,0 +1,67 @@
+{
+  "id": 1243469145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36667,8.75,1.36667,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":1.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Danhadanha",
+    "gn:country_code":"TG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367174,
+    "gn:latitude":8.75,
+    "gn:longitude":1.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Danhadanha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367174
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ce973baad23972fcfe9ed3fdee9b7eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":1243469145,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1243469145,
+    "wof:lastmodified":1536773382,
+    "wof:name":"Danhadanha",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36667,
+    8.75,
+    1.36667,
+    8.75
+],
+  "geometry": {"coordinates":[1.36667,8.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309730505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65,10.91667,0.65,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":0.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Banboli",
+    "gn:country_code":"TG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367605,
+    "gn:latitude":10.91667,
+    "gn:longitude":0.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Banboli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367605
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6706bde005cddc8df81d39a1ade8526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1309730505,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1309730505,
+    "wof:lastmodified":1537037991,
+    "wof:name":"Banboli",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65,
+    10.91667,
+    0.65,
+    10.91667
+],
+  "geometry": {"coordinates":[0.65,10.91667],"type":"Point"}
+}

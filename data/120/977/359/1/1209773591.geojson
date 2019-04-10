@@ -1,0 +1,67 @@
+{
+  "id": 1209773591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.30861,6.23139,1.30861,6.23139",
+    "geom:latitude":6.23139,
+    "geom:longitude":1.30861,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Adidome",
+    "gn:country_code":"TG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589503,
+    "gn:latitude":6.23139,
+    "gn:longitude":1.30861,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Adidom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589503
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0f205dfdd11b32fea81c306ff8d4de74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1209773591,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1209773591,
+    "wof:lastmodified":1536381257,
+    "wof:name":"Adidome",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.30861,
+    6.23139,
+    1.30861,
+    6.23139
+],
+  "geometry": {"coordinates":[1.30861,6.23139],"type":"Point"}
+}

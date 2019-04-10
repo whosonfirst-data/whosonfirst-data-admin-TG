@@ -1,0 +1,67 @@
+{
+  "id": 1310519639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16667,6.68333,1.16667,6.68333",
+    "geom:latitude":6.68333,
+    "geom:longitude":1.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atchakpwe",
+    "gn:country_code":"TG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367870,
+    "gn:latitude":6.68333,
+    "gn:longitude":1.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Atchakpw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367870
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1df6d74d61a1d4e24ff5f7ca583c7397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1310519639,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310519639,
+    "wof:lastmodified":1536896344,
+    "wof:name":"Atchakpwe",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16667,
+    6.68333,
+    1.16667,
+    6.68333
+],
+  "geometry": {"coordinates":[1.16667,6.68333],"type":"Point"}
+}

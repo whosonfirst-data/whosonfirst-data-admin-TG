@@ -1,0 +1,67 @@
+{
+  "id": 1309730311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18333,8.01667,1.18333,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":1.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Babame",
+    "gn:country_code":"TG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367678,
+    "gn:latitude":8.01667,
+    "gn:longitude":1.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Babame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367678
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"95dfee97889a084cdaf52204e39383ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561181,
+            "locality_id":1309730311,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1309730311,
+    "wof:lastmodified":1537038267,
+    "wof:name":"Babame",
+    "wof:parent_id":1108561181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18333,
+    8.01667,
+    1.18333,
+    8.01667
+],
+  "geometry": {"coordinates":[1.18333,8.01667],"type":"Point"}
+}

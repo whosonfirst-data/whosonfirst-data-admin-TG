@@ -1,0 +1,62 @@
+{
+  "id": 1209022297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.78333,9.76667,0.78333,9.76667",
+    "geom:latitude":9.76667,
+    "geom:longitude":0.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nakbako",
+    "gn:country_code":"TG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365006,
+    "gn:latitude":9.76667,
+    "gn:longitude":0.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nakbako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365006,
+        "wk:page":"Nakbako"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"082d1593aa5c8aab0d7cfb7ad00c9330",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209022297
+        }
+    ],
+    "wof:id":1209022297,
+    "wof:lastmodified":1537573892,
+    "wof:name":"Nakbako",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.78333,
+    9.76667,
+    0.78333,
+    9.76667
+],
+  "geometry": {"coordinates":[0.78333,9.76667],"type":"Point"}
+}

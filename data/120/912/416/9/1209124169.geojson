@@ -1,0 +1,66 @@
+{
+  "id": 1209124169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58333,8.01667,1.58333,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":1.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Abegba",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368636,
+    "gn:latitude":8.01667,
+    "gn:longitude":1.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab\u00e9gba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u00e9kba",
+        "Ab\u00e9gba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368636
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d861b93abdaacb02ffbebe2e93d048df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209124169
+        }
+    ],
+    "wof:id":1209124169,
+    "wof:lastmodified":1537702900,
+    "wof:name":"Abegba",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58333,
+    8.01667,
+    1.58333,
+    8.01667
+],
+  "geometry": {"coordinates":[1.58333,8.01667],"type":"Point"}
+}

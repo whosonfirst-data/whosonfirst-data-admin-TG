@@ -1,0 +1,75 @@
+{
+  "id": 890435447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18611,9.55111,1.18611,9.55111",
+    "geom:latitude":9.55111,
+    "geom:longitude":1.18611,
+    "gn:country":"TG",
+    "gn:fcode":"PPLA",
+    "gn:pop":104207,
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lama"
+    ],
+    "qs:name":"Kara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":233,
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421187889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366152,
+        "gp:id":1439509,
+        "qs:id":1035272,
+        "wd:id":"Q223947",
+        "wk:page":"Kara"
+    },
+    "wof:country":"TG",
+    "wof:created":1469052067,
+    "wof:geomhash":"067dfabeac546fe241ace3fcee67e2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421187889,
+            "locality_id":890435447,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":890435447,
+    "wof:lastmodified":1527793045,
+    "wof:name":"Kara",
+    "wof:parent_id":421187889,
+    "wof:placetype":"locality",
+    "wof:population":104207,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18611,
+    9.55111,
+    1.18611,
+    9.55111
+],
+  "geometry": {"coordinates":[1.18611,9.55111],"type":"Point"}
+}

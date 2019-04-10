@@ -1,0 +1,67 @@
+{
+  "id": 1259997675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55,9.0,1.55,9.0",
+    "geom:latitude":9.0,
+    "geom:longitude":1.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Satode",
+    "gn:country_code":"TG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364206,
+    "gn:latitude":9.0,
+    "gn:longitude":1.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Satod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364206
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"2c0e7f227de0c7a3372a66404dae24eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":1259997675,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1259997675,
+    "wof:lastmodified":1536612195,
+    "wof:name":"Satode",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55,
+    9.0,
+    1.55,
+    9.0
+],
+  "geometry": {"coordinates":[1.55,9.0],"type":"Point"}
+}

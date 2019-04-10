@@ -1,0 +1,71 @@
+{
+  "id": 1293502299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28333,9.4,1.28333,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":1.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kajamboue",
+    "gn:country_code":"TG",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366253,
+    "gn:latitude":9.4,
+    "gn:longitude":1.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kajambou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajambou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366253,
+        "wk:page":"Kajamboue"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6a7b707b34f7a6eea6757797d4e3ce34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561173,
+            "locality_id":1293502299,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1293502299,
+    "wof:lastmodified":1537702867,
+    "wof:name":"Kajamboue",
+    "wof:parent_id":1108561173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28333,
+    9.4,
+    1.28333,
+    9.4
+],
+  "geometry": {"coordinates":[1.28333,9.4],"type":"Point"}
+}

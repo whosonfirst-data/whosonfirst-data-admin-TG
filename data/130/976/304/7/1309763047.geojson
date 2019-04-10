@@ -1,0 +1,71 @@
+{
+  "id": 1309763047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50778,10.9775,0.50778,10.9775",
+    "geom:latitude":10.9775,
+    "geom:longitude":0.50778,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ponio",
+    "gn:country_code":"TG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364352,
+    "gn:latitude":10.9775,
+    "gn:longitude":0.50778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ponio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pogno",
+        "Ponio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890453941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364352
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"dd9390fd914e003afdcf11484023c942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453941,
+            "locality_id":1309763047,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1309763047,
+    "wof:lastmodified":1537702843,
+    "wof:name":"Ponio",
+    "wof:parent_id":890453941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50778,
+    10.9775,
+    0.50778,
+    10.9775
+],
+  "geometry": {"coordinates":[0.50778,10.9775],"type":"Point"}
+}

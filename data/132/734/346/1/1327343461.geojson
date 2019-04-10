@@ -1,0 +1,67 @@
+{
+  "id": 1327343461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98333,7.56667,0.98333,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":0.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ounabe",
+    "gn:country_code":"TG",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364539,
+    "gn:latitude":7.56667,
+    "gn:longitude":0.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ounab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364539
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9fc7bac32bf220ca9b06ea1e7e3817b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561187,
+            "locality_id":1327343461,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1327343461,
+    "wof:lastmodified":1536808771,
+    "wof:name":"Ounabe",
+    "wof:parent_id":1108561187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98333,
+    7.56667,
+    0.98333,
+    7.56667
+],
+  "geometry": {"coordinates":[0.98333,7.56667],"type":"Point"}
+}

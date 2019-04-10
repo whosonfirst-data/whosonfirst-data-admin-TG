@@ -1,0 +1,72 @@
+{
+  "id": 1293010687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15,6.65,1.15,6.65",
+    "geom:latitude":6.65,
+    "geom:longitude":1.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agbodjekpwe",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368381,
+    "gn:latitude":6.65,
+    "gn:longitude":1.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agbodj\u00e9kpw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbodjekpoui",
+        "Agbodj\u00e9kpw\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368381
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d4c31065238354cbafb9e30f3f7db6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1293010687,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1293010687,
+    "wof:lastmodified":1537702896,
+    "wof:name":"Agbodjekpwe",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15,
+    6.65,
+    1.15,
+    6.65
+],
+  "geometry": {"coordinates":[1.15,6.65],"type":"Point"}
+}

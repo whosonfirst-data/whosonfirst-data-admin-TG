@@ -1,0 +1,73 @@
+{
+  "id": 1310223277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35,8.1,1.35,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":1.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Morita",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365080,
+    "gn:latitude":8.1,
+    "gn:longitude":1.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Morita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moretan",
+        "Morita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365080,
+        "wk:page":"Morita%2C_Togo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e3939413e48c0b02c27ddeb4e032b3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561183,
+            "locality_id":1310223277,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1310223277,
+    "wof:lastmodified":1537702852,
+    "wof:name":"Morita",
+    "wof:parent_id":1108561183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35,
+    8.1,
+    1.35,
+    8.1
+],
+  "geometry": {"coordinates":[1.35,8.1],"type":"Point"}
+}

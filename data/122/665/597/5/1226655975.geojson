@@ -1,0 +1,71 @@
+{
+  "id": 1226655975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31667,9.4,1.31667,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":1.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Peou",
+    "gn:country_code":"TG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364397,
+    "gn:latitude":9.4,
+    "gn:longitude":1.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364397,
+        "wk:page":"Peou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"eddbf842c06c4a4a76313c6b22623687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561173,
+            "locality_id":1226655975,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1226655975,
+    "wof:lastmodified":1537702844,
+    "wof:name":"Peou",
+    "wof:parent_id":1108561173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31667,
+    9.4,
+    1.31667,
+    9.4
+],
+  "geometry": {"coordinates":[1.31667,9.4],"type":"Point"}
+}

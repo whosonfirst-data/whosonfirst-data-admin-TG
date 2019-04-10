@@ -1,0 +1,71 @@
+{
+  "id": 1276672665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23333,9.95,1.23333,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":1.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aloumere",
+    "gn:country_code":"TG",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368076,
+    "gn:latitude":9.95,
+    "gn:longitude":1.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aloum\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aloum\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368076,
+        "wk:page":"Aloumere"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b78069bafccc5dbd06627472c1209bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1276672665,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1276672665,
+    "wof:lastmodified":1537702892,
+    "wof:name":"Aloumere",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23333,
+    9.95,
+    1.23333,
+    9.95
+],
+  "geometry": {"coordinates":[1.23333,9.95],"type":"Point"}
+}

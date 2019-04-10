@@ -1,0 +1,66 @@
+{
+  "id": 1209332803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16667,8.03333,1.16667,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":1.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dogogble",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366899,
+    "gn:latitude":8.03333,
+    "gn:longitude":1.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dogogbl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogobl\u00e9",
+        "Dogogbl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366899
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"030ae3b52a5cf5d02f5d1881d81215c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209332803
+        }
+    ],
+    "wof:id":1209332803,
+    "wof:lastmodified":1537702876,
+    "wof:name":"Dogogble",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16667,
+    8.03333,
+    1.16667,
+    8.03333
+],
+  "geometry": {"coordinates":[1.16667,8.03333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209014597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28333,9.7,1.28333,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":1.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dewa",
+    "gn:country_code":"TG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367100,
+    "gn:latitude":9.7,
+    "gn:longitude":1.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367100,
+        "wk:page":"Dewa%2C_Togo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ba354e542e1e15c32142dda8c4620a3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209014597
+        }
+    ],
+    "wof:id":1209014597,
+    "wof:lastmodified":1537573900,
+    "wof:name":"Dewa",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28333,
+    9.7,
+    1.28333,
+    9.7
+],
+  "geometry": {"coordinates":[1.28333,9.7],"type":"Point"}
+}

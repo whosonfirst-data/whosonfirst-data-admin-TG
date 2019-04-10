@@ -1,0 +1,68 @@
+{
+  "id": 1243186933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.78333,9.43333,0.78333,9.43333",
+    "geom:latitude":9.43333,
+    "geom:longitude":0.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sanpa",
+    "gn:country_code":"TG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364240,
+    "gn:latitude":9.43333,
+    "gn:longitude":0.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364240,
+        "wk:page":"Sanpa"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"33158686ec5201137c3ee746cffa899a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1243186933,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1243186933,
+    "wof:lastmodified":1537573888,
+    "wof:name":"Sanpa",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.78333,
+    9.43333,
+    0.78333,
+    9.43333
+],
+  "geometry": {"coordinates":[0.78333,9.43333],"type":"Point"}
+}

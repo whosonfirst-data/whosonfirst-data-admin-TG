@@ -1,0 +1,62 @@
+{
+  "id": 1209014561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.6,9.78333,0.6,9.78333",
+    "geom:latitude":9.78333,
+    "geom:longitude":0.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Diotaoul",
+    "gn:country_code":"TG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367041,
+    "gn:latitude":9.78333,
+    "gn:longitude":0.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diotaoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367041,
+        "wk:page":"Diotaoul"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"93d5c06673580c7e448bbe86a5553f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209014561
+        }
+    ],
+    "wof:id":1209014561,
+    "wof:lastmodified":1537573899,
+    "wof:name":"Diotaoul",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.6,
+    9.78333,
+    0.6,
+    9.78333
+],
+  "geometry": {"coordinates":[0.6,9.78333],"type":"Point"}
+}

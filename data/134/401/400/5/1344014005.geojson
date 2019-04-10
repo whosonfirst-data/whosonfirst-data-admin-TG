@@ -1,0 +1,71 @@
+{
+  "id": 1344014005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41639,6.32556,1.41639,6.32556",
+    "geom:latitude":6.32556,
+    "geom:longitude":1.41639,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Tchideme",
+    "gn:country_code":"TG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363864,
+    "gn:latitude":6.32556,
+    "gn:longitude":1.41639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchid\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchil\u00e9m\u00e9 Kop\u00e9",
+        "Tchid\u00e9m\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363864
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1788be75f2db64a1fd6790f6da605617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1344014005,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1344014005,
+    "wof:lastmodified":1537702837,
+    "wof:name":"Tchideme",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41639,
+    6.32556,
+    1.41639,
+    6.32556
+],
+  "geometry": {"coordinates":[1.41639,6.32556],"type":"Point"}
+}

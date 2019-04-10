@@ -1,0 +1,61 @@
+{
+  "id": 1209433199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48333,10.43333,0.48333,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":0.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koundjouare",
+    "gn:country_code":"TG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365684,
+    "gn:latitude":10.43333,
+    "gn:longitude":0.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Koundjouar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365684
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"2dc743a0568d1596a0f6cbef60adf06d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209433199
+        }
+    ],
+    "wof:id":1209433199,
+    "wof:lastmodified":1536287178,
+    "wof:name":"Koundjouare",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48333,
+    10.43333,
+    0.48333,
+    10.43333
+],
+  "geometry": {"coordinates":[0.48333,10.43333],"type":"Point"}
+}

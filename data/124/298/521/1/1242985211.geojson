@@ -1,0 +1,72 @@
+{
+  "id": 1242985211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1,7.73333,1.1,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":1.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kodji Tsevie",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365956,
+    "gn:latitude":7.73333,
+    "gn:longitude":1.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kodji Ts\u00e9vi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kodji",
+        "Kodji Ts\u00e9vi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365956
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"08b9d8eb39f1d059cdb3e7cf7f51ef1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561189,
+            "locality_id":1242985211,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1242985211,
+    "wof:lastmodified":1537702863,
+    "wof:name":"Kodji Tsevie",
+    "wof:parent_id":1108561189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1,
+    7.73333,
+    1.1,
+    7.73333
+],
+  "geometry": {"coordinates":[1.1,7.73333],"type":"Point"}
+}

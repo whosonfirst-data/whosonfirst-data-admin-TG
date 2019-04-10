@@ -1,0 +1,72 @@
+{
+  "id": 1225862993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63333,6.36667,1.63333,6.36667",
+    "geom:latitude":6.36667,
+    "geom:longitude":1.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tanou",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363958,
+    "gn:latitude":6.36667,
+    "gn:longitude":1.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danou",
+        "Tanou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363958
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"58d5bf912aa61049c3fbd8682798001f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1225862993,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1225862993,
+    "wof:lastmodified":1537702838,
+    "wof:name":"Tanou",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63333,
+    6.36667,
+    1.63333,
+    6.36667
+],
+  "geometry": {"coordinates":[1.63333,6.36667],"type":"Point"}
+}

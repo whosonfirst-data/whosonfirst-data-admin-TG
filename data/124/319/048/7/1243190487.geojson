@@ -1,0 +1,67 @@
+{
+  "id": 1243190487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.36667,10.88333,0.36667,10.88333",
+    "geom:latitude":10.88333,
+    "geom:longitude":0.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naloate",
+    "gn:country_code":"TG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364980,
+    "gn:latitude":10.88333,
+    "gn:longitude":0.36667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Naloat\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364980
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f3eaaa6fc591d77387bbfc258e4e7615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":1243190487,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1243190487,
+    "wof:lastmodified":1536677552,
+    "wof:name":"Naloate",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.36667,
+    10.88333,
+    0.36667,
+    10.88333
+],
+  "geometry": {"coordinates":[0.36667,10.88333],"type":"Point"}
+}

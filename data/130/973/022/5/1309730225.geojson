@@ -1,0 +1,67 @@
+{
+  "id": 1309730225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25,7.06667,1.25,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":1.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Azakpe",
+    "gn:country_code":"TG",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367697,
+    "gn:latitude":7.06667,
+    "gn:longitude":1.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Azakp\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367697
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"fc717c87d9d8e96d7b1623f65e768862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1309730225,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1309730225,
+    "wof:lastmodified":1537038386,
+    "wof:name":"Azakpe",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25,
+    7.06667,
+    1.25,
+    7.06667
+],
+  "geometry": {"coordinates":[1.25,7.06667],"type":"Point"}
+}

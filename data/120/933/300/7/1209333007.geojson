@@ -1,0 +1,66 @@
+{
+  "id": 1209333007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2,10.88333,0.2,10.88333",
+    "geom:latitude":10.88333,
+    "geom:longitude":0.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nassable",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364887,
+    "gn:latitude":10.88333,
+    "gn:longitude":0.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nassabl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasabl\u00e9",
+        "Nassabl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364887
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"695f84a2605751369da249a32486540c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209333007
+        }
+    ],
+    "wof:id":1209333007,
+    "wof:lastmodified":1537702850,
+    "wof:name":"Nassable",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2,
+    10.88333,
+    0.2,
+    10.88333
+],
+  "geometry": {"coordinates":[0.2,10.88333],"type":"Point"}
+}

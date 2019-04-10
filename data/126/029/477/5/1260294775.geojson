@@ -1,0 +1,71 @@
+{
+  "id": 1260294775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.25,9.53333,0.25,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":0.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dondonne",
+    "gn:country_code":"TG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366882,
+    "gn:latitude":9.53333,
+    "gn:longitude":0.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dondonn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dondonn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366882,
+        "wk:page":"Dondonne"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c0d2c3cffb9e95e6b944948fc90b7425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1260294775,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1260294775,
+    "wof:lastmodified":1537702876,
+    "wof:name":"Dondonne",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.25,
+    9.53333,
+    0.25,
+    9.53333
+],
+  "geometry": {"coordinates":[0.25,9.53333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293696871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.26667,9.56667,0.26667,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":0.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kandio",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366200,
+    "gn:latitude":9.56667,
+    "gn:longitude":0.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kandio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandjock",
+        "Kandio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169,
+        85632189,
+        85671319,
+        1108759929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366200
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f56bd62ae20ab6ffea8c2af891567004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1293696871,
+            "region_id":85678541
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759929,
+            "locality_id":1293696871,
+            "region_id":85671319
+        }
+    ],
+    "wof:id":1293696871,
+    "wof:lastmodified":1537702866,
+    "wof:name":"Kandio",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.26667,
+    9.56667,
+    0.26667,
+    9.56667
+],
+  "geometry": {"coordinates":[0.26667,9.56667],"type":"Point"}
+}

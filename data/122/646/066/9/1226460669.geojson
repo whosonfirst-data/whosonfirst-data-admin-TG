@@ -1,0 +1,67 @@
+{
+  "id": 1226460669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1,8.28333,1.1,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":1.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Defale",
+    "gn:country_code":"TG",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367141,
+    "gn:latitude":8.28333,
+    "gn:longitude":1.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"D\u00e9fal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367141
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0d2c6bc8a6023a19c8fb334317b0db24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561181,
+            "locality_id":1226460669,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1226460669,
+    "wof:lastmodified":1536621927,
+    "wof:name":"Defale",
+    "wof:parent_id":1108561181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1,
+    8.28333,
+    1.1,
+    8.28333
+],
+  "geometry": {"coordinates":[1.1,8.28333],"type":"Point"}
+}

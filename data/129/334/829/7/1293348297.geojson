@@ -1,0 +1,72 @@
+{
+  "id": 1293348297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.30556,6.14861,1.30556,6.14861",
+    "geom:latitude":6.14861,
+    "geom:longitude":1.30556,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Gbesogbe",
+    "gn:country_code":"TG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366563,
+    "gn:latitude":6.14861,
+    "gn:longitude":1.30556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gb\u00e9sogb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gb\u00e9ssogb\u00e9",
+        "Gb\u00e9sogb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366563
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"227857a1c94e5e9ca8d2759c3d357558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1293348297,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1293348297,
+    "wof:lastmodified":1537702871,
+    "wof:name":"Gbesogbe",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.30556,
+    6.14861,
+    1.30556,
+    6.14861
+],
+  "geometry": {"coordinates":[1.30556,6.14861],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259501599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.6438,10.94346,0.6438,10.94346",
+    "geom:latitude":10.94346,
+    "geom:longitude":0.6438,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tambatodeni",
+    "gn:country_code":"TG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363985,
+    "gn:latitude":10.94346,
+    "gn:longitude":0.6438,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tambatod\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambatod\u00e9ni",
+        "Tanbatod\u00e9ni",
+        "Koundjouar\u00e9",
+        "Koundjoar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363985
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"54577d5441d0d658bf01e4fc9776b2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1259501599,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259501599,
+    "wof:lastmodified":1537702838,
+    "wof:name":"Tambatodeni",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.6438,
+    10.94346,
+    0.6438,
+    10.94346
+],
+  "geometry": {"coordinates":[0.6438,10.94346],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209062167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.27389,6.345,1.27389,6.345",
+    "geom:latitude":6.345,
+    "geom:longitude":1.27389,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lanbade Kope",
+    "gn:country_code":"TG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365373,
+    "gn:latitude":6.345,
+    "gn:longitude":1.27389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lanbad\u00e9 Kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heknovi",
+        "Lanbad\u00e9 Kop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365373
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"af06b826e60f0d48037697b44ad56241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209062167
+        }
+    ],
+    "wof:id":1209062167,
+    "wof:lastmodified":1537702855,
+    "wof:name":"Lanbade Kope",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.27389,
+    6.345,
+    1.27389,
+    6.345
+],
+  "geometry": {"coordinates":[1.27389,6.345],"type":"Point"}
+}

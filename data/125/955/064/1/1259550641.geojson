@@ -1,0 +1,72 @@
+{
+  "id": 1259550641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.57694,10.76361,0.57694,10.76361",
+    "geom:latitude":10.76361,
+    "geom:longitude":0.57694,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Borgou",
+    "gn:country_code":"TG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367352,
+    "gn:latitude":10.76361,
+    "gn:longitude":0.57694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borgu",
+        "Bergou",
+        "Borgou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367352
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b8629c8d0073c14bd692fac3654e6f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1259550641,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259550641,
+    "wof:lastmodified":1537702881,
+    "wof:name":"Borgou",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.57694,
+    10.76361,
+    0.57694,
+    10.76361
+],
+  "geometry": {"coordinates":[0.57694,10.76361],"type":"Point"}
+}

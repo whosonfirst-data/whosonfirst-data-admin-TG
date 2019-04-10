@@ -1,0 +1,71 @@
+{
+  "id": 1343429191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25972,6.37,1.25972,6.37",
+    "geom:latitude":6.37,
+    "geom:longitude":1.25972,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Amegbleve",
+    "gn:country_code":"TG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368056,
+    "gn:latitude":6.37,
+    "gn:longitude":1.25972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Am\u00e9gbl\u00e9v\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Am\u00e9bl\u00e9v\u00e9",
+        "Am\u00e9gbl\u00e9v\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368056
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6d3b13b62d9683737e9d6d3b639504af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1343429191,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343429191,
+    "wof:lastmodified":1537702892,
+    "wof:name":"Amegbleve",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25972,
+    6.37,
+    1.25972,
+    6.37
+],
+  "geometry": {"coordinates":[1.25972,6.37],"type":"Point"}
+}

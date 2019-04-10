@@ -1,0 +1,72 @@
+{
+  "id": 1259541413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06667,6.27278,1.06667,6.27278",
+    "geom:latitude":6.27278,
+    "geom:longitude":1.06667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kamassakope",
+    "gn:country_code":"TG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366218,
+    "gn:latitude":6.27278,
+    "gn:longitude":1.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamassakop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amassakop\u00e9",
+        "Kamasa Kop\u00e9",
+        "Kamassakop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366218
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"328c8632c4bd493f0122454e575693cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1259541413,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1259541413,
+    "wof:lastmodified":1537702866,
+    "wof:name":"Kamassakope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06667,
+    6.27278,
+    1.06667,
+    6.27278
+],
+  "geometry": {"coordinates":[1.06667,6.27278],"type":"Point"}
+}

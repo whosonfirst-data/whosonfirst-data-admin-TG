@@ -1,0 +1,72 @@
+{
+  "id": 1242832289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.205,6.38472,1.205,6.38472",
+    "geom:latitude":6.38472,
+    "geom:longitude":1.205,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Davie",
+    "gn:country_code":"TG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367152,
+    "gn:latitude":6.38472,
+    "gn:longitude":1.205,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Davi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dawi\u00eb-D\u00e9kpo",
+        "Davy\u00e9",
+        "Davi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367152
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"320800bf72452f8f9cbe9d14f12eb8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1242832289,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1242832289,
+    "wof:lastmodified":1537702879,
+    "wof:name":"Davie",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.205,
+    6.38472,
+    1.205,
+    6.38472
+],
+  "geometry": {"coordinates":[1.205,6.38472],"type":"Point"}
+}

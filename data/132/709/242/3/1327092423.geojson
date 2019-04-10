@@ -1,0 +1,72 @@
+{
+  "id": 1327092423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01167,6.47944,1.01167,6.47944",
+    "geom:latitude":6.47944,
+    "geom:longitude":1.01167,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Yometchin",
+    "gn:country_code":"TG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363334,
+    "gn:latitude":6.47944,
+    "gn:longitude":1.01167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yom\u00e9tchin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yom\u00e9chin",
+        "Yom\u00e9tchen",
+        "Yom\u00e9tchin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363334
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"974cc9cbff055afc5749bb2fa98819fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1327092423,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1327092423,
+    "wof:lastmodified":1537702830,
+    "wof:name":"Yometchin",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01167,
+    6.47944,
+    1.01167,
+    6.47944
+],
+  "geometry": {"coordinates":[1.01167,6.47944],"type":"Point"}
+}

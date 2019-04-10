@@ -1,0 +1,67 @@
+{
+  "id": 1310223259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5,6.38333,1.5,6.38333",
+    "geom:latitude":6.38333,
+    "geom:longitude":1.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Logoba",
+    "gn:country_code":"TG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365284,
+    "gn:latitude":6.38333,
+    "gn:longitude":1.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Logoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365284
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"fb626ad0a9b0d9c1acbd5774aae87800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1310223259,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310223259,
+    "wof:lastmodified":1536825693,
+    "wof:name":"Logoba",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5,
+    6.38333,
+    1.5,
+    6.38333
+],
+  "geometry": {"coordinates":[1.5,6.38333],"type":"Point"}
+}

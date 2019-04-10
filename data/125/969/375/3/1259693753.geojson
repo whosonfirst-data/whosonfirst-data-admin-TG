@@ -1,0 +1,72 @@
+{
+  "id": 1259693753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55,10.91667,0.55,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":0.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Djabontouti",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367024,
+    "gn:latitude":10.91667,
+    "gn:longitude":0.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djabontouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyidianga",
+        "Djabontouti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367024
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"106adb32e7abd813fbf82a6d230bf954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1259693753,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259693753,
+    "wof:lastmodified":1537702878,
+    "wof:name":"Djabontouti",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55,
+    10.91667,
+    0.55,
+    10.91667
+],
+  "geometry": {"coordinates":[0.55,10.91667],"type":"Point"}
+}

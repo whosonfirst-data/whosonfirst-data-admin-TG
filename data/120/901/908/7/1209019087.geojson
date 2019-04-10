@@ -1,0 +1,61 @@
+{
+  "id": 1209019087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.06667,10.6,0.06667,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":0.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Saon",
+    "gn:country_code":"TG",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364229,
+    "gn:latitude":10.6,
+    "gn:longitude":0.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Saon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364229
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9260cd16878a84ededc76bf30d7a4288",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209019087
+        }
+    ],
+    "wof:id":1209019087,
+    "wof:lastmodified":1536300202,
+    "wof:name":"Saon",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.06667000000000001,
+    10.6,
+    0.06667000000000001,
+    10.6
+],
+  "geometry": {"coordinates":[0.06667,10.6],"type":"Point"}
+}

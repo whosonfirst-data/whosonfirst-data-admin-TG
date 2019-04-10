@@ -1,0 +1,61 @@
+{
+  "id": 1209124203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.21667,6.8,1.21667,6.8",
+    "geom:latitude":6.8,
+    "geom:longitude":1.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Avouko",
+    "gn:country_code":"TG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367724,
+    "gn:latitude":6.8,
+    "gn:longitude":1.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Avouko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367724
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e0e5c9c370f9180774b450f71a5feb82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209124203
+        }
+    ],
+    "wof:id":1209124203,
+    "wof:lastmodified":1536297006,
+    "wof:name":"Avouko",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.21667,
+    6.8,
+    1.21667,
+    6.8
+],
+  "geometry": {"coordinates":[1.21667,6.8],"type":"Point"}
+}

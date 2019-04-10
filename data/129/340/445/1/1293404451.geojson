@@ -1,0 +1,67 @@
+{
+  "id": 1293404451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.26667,10.78333,0.26667,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":0.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Natala",
+    "gn:country_code":"TG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364877,
+    "gn:latitude":10.78333,
+    "gn:longitude":0.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Natala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364877
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"635cd02a32889ac9a48e385b20f2f639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561159,
+            "locality_id":1293404451,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1293404451,
+    "wof:lastmodified":1536906904,
+    "wof:name":"Natala",
+    "wof:parent_id":1108561159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.26667,
+    10.78333,
+    0.26667,
+    10.78333
+],
+  "geometry": {"coordinates":[0.26667,10.78333],"type":"Point"}
+}

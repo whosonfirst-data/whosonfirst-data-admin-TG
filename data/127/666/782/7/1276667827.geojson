@@ -1,0 +1,68 @@
+{
+  "id": 1276667827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28333,9.25,1.28333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":1.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Soulou",
+    "gn:country_code":"TG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364070,
+    "gn:latitude":9.25,
+    "gn:longitude":1.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364070,
+        "wk:page":"Soulou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d877e5032b9946ba235d405fa43ab3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1276667827,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1276667827,
+    "wof:lastmodified":1537573887,
+    "wof:name":"Soulou",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28333,
+    9.25,
+    1.28333,
+    9.25
+],
+  "geometry": {"coordinates":[1.28333,9.25],"type":"Point"}
+}

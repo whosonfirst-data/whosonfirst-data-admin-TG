@@ -1,0 +1,61 @@
+{
+  "id": 1209525563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08333,7.31667,1.08333,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":1.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Adkepai Tchokoukon",
+    "gn:country_code":"TG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368512,
+    "gn:latitude":7.31667,
+    "gn:longitude":1.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Adk\u00e9pa\u00ef Tchokoukon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368512
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"92ccc48a785768533160925cf84afb03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209525563
+        }
+    ],
+    "wof:id":1209525563,
+    "wof:lastmodified":1536284441,
+    "wof:name":"Adkepai Tchokoukon",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08333,
+    7.3166699999999985,
+    1.08333,
+    7.3166699999999985
+],
+  "geometry": {"coordinates":[1.08333,7.31667],"type":"Point"}
+}

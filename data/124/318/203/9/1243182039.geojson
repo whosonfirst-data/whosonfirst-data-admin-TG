@@ -1,0 +1,68 @@
+{
+  "id": 1243182039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25,9.78333,1.25,9.78333",
+    "geom:latitude":9.78333,
+    "geom:longitude":1.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koloum",
+    "gn:country_code":"TG",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365880,
+    "gn:latitude":9.78333,
+    "gn:longitude":1.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421184651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365880,
+        "wk:page":"Koloum"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b0e43a3630ca6fc580839021acd6ec64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421184651,
+            "locality_id":1243182039,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1243182039,
+    "wof:lastmodified":1537573895,
+    "wof:name":"Koloum",
+    "wof:parent_id":421184651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25,
+    9.78333,
+    1.25,
+    9.78333
+],
+  "geometry": {"coordinates":[1.25,9.78333],"type":"Point"}
+}

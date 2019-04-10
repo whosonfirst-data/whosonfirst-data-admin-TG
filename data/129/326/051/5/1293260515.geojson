@@ -1,0 +1,72 @@
+{
+  "id": 1293260515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.47806,6.22806,1.47806,6.22806",
+    "geom:latitude":6.22806,
+    "geom:longitude":1.47806,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Togoville",
+    "gn:country_code":"TG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363674,
+    "gn:latitude":6.22806,
+    "gn:longitude":1.47806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Togoville",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togo",
+        "Togoville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363674,
+        "wk:page":"Togoville"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9816901dae6a391bb0cdf81f73c516b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1293260515,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1293260515,
+    "wof:lastmodified":1537702835,
+    "wof:name":"Togoville",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.47806,
+    6.22806,
+    1.47806,
+    6.22806
+],
+  "geometry": {"coordinates":[1.47806,6.22806],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193234233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39056,6.36528,1.39056,6.36528",
+    "geom:latitude":6.36528,
+    "geom:longitude":1.39056,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Hahatoe",
+    "gn:country_code":"TG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366430,
+    "gn:latitude":6.36528,
+    "gn:longitude":1.39056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hahato\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hahot\u00e9",
+        "Hahoto\u00e9",
+        "Hahato\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366430
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"8622d8f30df4c1e267b4f7ee3d678666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1193234233,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1193234233,
+    "wof:lastmodified":1537702870,
+    "wof:name":"Hahatoe",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39056,
+    6.36528,
+    1.39056,
+    6.36528
+],
+  "geometry": {"coordinates":[1.39056,6.36528],"type":"Point"}
+}

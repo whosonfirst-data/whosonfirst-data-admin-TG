@@ -1,0 +1,67 @@
+{
+  "id": 1243522769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41306,6.18222,1.41306,6.18222",
+    "geom:latitude":6.18222,
+    "geom:longitude":1.41306,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kpaglikouta",
+    "gn:country_code":"TG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365572,
+    "gn:latitude":6.18222,
+    "gn:longitude":1.41306,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Kpaglikouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365572
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"629a54ab4bfb0d6d6a4798ba8c52cc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1243522769,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1243522769,
+    "wof:lastmodified":1536695811,
+    "wof:name":"Kpaglikouta",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41306,
+    6.18222,
+    1.41306,
+    6.18222
+],
+  "geometry": {"coordinates":[1.41306,6.18222],"type":"Point"}
+}

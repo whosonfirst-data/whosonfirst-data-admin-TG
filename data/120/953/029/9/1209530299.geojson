@@ -1,0 +1,61 @@
+{
+  "id": 1209530299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31667,6.98333,1.31667,6.98333",
+    "geom:latitude":6.98333,
+    "geom:longitude":1.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Goedekope",
+    "gn:country_code":"TG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366500,
+    "gn:latitude":6.98333,
+    "gn:longitude":1.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Go\u00e9d\u00e9kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366500
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ad918d728d01fd9cb9b6c2c68cea95c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209530299
+        }
+    ],
+    "wof:id":1209530299,
+    "wof:lastmodified":1536284301,
+    "wof:name":"Goedekope",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31667,
+    6.9833300000000005,
+    1.31667,
+    6.9833300000000005
+],
+  "geometry": {"coordinates":[1.31667,6.98333],"type":"Point"}
+}

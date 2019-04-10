@@ -1,0 +1,61 @@
+{
+  "id": 1209120595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73333,10.7,0.73333,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":0.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Panseri",
+    "gn:country_code":"TG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364440,
+    "gn:latitude":10.7,
+    "gn:longitude":0.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pans\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364440
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"89eb104ea9f3f8ba65c3a097bc6c0f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209120595
+        }
+    ],
+    "wof:id":1209120595,
+    "wof:lastmodified":1536297112,
+    "wof:name":"Panseri",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73333,
+    10.7,
+    0.73333,
+    10.7
+],
+  "geometry": {"coordinates":[0.73333,10.7],"type":"Point"}
+}

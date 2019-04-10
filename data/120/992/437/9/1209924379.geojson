@@ -1,0 +1,72 @@
+{
+  "id": 1209924379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.85,6.46667,0.85,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":0.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kpatsougome",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365545,
+    "gn:latitude":6.46667,
+    "gn:longitude":0.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpatsougom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpesougom\u00e9",
+        "Kpatsougom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365545
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"02a15f5d29a4f42efe5db29a3739ff68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1209924379,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1209924379,
+    "wof:lastmodified":1537702857,
+    "wof:name":"Kpatsougome",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.85,
+    6.46667,
+    0.85,
+    6.46667
+],
+  "geometry": {"coordinates":[0.85,6.46667],"type":"Point"}
+}

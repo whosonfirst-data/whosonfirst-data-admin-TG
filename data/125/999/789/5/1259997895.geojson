@@ -1,0 +1,68 @@
+{
+  "id": 1259997895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98333,9.95,0.98333,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":0.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tantanierta",
+    "gn:country_code":"TG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363953,
+    "gn:latitude":9.95,
+    "gn:longitude":0.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tantanierta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363953,
+        "wk:page":"Tantanierta"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"203f2ca86b5c0be53e272b02d878f784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561163,
+            "locality_id":1259997895,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1259997895,
+    "wof:lastmodified":1537573887,
+    "wof:name":"Tantanierta",
+    "wof:parent_id":1108561163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98333,
+    9.95,
+    0.98333,
+    9.95
+],
+  "geometry": {"coordinates":[0.98333,9.95],"type":"Point"}
+}

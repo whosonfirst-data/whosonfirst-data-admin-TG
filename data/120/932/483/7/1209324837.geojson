@@ -1,0 +1,66 @@
+{
+  "id": 1209324837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83333,7.5,0.83333,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":0.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Eketo",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366791,
+    "gn:latitude":7.5,
+    "gn:longitude":0.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ek\u00e9to",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekot\u00e9",
+        "Ek\u00e9to"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366791
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0f165dc0f34da1f796be2de17054620b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209324837
+        }
+    ],
+    "wof:id":1209324837,
+    "wof:lastmodified":1537702875,
+    "wof:name":"Eketo",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83333,
+    7.5,
+    0.83333,
+    7.5
+],
+  "geometry": {"coordinates":[0.83333,7.5],"type":"Point"}
+}

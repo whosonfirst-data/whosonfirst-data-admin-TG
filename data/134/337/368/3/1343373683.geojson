@@ -1,0 +1,71 @@
+{
+  "id": 1343373683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96667,9.7,0.96667,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":0.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yaoute",
+    "gn:country_code":"TG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363362,
+    "gn:latitude":9.7,
+    "gn:longitude":0.96667,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yaout\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaout\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363362,
+        "wk:page":"Yaoute"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ee20f85e8c0414bfffec2161bc1b5788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1343373683,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343373683,
+    "wof:lastmodified":1537702830,
+    "wof:name":"Yaoute",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96667,
+    9.7,
+    0.96667,
+    9.7
+],
+  "geometry": {"coordinates":[0.96667,9.7],"type":"Point"}
+}

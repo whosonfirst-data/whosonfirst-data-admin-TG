@@ -1,0 +1,68 @@
+{
+  "id": 1276566845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.36667,9.85,0.36667,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":0.36667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Diadiaba",
+    "gn:country_code":"TG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367089,
+    "gn:latitude":9.85,
+    "gn:longitude":0.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diadiaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367089,
+        "wk:page":"Diadiaba"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"157408bb9b4ae191694f5276ac0ef7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1276566845,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1276566845,
+    "wof:lastmodified":1537573900,
+    "wof:name":"Diadiaba",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.36667,
+    9.85,
+    0.36667,
+    9.85
+],
+  "geometry": {"coordinates":[0.36667,9.85],"type":"Point"}
+}

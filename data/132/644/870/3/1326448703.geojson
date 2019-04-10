@@ -1,0 +1,67 @@
+{
+  "id": 1326448703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31667,9.55,0.31667,9.55",
+    "geom:latitude":9.55,
+    "geom:longitude":0.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naware",
+    "gn:country_code":"TG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364850,
+    "gn:latitude":9.55,
+    "gn:longitude":0.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nawar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364850
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"79071ed039b38874ef5514c31581a5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1326448703,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1326448703,
+    "wof:lastmodified":1536604396,
+    "wof:name":"Naware",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31667,
+    9.55,
+    0.31667,
+    9.55
+],
+  "geometry": {"coordinates":[0.31667,9.55],"type":"Point"}
+}

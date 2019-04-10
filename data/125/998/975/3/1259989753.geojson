@@ -1,0 +1,67 @@
+{
+  "id": 1259989753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75,10.35,0.75,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":0.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nagane",
+    "gn:country_code":"TG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365026,
+    "gn:latitude":10.35,
+    "gn:longitude":0.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nagan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365026
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f0b1dddc27b960c29c137d7543a603dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1259989753,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259989753,
+    "wof:lastmodified":1536624050,
+    "wof:name":"Nagane",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75,
+    10.35,
+    0.75,
+    10.35
+],
+  "geometry": {"coordinates":[0.75,10.35],"type":"Point"}
+}

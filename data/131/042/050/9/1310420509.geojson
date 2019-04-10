@@ -1,0 +1,72 @@
+{
+  "id": 1310420509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1,7.83333,1.1,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":1.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Palakoko",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364472,
+    "gn:latitude":7.83333,
+    "gn:longitude":1.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palakoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pallakoko",
+        "Palakoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364472
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"136cc5aface41df1043edd28b7556c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1310420509,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1310420509,
+    "wof:lastmodified":1537702845,
+    "wof:name":"Palakoko",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1,
+    7.83333,
+    1.1,
+    7.83333
+],
+  "geometry": {"coordinates":[1.1,7.83333],"type":"Point"}
+}

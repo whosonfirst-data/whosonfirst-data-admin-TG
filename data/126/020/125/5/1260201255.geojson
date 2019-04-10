@@ -1,0 +1,67 @@
+{
+  "id": 1260201255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56667,6.46667,1.56667,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":1.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mome Hounkpati",
+    "gn:country_code":"TG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365105,
+    "gn:latitude":6.46667,
+    "gn:longitude":1.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mom\u00e9 Hounkpati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365105
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"65c212a6e155a975ded6476757e63d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1260201255,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1260201255,
+    "wof:lastmodified":1536822689,
+    "wof:name":"Mome Hounkpati",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56667,
+    6.46667,
+    1.56667,
+    6.46667
+],
+  "geometry": {"coordinates":[1.56667,6.46667],"type":"Point"}
+}

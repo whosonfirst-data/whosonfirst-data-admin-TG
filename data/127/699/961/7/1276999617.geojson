@@ -1,0 +1,73 @@
+{
+  "id": 1276999617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.41667,10.3,0.41667,10.3",
+    "geom:latitude":10.3,
+    "geom:longitude":0.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Niambade",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364816,
+    "gn:latitude":10.3,
+    "gn:longitude":0.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niambad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadoti",
+        "Niammbad\u00e9",
+        "Niambad\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364816
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4a402852d5f4d0e0403f2124c5ae9f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1276999617,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1276999617,
+    "wof:lastmodified":1537702849,
+    "wof:name":"Niambade",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.41667,
+    10.3,
+    0.41667,
+    10.3
+],
+  "geometry": {"coordinates":[0.41667,10.3],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276999729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31667,10.85,0.31667,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":0.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tankomanti",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363964,
+    "gn:latitude":10.85,
+    "gn:longitude":0.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tankomanti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tankomonti",
+        "Tankomanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363964
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d6db5202035e8770d08e8981fa73eafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":1276999729,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1276999729,
+    "wof:lastmodified":1537702838,
+    "wof:name":"Tankomanti",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31667,
+    10.85,
+    0.31667,
+    10.85
+],
+  "geometry": {"coordinates":[0.31667,10.85],"type":"Point"}
+}

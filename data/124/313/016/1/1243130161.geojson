@@ -1,0 +1,68 @@
+{
+  "id": 1243130161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.22806,6.19917,1.22806,6.19917",
+    "geom:latitude":6.19917,
+    "geom:longitude":1.22806,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Azogenou",
+    "gn:country_code":"TG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589808,
+    "gn:latitude":6.19917,
+    "gn:longitude":1.22806,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Azog\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589808
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"fd97e70c4eb2b2718f508e97336920d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1243130161,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1243130161,
+    "wof:lastmodified":1536765059,
+    "wof:name":"Azogenou",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.22806,
+    6.19917,
+    1.22806,
+    6.19917
+],
+  "geometry": {"coordinates":[1.22806,6.19917],"type":"Point"}
+}

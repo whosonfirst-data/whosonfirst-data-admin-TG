@@ -1,0 +1,62 @@
+{
+  "id": 1209116299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75,9.46667,0.75,9.46667",
+    "geom:latitude":9.46667,
+    "geom:longitude":0.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouangan",
+    "gn:country_code":"TG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365799,
+    "gn:latitude":9.46667,
+    "gn:longitude":0.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouangan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365799,
+        "wk:page":"Kouangan"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1cb35f2eeac005b2a483b642a391d95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209116299
+        }
+    ],
+    "wof:id":1209116299,
+    "wof:lastmodified":1537573895,
+    "wof:name":"Kouangan",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75,
+    9.46667,
+    0.75,
+    9.46667
+],
+  "geometry": {"coordinates":[0.75,9.46667],"type":"Point"}
+}

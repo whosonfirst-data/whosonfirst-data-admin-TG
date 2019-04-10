@@ -1,0 +1,75 @@
+{
+  "id": 1326799147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31833,9.57194,1.31833,9.57194",
+    "geom:latitude":9.57194,
+    "geom:longitude":1.31833,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Sirka",
+    "gn:country_code":"TG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364123,
+    "gn:latitude":9.57194,
+    "gn:longitude":1.31833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sirka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lolu",
+        "Ssirka",
+        "Adumd\u00e9",
+        "Anand\u00e9",
+        "Sirka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421184651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364123,
+        "wk:page":"Adumd%C3%A9"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"286ee1bd81856734cd7d8fafd6eee7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421184651,
+            "locality_id":1326799147,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1326799147,
+    "wof:lastmodified":1537702841,
+    "wof:name":"Sirka",
+    "wof:parent_id":421184651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31833,
+    9.57194,
+    1.31833,
+    9.57194
+],
+  "geometry": {"coordinates":[1.31833,9.57194],"type":"Point"}
+}

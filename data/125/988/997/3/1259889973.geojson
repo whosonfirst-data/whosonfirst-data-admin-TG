@@ -1,0 +1,72 @@
+{
+  "id": 1259889973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03333,6.55,1.03333,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":1.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Batekpo",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367550,
+    "gn:latitude":6.55,
+    "gn:longitude":1.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bat\u00e9kpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u00e9kpo",
+        "Bat\u00e9kpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367550
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"dd07aa5fb1f8c272b0c3791b724d997e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1259889973,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1259889973,
+    "wof:lastmodified":1537702884,
+    "wof:name":"Batekpo",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03333,
+    6.55,
+    1.03333,
+    6.55
+],
+  "geometry": {"coordinates":[1.03333,6.55],"type":"Point"}
+}

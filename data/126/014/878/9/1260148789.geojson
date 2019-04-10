@@ -1,0 +1,72 @@
+{
+  "id": 1260148789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.28167,6.29806,1.28167,6.29806",
+    "geom:latitude":6.29806,
+    "geom:longitude":1.28167,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Adjoguidi",
+    "gn:country_code":"TG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368518,
+    "gn:latitude":6.29806,
+    "gn:longitude":1.28167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adjoguidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adjogidi",
+        "Adjob\u00e9ti Kop\u00e9",
+        "Adjoguidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368518
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"56cdcaf9ec8ca02ccf7c5360a8cf3882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1260148789,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1260148789,
+    "wof:lastmodified":1537702898,
+    "wof:name":"Adjoguidi",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.28167,
+    6.29806,
+    1.28167,
+    6.29806
+],
+  "geometry": {"coordinates":[1.28167,6.29806],"type":"Point"}
+}

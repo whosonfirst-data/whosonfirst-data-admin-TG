@@ -1,0 +1,73 @@
+{
+  "id": 1259997639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.81667,9.76667,0.81667,9.76667",
+    "geom:latitude":9.76667,
+    "geom:longitude":0.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bassambo",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367569,
+    "gn:latitude":9.76667,
+    "gn:longitude":0.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bassambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bassammbo",
+        "Bassambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367569,
+        "wk:page":"Bassambo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0dce454d13ec346a9ab95f3f1bd1448d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1259997639,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1259997639,
+    "wof:lastmodified":1537702884,
+    "wof:name":"Bassambo",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.81667,
+    9.76667,
+    0.81667,
+    9.76667
+],
+  "geometry": {"coordinates":[0.81667,9.76667],"type":"Point"}
+}

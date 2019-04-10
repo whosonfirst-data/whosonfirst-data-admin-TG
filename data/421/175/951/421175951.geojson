@@ -1,0 +1,103 @@
+{
+  "id": 421175951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9,7.46667,0.9,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":0.9,
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Amlam\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "Amlam\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Amlam\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "Amlam\u00e9"
+    ],
+    "name:lit_x_preferred":[
+        "Amlam\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u043b\u0430\u043c\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Emla"
+    ],
+    "qs:gn_country":"TG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2368035,
+    "qs:gn_pop":9870,
+    "qs:name":"Amlam\u00e9",
+    "qs:name_adm0":"Togo",
+    "qs:name_adm1":"Plateaux",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1035285,
+    "qs:woe_adm0":23424965,
+    "qs:woe_id":1438176,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368035,
+        "gp:id":1438176,
+        "qs:id":1035285,
+        "wd:id":"Q2080085",
+        "wk:page":"Amlam\u00e9"
+    },
+    "wof:country":"TG",
+    "wof:created":1459009085,
+    "wof:geomhash":"18b2ebef0d2e3577fdc6187ffb293564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561189,
+            "locality_id":421175951,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":421175951,
+    "wof:lastmodified":1527716342,
+    "wof:name":"Amlam\u00e9",
+    "wof:parent_id":1108561189,
+    "wof:placetype":"locality",
+    "wof:population":9870,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9,
+    7.46667,
+    0.9,
+    7.46667
+],
+  "geometry": {"coordinates":[0.9,7.46667],"type":"Point"}
+}

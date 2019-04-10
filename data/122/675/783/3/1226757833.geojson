@@ -1,0 +1,73 @@
+{
+  "id": 1226757833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25,9.8,1.25,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":1.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Konfesse",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365847,
+    "gn:latitude":9.8,
+    "gn:longitude":1.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konfesse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konfese",
+        "Konfesse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421184651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365847,
+        "wk:page":"Konfesse"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7bbe065d5753f724bcfac3805ed9cdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421184651,
+            "locality_id":1226757833,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1226757833,
+    "wof:lastmodified":1537702862,
+    "wof:name":"Konfesse",
+    "wof:parent_id":421184651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25,
+    9.8,
+    1.25,
+    9.8
+],
+  "geometry": {"coordinates":[1.25,9.8],"type":"Point"}
+}

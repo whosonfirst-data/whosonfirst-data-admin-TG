@@ -1,0 +1,67 @@
+{
+  "id": 1326848599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.38333,10.81667,0.38333,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":0.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kankanpieni",
+    "gn:country_code":"TG",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366176,
+    "gn:latitude":10.81667,
+    "gn:longitude":0.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kankanpi\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366176
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7a9f40ef4bc3033c1ab88212d2d18ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1326848599,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1326848599,
+    "wof:lastmodified":1537024099,
+    "wof:name":"Kankanpieni",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.38333,
+    10.81667,
+    0.38333,
+    10.81667
+],
+  "geometry": {"coordinates":[0.38333,10.81667],"type":"Point"}
+}

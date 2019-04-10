@@ -1,0 +1,67 @@
+{
+  "id": 1343680307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.64836,10.25915,0.64836,10.25915",
+    "geom:latitude":10.25915,
+    "geom:longitude":0.64836,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sagbiabou",
+    "gn:country_code":"TG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364287,
+    "gn:latitude":10.25915,
+    "gn:longitude":0.64836,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sagbiabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364287
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"53110a7754585d78a5c287cdb134335b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1343680307,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1343680307,
+    "wof:lastmodified":1536927127,
+    "wof:name":"Sagbiabou",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.64836,
+    10.25915,
+    0.64836,
+    10.25915
+],
+  "geometry": {"coordinates":[0.64836,10.25915],"type":"Point"}
+}

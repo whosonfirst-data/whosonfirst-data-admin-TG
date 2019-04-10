@@ -1,0 +1,71 @@
+{
+  "id": 1276827067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23389,6.46472,1.23389,6.46472",
+    "geom:latitude":6.46472,
+    "geom:longitude":1.23389,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kolokope",
+    "gn:country_code":"TG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365887,
+    "gn:latitude":6.46472,
+    "gn:longitude":1.23389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolokop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petchi Kop\u00e9",
+        "Kolokop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365887
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5a31dedd73d81a81149feecc00d08988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1276827067,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276827067,
+    "wof:lastmodified":1537702863,
+    "wof:name":"Kolokope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23389,
+    6.46472,
+    1.23389,
+    6.46472
+],
+  "geometry": {"coordinates":[1.23389,6.46472],"type":"Point"}
+}

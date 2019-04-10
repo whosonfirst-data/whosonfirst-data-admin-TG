@@ -1,0 +1,67 @@
+{
+  "id": 1326745077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48333,10.35,0.48333,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":0.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sangbana",
+    "gn:country_code":"TG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364248,
+    "gn:latitude":10.35,
+    "gn:longitude":0.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sangbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364248
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e7e100385687f69a157e0853cfe87b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1326745077,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1326745077,
+    "wof:lastmodified":1536677109,
+    "wof:name":"Sangbana",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48333,
+    10.35,
+    0.48333,
+    10.35
+],
+  "geometry": {"coordinates":[0.48333,10.35],"type":"Point"}
+}

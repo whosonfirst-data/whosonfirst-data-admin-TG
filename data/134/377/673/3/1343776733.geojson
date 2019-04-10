@@ -1,0 +1,72 @@
+{
+  "id": 1343776733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95,6.51667,0.95,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":0.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bedjikpe",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367530,
+    "gn:latitude":6.51667,
+    "gn:longitude":0.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9djikp\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9dikp\u00e9",
+        "B\u00e9djikp\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367530
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d15e8fba2b9fc1e93a554e6b90ca2cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1343776733,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343776733,
+    "wof:lastmodified":1537702884,
+    "wof:name":"Bedjikpe",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95,
+    6.51667,
+    0.95,
+    6.51667
+],
+  "geometry": {"coordinates":[0.95,6.51667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209324637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91667,6.41667,0.91667,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":0.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Have Yope",
+    "gn:country_code":"TG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366417,
+    "gn:latitude":6.41667,
+    "gn:longitude":0.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Hav\u00e9 Yop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366417
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a055ada033c3e2ffb38eb9e2a245c5c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209324637
+        }
+    ],
+    "wof:id":1209324637,
+    "wof:lastmodified":1536290573,
+    "wof:name":"Have Yope",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91667,
+    6.41667,
+    0.91667,
+    6.41667
+],
+  "geometry": {"coordinates":[0.91667,6.41667],"type":"Point"}
+}

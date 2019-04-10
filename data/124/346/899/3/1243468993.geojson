@@ -1,0 +1,68 @@
+{
+  "id": 1243468993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53333,9.56667,0.53333,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":0.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Niagbangbou",
+    "gn:country_code":"TG",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364830,
+    "gn:latitude":9.56667,
+    "gn:longitude":0.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niagbangbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364830,
+        "wk:page":"Niagbangbou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3b002a3921cc22bcbcc264f30e6d0c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1243468993,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1243468993,
+    "wof:lastmodified":1537573891,
+    "wof:name":"Niagbangbou",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53333,
+    9.56667,
+    0.53333,
+    9.56667
+],
+  "geometry": {"coordinates":[0.53333,9.56667],"type":"Point"}
+}

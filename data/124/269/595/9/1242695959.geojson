@@ -1,0 +1,72 @@
+{
+  "id": 1242695959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96667,6.51667,0.96667,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":0.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lomoe",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365257,
+    "gn:latitude":6.51667,
+    "gn:longitude":0.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lomo\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemou\u00e9",
+        "Lomo\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365257
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d062483b029d938012457e9e1c377f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1242695959,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1242695959,
+    "wof:lastmodified":1537702854,
+    "wof:name":"Lomoe",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96667,
+    6.51667,
+    0.96667,
+    6.51667
+],
+  "geometry": {"coordinates":[0.96667,6.51667],"type":"Point"}
+}

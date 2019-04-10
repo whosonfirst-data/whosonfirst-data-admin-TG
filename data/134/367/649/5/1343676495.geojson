@@ -1,0 +1,74 @@
+{
+  "id": 1343676495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.56667,6.95,0.56667,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":0.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kloto",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365983,
+    "gn:latitude":6.95,
+    "gn:longitude":0.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kloto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hausberg",
+        "Klouto",
+        "Kluto",
+        "Kloto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365983
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3c924d07146682b5a3f13f96b16c3929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561193,
+            "locality_id":1343676495,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1343676495,
+    "wof:lastmodified":1537702863,
+    "wof:name":"Kloto",
+    "wof:parent_id":1108561193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.56667,
+    6.95,
+    0.56667,
+    6.95
+],
+  "geometry": {"coordinates":[0.56667,6.95],"type":"Point"}
+}

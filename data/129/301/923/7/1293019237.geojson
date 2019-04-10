@@ -1,0 +1,71 @@
+{
+  "id": 1293019237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25,9.23333,1.25,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":1.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fazade",
+    "gn:country_code":"TG",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366715,
+    "gn:latitude":9.23333,
+    "gn:longitude":1.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fazad\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fazad\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366715,
+        "wk:page":"Fazade"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b12565fc160968fb21a8121cb69bd2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1293019237,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1293019237,
+    "wof:lastmodified":1537702874,
+    "wof:name":"Fazade",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25,
+    9.23333,
+    1.25,
+    9.23333
+],
+  "geometry": {"coordinates":[1.25,9.23333],"type":"Point"}
+}

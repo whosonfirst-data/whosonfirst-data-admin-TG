@@ -1,0 +1,67 @@
+{
+  "id": 1225863273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.21667,6.83333,1.21667,6.83333",
+    "geom:latitude":6.83333,
+    "geom:longitude":1.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dalia",
+    "gn:country_code":"TG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367183,
+    "gn:latitude":6.83333,
+    "gn:longitude":1.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367183
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"80bd94601c4823bd3161f0954fc12d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1225863273,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1225863273,
+    "wof:lastmodified":1536987597,
+    "wof:name":"Dalia",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.21667,
+    6.83333,
+    1.21667,
+    6.83333
+],
+  "geometry": {"coordinates":[1.21667,6.83333],"type":"Point"}
+}

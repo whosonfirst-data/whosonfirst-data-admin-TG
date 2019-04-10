@@ -1,0 +1,67 @@
+{
+  "id": 1310214893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6,6.23333,1.6,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":1.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Landjo",
+    "gn:country_code":"TG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365370,
+    "gn:latitude":6.23333,
+    "gn:longitude":1.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Landjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365370
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"fe68148b07c43f884912995f2a397c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1310214893,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310214893,
+    "wof:lastmodified":1536837584,
+    "wof:name":"Landjo",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6,
+    6.23333,
+    1.6,
+    6.23333
+],
+  "geometry": {"coordinates":[1.6,6.23333],"type":"Point"}
+}

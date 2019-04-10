@@ -1,0 +1,76 @@
+{
+  "id": 1343280327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56667,6.76667,1.56667,6.76667",
+    "geom:latitude":6.76667,
+    "geom:longitude":1.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ksipe Afidenyon",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365413,
+    "gn:latitude":6.76667,
+    "gn:longitude":1.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ksip\u00e9 Afid\u00e9nyon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afidenyukonyi",
+        "Ksip\u00e9 Afid\u00e9gnon",
+        "Afidenjonskp\u00e9",
+        "Mid\u00e9god\u00e9",
+        "Afid\u00e9nyon-Sikp\u00e9",
+        "Ksip\u00e9 Afid\u00e9nyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365413
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"792c46dbfb6d016b9bf53e7e20d571fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561197,
+            "locality_id":1343280327,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343280327,
+    "wof:lastmodified":1537702856,
+    "wof:name":"Ksipe Afidenyon",
+    "wof:parent_id":1108561197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56667,
+    6.76667,
+    1.56667,
+    6.76667
+],
+  "geometry": {"coordinates":[1.56667,6.76667],"type":"Point"}
+}

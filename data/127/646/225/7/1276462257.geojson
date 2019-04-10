@@ -1,0 +1,67 @@
+{
+  "id": 1276462257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63333,7.53333,1.63333,7.53333",
+    "geom:latitude":7.53333,
+    "geom:longitude":1.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lopoli",
+    "gn:country_code":"TG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365252,
+    "gn:latitude":7.53333,
+    "gn:longitude":1.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lopoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365252
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"92f8e48f478c6248c4276a77d7f6f7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1276462257,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1276462257,
+    "wof:lastmodified":1536602901,
+    "wof:name":"Lopoli",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63333,
+    7.53333,
+    1.63333,
+    7.53333
+],
+  "geometry": {"coordinates":[1.63333,7.53333],"type":"Point"}
+}

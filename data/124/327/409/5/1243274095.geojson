@@ -1,0 +1,67 @@
+{
+  "id": 1243274095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1,9.01667,1.1,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":1.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bambouye",
+    "gn:country_code":"TG",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367611,
+    "gn:latitude":9.01667,
+    "gn:longitude":1.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Bambouy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367611
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c2f116e8743754fa53f1af57b398be22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1243274095,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1243274095,
+    "wof:lastmodified":1537051712,
+    "wof:name":"Bambouye",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1,
+    9.01667,
+    1.1,
+    9.01667
+],
+  "geometry": {"coordinates":[1.1,9.01667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293307483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.66667,11.0,0.66667,11.0",
+    "geom:latitude":11.0,
+    "geom:longitude":0.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kankandino",
+    "gn:country_code":"TG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366185,
+    "gn:latitude":11.0,
+    "gn:longitude":0.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kankandino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833,
+        85632213,
+        1108805685,
+        890453941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366185
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c1762737010386160b7f7eeb70bfc9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1293307483,
+            "region_id":85678549
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453941,
+            "locality_id":1293307483,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1293307483,
+    "wof:lastmodified":1537044607,
+    "wof:name":"Kankandino",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.66667,
+    11.0,
+    0.66667,
+    11.0
+],
+  "geometry": {"coordinates":[0.66667,11.0],"type":"Point"}
+}

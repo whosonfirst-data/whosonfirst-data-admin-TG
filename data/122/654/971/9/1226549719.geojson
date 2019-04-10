@@ -1,0 +1,72 @@
+{
+  "id": 1226549719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61667,7.56667,1.61667,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":1.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouffota",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365750,
+    "gn:latitude":7.56667,
+    "gn:longitude":1.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouffota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Couffota",
+        "Kouffota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365750
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"df51aea06cf66efe68713add20a8b41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1226549719,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1226549719,
+    "wof:lastmodified":1537702860,
+    "wof:name":"Kouffota",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61667,
+    7.56667,
+    1.61667,
+    7.56667
+],
+  "geometry": {"coordinates":[1.61667,7.56667],"type":"Point"}
+}

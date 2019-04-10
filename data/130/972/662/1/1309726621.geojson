@@ -1,0 +1,68 @@
+{
+  "id": 1309726621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.45,9.63333,0.45,9.63333",
+    "geom:latitude":9.63333,
+    "geom:longitude":0.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Liagalbou",
+    "gn:country_code":"TG",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365316,
+    "gn:latitude":9.63333,
+    "gn:longitude":0.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Liagalbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365316,
+        "wk:page":"Liagalbou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0f1c5a064e6b1635725cd1d54f8f0939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1309726621,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1309726621,
+    "wof:lastmodified":1537573893,
+    "wof:name":"Liagalbou",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.45,
+    9.63333,
+    0.45,
+    9.63333
+],
+  "geometry": {"coordinates":[0.45,9.63333],"type":"Point"}
+}

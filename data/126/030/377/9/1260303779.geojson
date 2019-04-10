@@ -1,0 +1,72 @@
+{
+  "id": 1260303779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.25,10.63333,0.25,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":0.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Moumouane",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365075,
+    "gn:latitude":10.63333,
+    "gn:longitude":0.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moumouan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momoan\u00e9",
+        "Moumouan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365075
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"86ec8f7ba7d5c73713afd7c400b14e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561159,
+            "locality_id":1260303779,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1260303779,
+    "wof:lastmodified":1537702852,
+    "wof:name":"Moumouane",
+    "wof:parent_id":1108561159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.25,
+    10.63333,
+    0.25,
+    10.63333
+],
+  "geometry": {"coordinates":[0.25,10.63333],"type":"Point"}
+}

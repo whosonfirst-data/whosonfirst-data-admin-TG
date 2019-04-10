@@ -1,0 +1,65 @@
+{
+  "id": 1209429823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18333,9.8,1.18333,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":1.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Padebe",
+    "gn:country_code":"TG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364498,
+    "gn:latitude":9.8,
+    "gn:longitude":1.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pad\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pad\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364498,
+        "wk:page":"Padebe"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c9dbc57a58162bd1a6e891fcc5319a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209429823
+        }
+    ],
+    "wof:id":1209429823,
+    "wof:lastmodified":1537702845,
+    "wof:name":"Padebe",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18333,
+    9.8,
+    1.18333,
+    9.8
+],
+  "geometry": {"coordinates":[1.18333,9.8],"type":"Point"}
+}

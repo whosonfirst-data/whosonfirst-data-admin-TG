@@ -1,0 +1,76 @@
+{
+  "id": 1259593289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96667,8.53333,0.96667,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":0.96667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Djabatore",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367034,
+    "gn:latitude":8.53333,
+    "gn:longitude":0.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djabator\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dyabotaour\u00e9",
+        "Djabotaure",
+        "Djabataur\u00e9",
+        "Djabataour\u00e9",
+        "Djebotaur\u00e9",
+        "Djabator\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367034
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"cd76371ae259291d1ff180c6fe04e35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561179,
+            "locality_id":1259593289,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1259593289,
+    "wof:lastmodified":1537702878,
+    "wof:name":"Djabatore",
+    "wof:parent_id":1108561179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96667,
+    8.53333,
+    0.96667,
+    8.53333
+],
+  "geometry": {"coordinates":[0.96667,8.53333],"type":"Point"}
+}

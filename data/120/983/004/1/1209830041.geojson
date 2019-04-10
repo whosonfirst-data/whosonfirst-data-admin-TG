@@ -1,0 +1,67 @@
+{
+  "id": 1209830041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6,8.13333,1.6,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":1.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atepa",
+    "gn:country_code":"TG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367842,
+    "gn:latitude":8.13333,
+    "gn:longitude":1.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"At\u00e9pa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367842
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"51bd2cac8c05cb52ba1e5733518968f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561183,
+            "locality_id":1209830041,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1209830041,
+    "wof:lastmodified":1536369412,
+    "wof:name":"Atepa",
+    "wof:parent_id":1108561183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6,
+    8.13333,
+    1.6,
+    8.13333
+],
+  "geometry": {"coordinates":[1.6,8.13333],"type":"Point"}
+}

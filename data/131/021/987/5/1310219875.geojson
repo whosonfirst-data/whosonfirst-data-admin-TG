@@ -1,0 +1,68 @@
+{
+  "id": 1310219875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.45,9.6,0.45,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":0.45,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koutobi",
+    "gn:country_code":"TG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365604,
+    "gn:latitude":9.6,
+    "gn:longitude":0.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koutobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365604,
+        "wk:page":"Koutobi"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"758a14dbdb67ae02478bd4287976ba19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1310219875,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1310219875,
+    "wof:lastmodified":1537573894,
+    "wof:name":"Koutobi",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.45,
+    9.6,
+    0.45,
+    9.6
+],
+  "geometry": {"coordinates":[0.45,9.6],"type":"Point"}
+}

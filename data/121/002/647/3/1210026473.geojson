@@ -1,0 +1,72 @@
+{
+  "id": 1210026473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18333,6.73333,1.18333,6.73333",
+    "geom:latitude":6.73333,
+    "geom:longitude":1.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Game",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366632,
+    "gn:latitude":6.73333,
+    "gn:longitude":1.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gain\u00e9",
+        "Gam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366632
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"386fee3bdaea1cd1b76a7f16e56f3aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1210026473,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1210026473,
+    "wof:lastmodified":1537702872,
+    "wof:name":"Game",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18333,
+    6.73333,
+    1.18333,
+    6.73333
+],
+  "geometry": {"coordinates":[1.18333,6.73333],"type":"Point"}
+}

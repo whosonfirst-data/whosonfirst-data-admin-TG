@@ -1,0 +1,67 @@
+{
+  "id": 1310214921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18333,7.26667,1.18333,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":1.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pogan",
+    "gn:country_code":"TG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364365,
+    "gn:latitude":7.26667,
+    "gn:longitude":1.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pogan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364365
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"665cfb06c4112d95dc5bd591b09f7acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1310214921,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1310214921,
+    "wof:lastmodified":1536837544,
+    "wof:name":"Pogan",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18333,
+    7.26667,
+    1.18333,
+    7.26667
+],
+  "geometry": {"coordinates":[1.18333,7.26667],"type":"Point"}
+}

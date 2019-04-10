@@ -1,0 +1,71 @@
+{
+  "id": 1326888281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.3375,6.32778,1.3375,6.32778",
+    "geom:latitude":6.32778,
+    "geom:longitude":1.3375,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Akadiame",
+    "gn:country_code":"TG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366282,
+    "gn:latitude":6.32778,
+    "gn:longitude":1.3375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akadiam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadiam\u00e9",
+        "Akadiam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366282
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c60efea2ee323a9cf051fe06dda6a8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1326888281,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1326888281,
+    "wof:lastmodified":1537702867,
+    "wof:name":"Akadiame",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.3375,
+    6.32778,
+    1.3375,
+    6.32778
+],
+  "geometry": {"coordinates":[1.3375,6.32778],"type":"Point"}
+}

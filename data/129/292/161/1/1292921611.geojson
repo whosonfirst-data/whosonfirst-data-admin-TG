@@ -1,0 +1,72 @@
+{
+  "id": 1292921611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95,7.5,0.95,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":0.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ayome",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367701,
+    "gn:latitude":7.5,
+    "gn:longitude":0.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajom\u00e9",
+        "Ayom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367701
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"91d9173641b49889edee4cb7ea3faca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561189,
+            "locality_id":1292921611,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1292921611,
+    "wof:lastmodified":1537702886,
+    "wof:name":"Ayome",
+    "wof:parent_id":1108561189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95,
+    7.5,
+    0.95,
+    7.5
+],
+  "geometry": {"coordinates":[0.95,7.5],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310023951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.67232,8.76648,0.67232,8.76648",
+    "geom:latitude":8.76648,
+    "geom:longitude":0.67232,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boulohou",
+    "gn:country_code":"TG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367303,
+    "gn:latitude":8.76648,
+    "gn:longitude":0.67232,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Boulohou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gboloho",
+        "Boulo",
+        "Boulohou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367303
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"82682f906cae5990f158e965343e4223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561179,
+            "locality_id":1310023951,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1310023951,
+    "wof:lastmodified":1537702881,
+    "wof:name":"Boulohou",
+    "wof:parent_id":1108561179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.67232,
+    8.76648,
+    0.67232,
+    8.76648
+],
+  "geometry": {"coordinates":[0.67232,8.76648],"type":"Point"}
+}

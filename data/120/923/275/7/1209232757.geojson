@@ -1,0 +1,66 @@
+{
+  "id": 1209232757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98333,8.2,0.98333,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":0.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Adaniabo",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368587,
+    "gn:latitude":8.2,
+    "gn:longitude":0.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adaniabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adamiabo",
+        "Adaniabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368587
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"95985b5b7c04f04f5766ef5c1b946f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209232757
+        }
+    ],
+    "wof:id":1209232757,
+    "wof:lastmodified":1537702900,
+    "wof:name":"Adaniabo",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98333,
+    8.2,
+    0.98333,
+    8.2
+],
+  "geometry": {"coordinates":[0.98333,8.2],"type":"Point"}
+}

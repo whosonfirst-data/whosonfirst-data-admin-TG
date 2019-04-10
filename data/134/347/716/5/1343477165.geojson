@@ -1,0 +1,67 @@
+{
+  "id": 1343477165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18333,9.6,1.18333,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":1.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kpeda",
+    "gn:country_code":"TG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365539,
+    "gn:latitude":9.6,
+    "gn:longitude":1.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kp\u00e9da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421187889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365539
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d3a3d626916257c1a208ff02267d60f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421187889,
+            "locality_id":1343477165,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343477165,
+    "wof:lastmodified":1536722368,
+    "wof:name":"Kpeda",
+    "wof:parent_id":421187889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18333,
+    9.6,
+    1.18333,
+    9.6
+],
+  "geometry": {"coordinates":[1.18333,9.6],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226157675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68333,6.76667,0.68333,6.76667",
+    "geom:latitude":6.76667,
+    "geom:longitude":0.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sodokekope",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364112,
+    "gn:latitude":6.76667,
+    "gn:longitude":0.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sodok\u00e9kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadoulakop\u00e9",
+        "Sodok\u00e9kop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421171045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364112
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b44bff69b4939be513a96c521c53092a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171045,
+            "locality_id":1226157675,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1226157675,
+    "wof:lastmodified":1537702840,
+    "wof:name":"Sodokekope",
+    "wof:parent_id":421171045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68333,
+    6.76667,
+    0.68333,
+    6.76667
+],
+  "geometry": {"coordinates":[0.68333,6.76667],"type":"Point"}
+}

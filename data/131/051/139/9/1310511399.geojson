@@ -1,0 +1,67 @@
+{
+  "id": 1310511399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73333,7.86667,0.73333,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":0.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Seregbane",
+    "gn:country_code":"TG",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364175,
+    "gn:latitude":7.86667,
+    "gn:longitude":0.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Seregban\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364175
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e87ac28c30225bc80f74576a758ebd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561187,
+            "locality_id":1310511399,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1310511399,
+    "wof:lastmodified":1536908602,
+    "wof:name":"Seregbane",
+    "wof:parent_id":1108561187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73333,
+    7.86667,
+    0.73333,
+    7.86667
+],
+  "geometry": {"coordinates":[0.73333,7.86667],"type":"Point"}
+}

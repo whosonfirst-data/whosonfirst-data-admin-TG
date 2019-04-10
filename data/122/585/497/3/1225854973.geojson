@@ -1,0 +1,72 @@
+{
+  "id": 1225854973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03333,6.66667,1.03333,6.66667",
+    "geom:latitude":6.66667,
+    "geom:longitude":1.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Togodue",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363681,
+    "gn:latitude":6.66667,
+    "gn:longitude":1.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Togodu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togodo\u00e9",
+        "Togodu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363681
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"aaaf7c3709dacb172125d0b3d10f9ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1225854973,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1225854973,
+    "wof:lastmodified":1537702835,
+    "wof:name":"Togodue",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03333,
+    6.66667,
+    1.03333,
+    6.66667
+],
+  "geometry": {"coordinates":[1.03333,6.66667],"type":"Point"}
+}

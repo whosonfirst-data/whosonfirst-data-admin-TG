@@ -1,0 +1,63 @@
+{
+  "id": 1276676291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58333,6.21667,1.58333,6.21667",
+    "geom:latitude":6.21667,
+    "geom:longitude":1.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Togbe Sokou",
+    "gn:country_code":"TG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363692,
+    "gn:latitude":6.21667,
+    "gn:longitude":1.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Togb\u00e9 Sokou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363692
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"baae6979eec3cd46c5dcc1f5cbb274fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1276676291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276676291,
+    "wof:lastmodified":1536815420,
+    "wof:name":"Togbe Sokou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58333,
+    6.21667,
+    1.58333,
+    6.21667
+],
+  "geometry": {"coordinates":[1.58333,6.21667],"type":"Point"}
+}

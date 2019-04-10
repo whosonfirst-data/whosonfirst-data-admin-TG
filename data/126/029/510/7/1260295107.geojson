@@ -1,0 +1,68 @@
+{
+  "id": 1260295107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91667,9.45,0.91667,9.45",
+    "geom:latitude":9.45,
+    "geom:longitude":0.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bounkouloum",
+    "gn:country_code":"TG",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367279,
+    "gn:latitude":9.45,
+    "gn:longitude":0.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bounkouloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367279,
+        "wk:page":"Bounkouloum"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"871399373c43a80c89480cce114b25b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1260295107,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1260295107,
+    "wof:lastmodified":1537573901,
+    "wof:name":"Bounkouloum",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91667,
+    9.45,
+    0.91667,
+    9.45
+],
+  "geometry": {"coordinates":[0.91667,9.45],"type":"Point"}
+}

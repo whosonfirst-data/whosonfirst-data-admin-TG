@@ -1,0 +1,67 @@
+{
+  "id": 1327152647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.31667,9.48333,1.31667,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":1.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aban",
+    "gn:country_code":"TG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368644,
+    "gn:latitude":9.48333,
+    "gn:longitude":1.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Aban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421187889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368644
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"dfddbab3600da57dc50a55cca317c0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421187889,
+            "locality_id":1327152647,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1327152647,
+    "wof:lastmodified":1537081565,
+    "wof:name":"Aban",
+    "wof:parent_id":421187889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.31667,
+    9.48333,
+    1.31667,
+    9.48333
+],
+  "geometry": {"coordinates":[1.31667,9.48333],"type":"Point"}
+}

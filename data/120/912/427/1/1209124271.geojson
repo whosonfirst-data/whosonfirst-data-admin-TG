@@ -1,0 +1,66 @@
+{
+  "id": 1209124271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.11667,7.6,1.11667,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":1.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Abanakope",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368643,
+    "gn:latitude":7.6,
+    "gn:longitude":1.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Abanakop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbokop\u00e9",
+        "Abanakop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368643
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3da5be272d2f257ae06f2b0c0ef10291",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209124271
+        }
+    ],
+    "wof:id":1209124271,
+    "wof:lastmodified":1537702900,
+    "wof:name":"Abanakope",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.11667,
+    7.6,
+    1.11667,
+    7.6
+],
+  "geometry": {"coordinates":[1.11667,7.6],"type":"Point"}
+}

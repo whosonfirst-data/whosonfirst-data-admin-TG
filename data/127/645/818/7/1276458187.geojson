@@ -1,0 +1,67 @@
+{
+  "id": 1276458187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2,7.3,1.2,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":1.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gnaguidikope",
+    "gn:country_code":"TG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366519,
+    "gn:latitude":7.3,
+    "gn:longitude":1.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gnaguidikop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366519
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a81f2a1d3ac265d83726cf0304586e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1276458187,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1276458187,
+    "wof:lastmodified":1536608605,
+    "wof:name":"Gnaguidikope",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2,
+    7.3,
+    1.2,
+    7.3
+],
+  "geometry": {"coordinates":[1.2,7.3],"type":"Point"}
+}

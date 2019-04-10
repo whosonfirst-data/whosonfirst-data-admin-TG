@@ -1,0 +1,73 @@
+{
+  "id": 1326686149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80306,9.82611,0.80306,9.82611",
+    "geom:latitude":9.82611,
+    "geom:longitude":0.80306,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Koutier",
+    "gn:country_code":"TG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365610,
+    "gn:latitude":9.82611,
+    "gn:longitude":0.80306,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kouti\u00e8r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouti\u00e9",
+        "Kouti\u00e8re",
+        "Kouti\u00e8r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365610,
+        "wk:page":"Koutiere"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6d318277e350b17e22771f6a34b64368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1326686149,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1326686149,
+    "wof:lastmodified":1537702858,
+    "wof:name":"Koutier",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80306,
+    9.82611,
+    0.80306,
+    9.82611
+],
+  "geometry": {"coordinates":[0.80306,9.82611],"type":"Point"}
+}

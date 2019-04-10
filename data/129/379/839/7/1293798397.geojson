@@ -1,0 +1,67 @@
+{
+  "id": 1293798397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06667,6.98333,1.06667,6.98333",
+    "geom:latitude":6.98333,
+    "geom:longitude":1.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agnikoe",
+    "gn:country_code":"TG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368350,
+    "gn:latitude":6.98333,
+    "gn:longitude":1.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Agniko\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368350
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d46b7143252e1f25ef6ef3ecce75631a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1293798397,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1293798397,
+    "wof:lastmodified":1536834819,
+    "wof:name":"Agnikoe",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06667,
+    6.98333,
+    1.06667,
+    6.98333
+],
+  "geometry": {"coordinates":[1.06667,6.98333],"type":"Point"}
+}

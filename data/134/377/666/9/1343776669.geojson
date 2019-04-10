@@ -1,0 +1,71 @@
+{
+  "id": 1343776669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.85,9.66667,0.85,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":0.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makalea",
+    "gn:country_code":"TG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365222,
+    "gn:latitude":9.66667,
+    "gn:longitude":0.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Makal\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makal\u00e9a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365222,
+        "wk:page":"Makalea"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a672337752bedde77353775c2af418bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1343776669,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343776669,
+    "wof:lastmodified":1537702854,
+    "wof:name":"Makalea",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.85,
+    9.66667,
+    0.85,
+    9.66667
+],
+  "geometry": {"coordinates":[0.85,9.66667],"type":"Point"}
+}

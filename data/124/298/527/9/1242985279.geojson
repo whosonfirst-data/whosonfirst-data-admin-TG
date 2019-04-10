@@ -1,0 +1,71 @@
+{
+  "id": 1242985279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23333,9.23333,1.23333,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":1.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kemini",
+    "gn:country_code":"TG",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366064,
+    "gn:latitude":9.23333,
+    "gn:longitude":1.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9mini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9mini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366064,
+        "wk:page":"Kemini"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0595115c21aede84dc7f9f24400c68ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1242985279,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1242985279,
+    "wof:lastmodified":1537702865,
+    "wof:name":"Kemini",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23333,
+    9.23333,
+    1.23333,
+    9.23333
+],
+  "geometry": {"coordinates":[1.23333,9.23333],"type":"Point"}
+}

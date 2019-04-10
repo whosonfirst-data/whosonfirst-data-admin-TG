@@ -1,0 +1,72 @@
+{
+  "id": 1259501601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93333,8.31667,0.93333,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":0.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Doufouli",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366857,
+    "gn:latitude":8.31667,
+    "gn:longitude":0.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doufouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dofoli",
+        "Doufouli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366857
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a100e26a47c1e15a8ab43f324e140c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561181,
+            "locality_id":1259501601,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1259501601,
+    "wof:lastmodified":1537702876,
+    "wof:name":"Doufouli",
+    "wof:parent_id":1108561181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93333,
+    8.31667,
+    0.93333,
+    8.31667
+],
+  "geometry": {"coordinates":[0.93333,8.31667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209014411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.78333,9.26667,0.78333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":0.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ketangbao",
+    "gn:country_code":"TG",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366050,
+    "gn:latitude":9.26667,
+    "gn:longitude":0.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e9tangbao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9tangbao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366050,
+        "wk:page":"Ketangbao"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5ec4bacf972bb96975852a5707fd55ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209014411
+        }
+    ],
+    "wof:id":1209014411,
+    "wof:lastmodified":1537702865,
+    "wof:name":"Ketangbao",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.78333,
+    9.26667,
+    0.78333,
+    9.26667
+],
+  "geometry": {"coordinates":[0.78333,9.26667],"type":"Point"}
+}

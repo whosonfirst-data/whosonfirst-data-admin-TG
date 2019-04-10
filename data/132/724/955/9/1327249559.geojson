@@ -1,0 +1,67 @@
+{
+  "id": 1327249559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08333,7.75,1.08333,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":1.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouete Amava",
+    "gn:country_code":"TG",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365752,
+    "gn:latitude":7.75,
+    "gn:longitude":1.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kou\u00e9t\u00e9 Amava",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365752
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"af9e4b0ce552b38a4cb979398ce916b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561189,
+            "locality_id":1327249559,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1327249559,
+    "wof:lastmodified":1536945207,
+    "wof:name":"Kouete Amava",
+    "wof:parent_id":1108561189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08333,
+    7.75,
+    1.08333,
+    7.75
+],
+  "geometry": {"coordinates":[1.08333,7.75],"type":"Point"}
+}

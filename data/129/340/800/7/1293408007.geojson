@@ -1,0 +1,68 @@
+{
+  "id": 1293408007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.63333,9.8,0.63333,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":0.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bamandou",
+    "gn:country_code":"TG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367615,
+    "gn:latitude":9.8,
+    "gn:longitude":0.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bamandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367615,
+        "wk:page":"Bamandou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"30db28fc57760dde0f644f79ba5f754f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1293408007,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1293408007,
+    "wof:lastmodified":1537573904,
+    "wof:name":"Bamandou",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.63333,
+    9.8,
+    0.63333,
+    9.8
+],
+  "geometry": {"coordinates":[0.63333,9.8],"type":"Point"}
+}

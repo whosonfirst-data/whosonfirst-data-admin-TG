@@ -1,0 +1,68 @@
+{
+  "id": 1343772139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48333,9.7,0.48333,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":0.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bouman",
+    "gn:country_code":"TG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367296,
+    "gn:latitude":9.7,
+    "gn:longitude":0.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bouman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367296,
+        "wk:page":"Bouman%2C_Togo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7bf587bc3164da70527d41ede9e11efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1343772139,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343772139,
+    "wof:lastmodified":1537573901,
+    "wof:name":"Bouman",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48333,
+    9.7,
+    0.48333,
+    9.7
+],
+  "geometry": {"coordinates":[0.48333,9.7],"type":"Point"}
+}

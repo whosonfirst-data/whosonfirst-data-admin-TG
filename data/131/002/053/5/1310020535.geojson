@@ -1,0 +1,72 @@
+{
+  "id": 1310020535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16667,8.95,1.16667,8.95",
+    "geom:latitude":8.95,
+    "geom:longitude":1.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Katambara",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366128,
+    "gn:latitude":8.95,
+    "gn:longitude":1.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Katambara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katammbara",
+        "Katambara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366128
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d80bcd760e474b01ec7c3e6f0aef13eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1310020535,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1310020535,
+    "wof:lastmodified":1537702865,
+    "wof:name":"Katambara",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16667,
+    8.95,
+    1.16667,
+    8.95
+],
+  "geometry": {"coordinates":[1.16667,8.95],"type":"Point"}
+}

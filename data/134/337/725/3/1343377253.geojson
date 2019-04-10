@@ -1,0 +1,68 @@
+{
+  "id": 1343377253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15,9.41667,1.15,9.41667",
+    "geom:latitude":9.41667,
+    "geom:longitude":1.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lamba",
+    "gn:country_code":"TG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365379,
+    "gn:latitude":9.41667,
+    "gn:longitude":1.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421187889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365379,
+        "wk:page":"Lamba%2C_Togo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5e083cf5d0058060f5e45fd74a40ac54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421187889,
+            "locality_id":1343377253,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343377253,
+    "wof:lastmodified":1537573893,
+    "wof:name":"Lamba",
+    "wof:parent_id":421187889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15,
+    9.41667,
+    1.15,
+    9.41667
+],
+  "geometry": {"coordinates":[1.15,9.41667],"type":"Point"}
+}

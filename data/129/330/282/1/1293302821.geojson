@@ -1,0 +1,68 @@
+{
+  "id": 1293302821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.56667,9.65,0.56667,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":0.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nagbidjabou",
+    "gn:country_code":"TG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365021,
+    "gn:latitude":9.65,
+    "gn:longitude":0.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nagbidjabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365021,
+        "wk:page":"Nagbidjabou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"acc9315572d09685a8998d8a0aa8a2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1293302821,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1293302821,
+    "wof:lastmodified":1537573892,
+    "wof:name":"Nagbidjabou",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.56667,
+    9.65,
+    0.56667,
+    9.65
+],
+  "geometry": {"coordinates":[0.56667,9.65],"type":"Point"}
+}

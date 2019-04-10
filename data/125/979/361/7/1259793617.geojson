@@ -1,0 +1,68 @@
+{
+  "id": 1259793617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65,9.83333,0.65,9.83333",
+    "geom:latitude":9.83333,
+    "geom:longitude":0.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dolardo",
+    "gn:country_code":"TG",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366889,
+    "gn:latitude":9.83333,
+    "gn:longitude":0.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dolardo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366889,
+        "wk:page":"Dolardo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c8c3708d3be9f76769b0a389044354ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1259793617,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1259793617,
+    "wof:lastmodified":1537573899,
+    "wof:name":"Dolardo",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65,
+    9.83333,
+    0.65,
+    9.83333
+],
+  "geometry": {"coordinates":[0.65,9.83333],"type":"Point"}
+}

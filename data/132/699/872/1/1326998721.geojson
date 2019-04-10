@@ -1,0 +1,72 @@
+{
+  "id": 1326998721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.20083,9.82778,1.20083,9.82778",
+    "geom:latitude":9.82778,
+    "geom:longitude":1.20083,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Djorergou",
+    "gn:country_code":"TG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366924,
+    "gn:latitude":9.82778,
+    "gn:longitude":1.20083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Djorergou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djor\u00e9ro",
+        "Djorergou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366924,
+        "wk:page":"Djorergou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0381e6cd360e58d5ba110f2a61a84612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1326998721,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1326998721,
+    "wof:lastmodified":1537702876,
+    "wof:name":"Djorergou",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.20083,
+    9.82778,
+    1.20083,
+    9.82778
+],
+  "geometry": {"coordinates":[1.20083,9.82778],"type":"Point"}
+}

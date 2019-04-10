@@ -1,0 +1,68 @@
+{
+  "id": 1209932381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.11667,10.13333,1.11667,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":1.11667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouadangou",
+    "gn:country_code":"TG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365807,
+    "gn:latitude":10.13333,
+    "gn:longitude":1.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouadangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365807,
+        "wk:page":"Kouadangou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"0ca85df132f601eaed2957f3f8fd0533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561163,
+            "locality_id":1209932381,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1209932381,
+    "wof:lastmodified":1537573895,
+    "wof:name":"Kouadangou",
+    "wof:parent_id":1108561163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.11667,
+    10.13333,
+    1.11667,
+    10.13333
+],
+  "geometry": {"coordinates":[1.11667,10.13333],"type":"Point"}
+}

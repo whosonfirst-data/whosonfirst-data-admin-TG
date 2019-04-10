@@ -1,0 +1,71 @@
+{
+  "id": 1310611015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68333,9.26667,0.68333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":0.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sichalebe",
+    "gn:country_code":"TG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364155,
+    "gn:latitude":9.26667,
+    "gn:longitude":0.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sichal\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sichal\u00e9b\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364155,
+        "wk:page":"Sichalebe"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"efa81b20c38aae0e05f45dfe24562176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1310611015,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1310611015,
+    "wof:lastmodified":1537702841,
+    "wof:name":"Sichalebe",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68333,
+    9.26667,
+    0.68333,
+    9.26667
+],
+  "geometry": {"coordinates":[0.68333,9.26667],"type":"Point"}
+}

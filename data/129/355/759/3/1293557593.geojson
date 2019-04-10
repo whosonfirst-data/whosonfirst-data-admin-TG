@@ -1,0 +1,71 @@
+{
+  "id": 1293557593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.44806,6.24639,1.44806,6.24639",
+    "geom:latitude":6.24639,
+    "geom:longitude":1.44806,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ekpoui",
+    "gn:country_code":"TG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366778,
+    "gn:latitude":6.24639,
+    "gn:longitude":1.44806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ekpoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekpui",
+        "Ekpoui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366778
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d29653a5d6a49a691ea01fefa7f2d73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1293557593,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1293557593,
+    "wof:lastmodified":1537702875,
+    "wof:name":"Ekpoui",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.44806,
+    6.24639,
+    1.44806,
+    6.24639
+],
+  "geometry": {"coordinates":[1.44806,6.24639],"type":"Point"}
+}

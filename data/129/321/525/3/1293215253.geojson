@@ -1,0 +1,68 @@
+{
+  "id": 1293215253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.38333,9.71667,0.38333,9.71667",
+    "geom:latitude":9.71667,
+    "geom:longitude":0.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tipil",
+    "gn:country_code":"TG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363722,
+    "gn:latitude":9.71667,
+    "gn:longitude":0.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tipil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363722,
+        "wk:page":"Tipil"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f09d6db2cdbefd90a5f21d633c1bd2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1293215253,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1293215253,
+    "wof:lastmodified":1537573885,
+    "wof:name":"Tipil",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.38333,
+    9.71667,
+    0.38333,
+    9.71667
+],
+  "geometry": {"coordinates":[0.38333,9.71667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242695901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.63333,9.26667,0.63333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":0.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Natako",
+    "gn:country_code":"TG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364878,
+    "gn:latitude":9.26667,
+    "gn:longitude":0.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Natako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364878,
+        "wk:page":"Natako"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"59dd9db81e3abc8c7f8237b673d67a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1242695901,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1242695901,
+    "wof:lastmodified":1537573891,
+    "wof:name":"Natako",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.63333,
+    9.26667,
+    0.63333,
+    9.26667
+],
+  "geometry": {"coordinates":[0.63333,9.26667],"type":"Point"}
+}

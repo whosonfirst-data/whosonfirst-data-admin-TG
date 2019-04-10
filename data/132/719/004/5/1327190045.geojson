@@ -1,0 +1,67 @@
+{
+  "id": 1327190045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.29639,6.23194,1.29639,6.23194",
+    "geom:latitude":6.23194,
+    "geom:longitude":1.29639,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kodeme",
+    "gn:country_code":"TG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589502,
+    "gn:latitude":6.23194,
+    "gn:longitude":1.29639,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Kod\u00e8m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589502
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"576e3c4e597103514edd5cd0012f46d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1327190045,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1327190045,
+    "wof:lastmodified":1537029610,
+    "wof:name":"Kodeme",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.29639,
+    6.23194,
+    1.29639,
+    6.23194
+],
+  "geometry": {"coordinates":[1.29639,6.23194],"type":"Point"}
+}

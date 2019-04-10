@@ -1,0 +1,67 @@
+{
+  "id": 1344071685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55,8.68333,1.55,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":1.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Igbometji",
+    "gn:country_code":"TG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366371,
+    "gn:latitude":8.68333,
+    "gn:longitude":1.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Igbom\u00e9tji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366371
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4b473455042e3188eeaa05ea38c4061a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":1344071685,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1344071685,
+    "wof:lastmodified":1536857998,
+    "wof:name":"Igbometji",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55,
+    8.68333,
+    1.55,
+    8.68333
+],
+  "geometry": {"coordinates":[1.55,8.68333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326798823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.3275,6.15528,1.3275,6.15528",
+    "geom:latitude":6.15528,
+    "geom:longitude":1.3275,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Doevi",
+    "gn:country_code":"TG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366907,
+    "gn:latitude":6.15528,
+    "gn:longitude":1.3275,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Do\u00e9vi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366907
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"8fb0eee6b3b379cdeb3d4197da401fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1326798823,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1326798823,
+    "wof:lastmodified":1537093803,
+    "wof:name":"Doevi",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.3275,
+    6.15528,
+    1.3275,
+    6.15528
+],
+  "geometry": {"coordinates":[1.3275,6.15528],"type":"Point"}
+}

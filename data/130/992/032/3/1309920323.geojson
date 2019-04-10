@@ -1,0 +1,67 @@
+{
+  "id": 1309920323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01667,9.13333,1.01667,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":1.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Djuelo",
+    "gn:country_code":"TG",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366917,
+    "gn:latitude":9.13333,
+    "gn:longitude":1.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dju\u00e9lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366917
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a3d86ef259e0781f409191a1fd75f6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1309920323,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1309920323,
+    "wof:lastmodified":1536766312,
+    "wof:name":"Djuelo",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01667,
+    9.13333,
+    1.01667,
+    9.13333
+],
+  "geometry": {"coordinates":[1.01667,9.13333],"type":"Point"}
+}

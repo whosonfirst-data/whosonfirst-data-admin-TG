@@ -1,0 +1,74 @@
+{
+  "id": 1226409487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.74472,10.3325,0.74472,10.3325",
+    "geom:latitude":10.3325,
+    "geom:longitude":0.74472,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Gando Namoni",
+    "gn:country_code":"TG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366622,
+    "gn:latitude":10.3325,
+    "gn:longitude":0.74472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gando Namoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Je Gando",
+        "Gando",
+        "Dj\u00e9-Gando",
+        "Grando Namoni",
+        "Gando Namoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366622
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"80c1252b02849ff07980c16d5aa2a0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1226409487,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1226409487,
+    "wof:lastmodified":1537702872,
+    "wof:name":"Gando Namoni",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.74472,
+    10.3325,
+    0.74472,
+    10.3325
+],
+  "geometry": {"coordinates":[0.74472,10.3325],"type":"Point"}
+}

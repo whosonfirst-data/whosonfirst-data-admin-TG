@@ -1,0 +1,75 @@
+{
+  "id": 1226656101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25,6.93333,1.25,6.93333",
+    "geom:latitude":6.93333,
+    "geom:longitude":1.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dyemenyi",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366831,
+    "gn:latitude":6.93333,
+    "gn:longitude":1.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dy\u00e9m\u00e9nyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yim\u00e9ni",
+        "Dj\u00e9m\u00e9gni",
+        "Dj\u00e9mendji",
+        "Demini",
+        "Dy\u00e9m\u00e9nyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366831
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"06363499122147107e1ada3a03197a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1226656101,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1226656101,
+    "wof:lastmodified":1537702876,
+    "wof:name":"Dyemenyi",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25,
+    6.93333,
+    1.25,
+    6.93333
+],
+  "geometry": {"coordinates":[1.25,6.93333],"type":"Point"}
+}

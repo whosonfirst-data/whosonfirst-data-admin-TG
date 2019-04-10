@@ -1,0 +1,71 @@
+{
+  "id": 1293069329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.10167,6.36694,1.10167,6.36694",
+    "geom:latitude":6.36694,
+    "geom:longitude":1.10167,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ablochrhi Kope",
+    "gn:country_code":"TG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368628,
+    "gn:latitude":6.36694,
+    "gn:longitude":1.10167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ablochrhi Kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togbl\u00e9",
+        "Ablochrhi Kop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368628
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3dcc2e84b73a0307c9f82c50f65a2eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1293069329,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1293069329,
+    "wof:lastmodified":1537702900,
+    "wof:name":"Ablochrhi Kope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.10167,
+    6.36694,
+    1.10167,
+    6.36694
+],
+  "geometry": {"coordinates":[1.10167,6.36694],"type":"Point"}
+}

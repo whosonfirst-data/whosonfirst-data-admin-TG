@@ -1,0 +1,71 @@
+{
+  "id": 1360194441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35,9.38333,1.35,9.38333",
+    "geom:latitude":9.38333,
+    "geom:longitude":1.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aledjame",
+    "gn:country_code":"TG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368109,
+    "gn:latitude":9.38333,
+    "gn:longitude":1.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al\u00e9djam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u00e9djam\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368109,
+        "wk:page":"Aledjame"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f81d518dada8c88ebbf60c2385606eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561173,
+            "locality_id":1360194441,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1360194441,
+    "wof:lastmodified":1537702892,
+    "wof:name":"Aledjame",
+    "wof:parent_id":1108561173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35,
+    9.38333,
+    1.35,
+    9.38333
+],
+  "geometry": {"coordinates":[1.35,9.38333],"type":"Point"}
+}

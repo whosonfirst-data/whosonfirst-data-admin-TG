@@ -1,0 +1,61 @@
+{
+  "id": 1209433013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.6,9.95,0.6,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":0.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nuhundo",
+    "gn:country_code":"TG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364731,
+    "gn:latitude":9.95,
+    "gn:longitude":0.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nuhundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364731
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7c5ed08cbc83dfead1d842d209f8b473",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209433013
+        }
+    ],
+    "wof:id":1209433013,
+    "wof:lastmodified":1536287183,
+    "wof:name":"Nuhundo",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.6,
+    9.95,
+    0.6,
+    9.95
+],
+  "geometry": {"coordinates":[0.6,9.95],"type":"Point"}
+}

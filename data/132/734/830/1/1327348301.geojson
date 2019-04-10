@@ -1,0 +1,67 @@
+{
+  "id": 1327348301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06667,6.68333,1.06667,6.68333",
+    "geom:latitude":6.68333,
+    "geom:longitude":1.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agokpe",
+    "gn:country_code":"TG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368334,
+    "gn:latitude":6.68333,
+    "gn:longitude":1.06667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Agokp\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368334
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c3a05a75f7abcd2d3d120d3c739f9f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1327348301,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1327348301,
+    "wof:lastmodified":1536802190,
+    "wof:name":"Agokpe",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06667,
+    6.68333,
+    1.06667,
+    6.68333
+],
+  "geometry": {"coordinates":[1.06667,6.68333],"type":"Point"}
+}

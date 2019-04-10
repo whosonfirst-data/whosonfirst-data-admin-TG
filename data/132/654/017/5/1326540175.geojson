@@ -1,0 +1,73 @@
+{
+  "id": 1326540175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01667,8.61667,1.01667,8.61667",
+    "geom:latitude":8.61667,
+    "geom:longitude":1.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kanyamboua",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366164,
+    "gn:latitude":8.61667,
+    "gn:longitude":1.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kanyamboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyiammboua",
+        "Kaniamboua",
+        "Kanyamboua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366164
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4823aa30f8f7757cd272364a9dc83626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561179,
+            "locality_id":1326540175,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1326540175,
+    "wof:lastmodified":1537702866,
+    "wof:name":"Kanyamboua",
+    "wof:parent_id":1108561179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01667,
+    8.61667,
+    1.01667,
+    8.61667
+],
+  "geometry": {"coordinates":[1.01667,8.61667],"type":"Point"}
+}

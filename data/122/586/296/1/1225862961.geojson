@@ -1,0 +1,68 @@
+{
+  "id": 1225862961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05,7.95,1.05,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":1.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Akaba",
+    "gn:country_code":"TG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368226,
+    "gn:latitude":7.95,
+    "gn:longitude":1.05,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Akaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368226,
+        "wk:page":"Akaba,_Togo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"8ea625bb969bd5c2223743fa854b71d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1225862961,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1225862961,
+    "wof:lastmodified":1537573906,
+    "wof:name":"Akaba",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05,
+    7.95,
+    1.05,
+    7.95
+],
+  "geometry": {"coordinates":[1.05,7.95],"type":"Point"}
+}

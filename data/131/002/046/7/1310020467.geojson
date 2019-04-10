@@ -1,0 +1,72 @@
+{
+  "id": 1310020467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58333,6.6,1.58333,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":1.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maossi Djogbe",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365178,
+    "gn:latitude":6.6,
+    "gn:longitude":1.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maossi Djogb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maosi Djogb\u00e9",
+        "Maossi Djogb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365178
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6a9a6e9dc6df4560250f39072a1aea2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561197,
+            "locality_id":1310020467,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310020467,
+    "wof:lastmodified":1537702853,
+    "wof:name":"Maossi Djogbe",
+    "wof:parent_id":1108561197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58333,
+    6.6,
+    1.58333,
+    6.6
+],
+  "geometry": {"coordinates":[1.58333,6.6],"type":"Point"}
+}

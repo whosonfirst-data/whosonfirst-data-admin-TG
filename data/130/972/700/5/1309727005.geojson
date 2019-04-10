@@ -1,0 +1,67 @@
+{
+  "id": 1309727005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2,7.46667,1.2,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":1.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Katole",
+    "gn:country_code":"TG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366111,
+    "gn:latitude":7.46667,
+    "gn:longitude":1.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Katol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366111
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d52c92e358e49e9745d7735fcfbd83cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1309727005,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1309727005,
+    "wof:lastmodified":1537042841,
+    "wof:name":"Katole",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2,
+    7.46667,
+    1.2,
+    7.46667
+],
+  "geometry": {"coordinates":[1.2,7.46667],"type":"Point"}
+}

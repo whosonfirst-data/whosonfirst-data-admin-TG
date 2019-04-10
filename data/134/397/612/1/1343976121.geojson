@@ -1,0 +1,72 @@
+{
+  "id": 1343976121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.76667,6.28333,1.76667,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":1.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bakari",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367640,
+    "gn:latitude":6.28333,
+    "gn:longitude":1.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakari Kondji",
+        "Bakari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367640
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"99a1ab18e18f9ec7f3f2d5e995a91bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1343976121,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343976121,
+    "wof:lastmodified":1537702885,
+    "wof:name":"Bakari",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.76667,
+    6.28333,
+    1.76667,
+    6.28333
+],
+  "geometry": {"coordinates":[1.76667,6.28333],"type":"Point"}
+}

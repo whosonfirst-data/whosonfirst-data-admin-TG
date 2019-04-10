@@ -1,0 +1,66 @@
+{
+  "id": 1209124441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.15,8.43333,1.15,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":1.15,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kaza",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366095,
+    "gn:latitude":8.43333,
+    "gn:longitude":1.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasa",
+        "Kaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366095
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4715a1cfe3b1677d955d5e0d5f0ffe32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209124441
+        }
+    ],
+    "wof:id":1209124441,
+    "wof:lastmodified":1537702865,
+    "wof:name":"Kaza",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.15,
+    8.43333,
+    1.15,
+    8.43333
+],
+  "geometry": {"coordinates":[1.15,8.43333],"type":"Point"}
+}

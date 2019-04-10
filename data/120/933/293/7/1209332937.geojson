@@ -1,0 +1,61 @@
+{
+  "id": 1209332937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58333,6.5,1.58333,6.5",
+    "geom:latitude":6.5,
+    "geom:longitude":1.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Anyinoume",
+    "gn:country_code":"TG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367960,
+    "gn:latitude":6.5,
+    "gn:longitude":1.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Anyinoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367960
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"2d8e75ecac171cc01488c76ff91c5aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209332937
+        }
+    ],
+    "wof:id":1209332937,
+    "wof:lastmodified":1536290315,
+    "wof:name":"Anyinoume",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58333,
+    6.5,
+    1.58333,
+    6.5
+],
+  "geometry": {"coordinates":[1.58333,6.5],"type":"Point"}
+}

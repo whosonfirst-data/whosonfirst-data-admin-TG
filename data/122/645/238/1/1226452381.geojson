@@ -1,0 +1,73 @@
+{
+  "id": 1226452381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.66667,9.85,0.66667,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":0.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nimbeolo",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364780,
+    "gn:latitude":9.85,
+    "gn:longitude":0.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nimb\u00e9olo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nimmb\u00e9olo",
+        "Nimb\u00e9olo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364780,
+        "wk:page":"Nimbeolo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"23dfd647fe136c1886f1dce49e7752f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1226452381,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1226452381,
+    "wof:lastmodified":1537702848,
+    "wof:name":"Nimbeolo",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.66667,
+    9.85,
+    0.66667,
+    9.85
+],
+  "geometry": {"coordinates":[0.66667,9.85],"type":"Point"}
+}

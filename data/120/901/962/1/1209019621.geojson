@@ -1,0 +1,60 @@
+{
+  "id": 1209019621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58461,7.09595,1.58461,7.09595",
+    "geom:latitude":7.09595,
+    "geom:longitude":1.58461,
+    "gn:asciiname":"Agobokpa",
+    "gn:country_code":"TG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11395510,
+    "gn:latitude":7.09595,
+    "gn:longitude":1.58461,
+    "gn:modification_date":"2016-12-13",
+    "gn:name":"Agobokpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395510
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e027f5aa6dad2d8f772697769ab2409f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209019621
+        }
+    ],
+    "wof:id":1209019621,
+    "wof:lastmodified":1536300184,
+    "wof:name":"Agobokpa",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58461,
+    7.09595,
+    1.58461,
+    7.09595
+],
+  "geometry": {"coordinates":[1.58461,7.09595],"type":"Point"}
+}

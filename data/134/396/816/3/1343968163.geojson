@@ -1,0 +1,73 @@
+{
+  "id": 1343968163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2,7.31667,1.2,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":1.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tyaloum",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363517,
+    "gn:latitude":7.31667,
+    "gn:longitude":1.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tyaloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tialoum",
+        "Tchaloumikop\u00e9",
+        "Tyaloum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363517
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"369ee3be6fadbaf5211892a9cb94dfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1343968163,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1343968163,
+    "wof:lastmodified":1537702833,
+    "wof:name":"Tyaloum",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2,
+    7.31667,
+    1.2,
+    7.31667
+],
+  "geometry": {"coordinates":[1.2,7.31667],"type":"Point"}
+}

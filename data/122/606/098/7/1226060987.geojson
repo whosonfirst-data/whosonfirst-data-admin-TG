@@ -1,0 +1,76 @@
+{
+  "id": 1226060987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77632,8.69421,0.77632,8.69421",
+    "geom:latitude":8.69421,
+    "geom:longitude":0.77632,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Fazao",
+    "gn:country_code":"TG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366714,
+    "gn:latitude":8.69421,
+    "gn:longitude":0.77632,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Fazao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fasaou",
+        "Fasuu",
+        "Fasao",
+        "Fisao",
+        "Fazaou",
+        "Fasau",
+        "Fazao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366714
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c797e0933535955e1926b5c4c46b8739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561179,
+            "locality_id":1226060987,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1226060987,
+    "wof:lastmodified":1537702874,
+    "wof:name":"Fazao",
+    "wof:parent_id":1108561179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77632,
+    8.69421,
+    0.77632,
+    8.69421
+],
+  "geometry": {"coordinates":[0.77632,8.69421],"type":"Point"}
+}

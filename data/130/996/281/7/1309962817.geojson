@@ -1,0 +1,67 @@
+{
+  "id": 1309962817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.11025,10.70339,0.11025,10.70339",
+    "geom:latitude":10.70339,
+    "geom:longitude":0.11025,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Nano",
+    "gn:country_code":"TG",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364910,
+    "gn:latitude":10.70339,
+    "gn:longitude":0.11025,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Nano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364910
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4efb3cd8cee3873dfb6068d9234457ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561159,
+            "locality_id":1309962817,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1309962817,
+    "wof:lastmodified":1536705223,
+    "wof:name":"Nano",
+    "wof:parent_id":1108561159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.11025,
+    10.70339,
+    0.11025,
+    10.70339
+],
+  "geometry": {"coordinates":[0.11025,10.70339],"type":"Point"}
+}

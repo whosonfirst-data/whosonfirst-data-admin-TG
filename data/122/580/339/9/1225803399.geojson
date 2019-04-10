@@ -1,0 +1,72 @@
+{
+  "id": 1225803399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.97306,9.80028,0.97306,9.80028",
+    "geom:latitude":9.80028,
+    "geom:longitude":0.97306,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kadjala",
+    "gn:country_code":"TG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366272,
+    "gn:latitude":9.80028,
+    "gn:longitude":0.97306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kadjala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadjalla",
+        "Kadjala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366272,
+        "wk:page":"Kadjala"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d10a8d5cd91c29ac165e0052f471bb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1225803399,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1225803399,
+    "wof:lastmodified":1537702867,
+    "wof:name":"Kadjala",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.97306,
+    9.80028,
+    0.97306,
+    9.80028
+],
+  "geometry": {"coordinates":[0.97306,9.80028],"type":"Point"}
+}

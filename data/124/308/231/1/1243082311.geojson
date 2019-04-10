@@ -1,0 +1,67 @@
+{
+  "id": 1243082311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.35,9.1,1.35,9.1",
+    "geom:latitude":9.1,
+    "geom:longitude":1.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Avalao",
+    "gn:country_code":"TG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367772,
+    "gn:latitude":9.1,
+    "gn:longitude":1.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Avalao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367772
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"41fbb265f35a6fd5a23ceb81e9898061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1243082311,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1243082311,
+    "wof:lastmodified":1536832321,
+    "wof:name":"Avalao",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.35,
+    9.1,
+    1.35,
+    9.1
+],
+  "geometry": {"coordinates":[1.35,9.1],"type":"Point"}
+}

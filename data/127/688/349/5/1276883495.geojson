@@ -1,0 +1,67 @@
+{
+  "id": 1276883495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71667,10.46667,0.71667,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":0.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nakouaredioke",
+    "gn:country_code":"TG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364995,
+    "gn:latitude":10.46667,
+    "gn:longitude":0.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nakouar\u00e9dioke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364995
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c529b46715dc14ef9648cdd7f6ada4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1276883495,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1276883495,
+    "wof:lastmodified":1537034661,
+    "wof:name":"Nakouaredioke",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71667,
+    10.46667,
+    0.71667,
+    10.46667
+],
+  "geometry": {"coordinates":[0.71667,10.46667],"type":"Point"}
+}

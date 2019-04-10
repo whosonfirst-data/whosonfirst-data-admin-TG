@@ -1,0 +1,67 @@
+{
+  "id": 1343972693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68333,7.6,0.68333,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":0.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Soto",
+    "gn:country_code":"TG",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364080,
+    "gn:latitude":7.6,
+    "gn:longitude":0.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Soto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364080
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3392d74f87dda88a5d6c63ba08dd4f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561187,
+            "locality_id":1343972693,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1343972693,
+    "wof:lastmodified":1537001535,
+    "wof:name":"Soto",
+    "wof:parent_id":1108561187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68333,
+    7.6,
+    0.68333,
+    7.6
+],
+  "geometry": {"coordinates":[0.68333,7.6],"type":"Point"}
+}

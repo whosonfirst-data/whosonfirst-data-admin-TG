@@ -1,0 +1,67 @@
+{
+  "id": 1276394793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23694,6.31306,1.23694,6.31306",
+    "geom:latitude":6.31306,
+    "geom:longitude":1.23694,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Avalepo",
+    "gn:country_code":"TG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367771,
+    "gn:latitude":6.31306,
+    "gn:longitude":1.23694,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Aval\u00e9po",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367771
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"82fea8a77171f4714329cfff84c85e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1276394793,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276394793,
+    "wof:lastmodified":1536696532,
+    "wof:name":"Avalepo",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23694,
+    6.31306,
+    1.23694,
+    6.31306
+],
+  "geometry": {"coordinates":[1.23694,6.31306],"type":"Point"}
+}

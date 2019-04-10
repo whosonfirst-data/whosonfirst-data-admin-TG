@@ -1,0 +1,68 @@
+{
+  "id": 1276719641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.22556,6.15306,1.22556,6.15306",
+    "geom:latitude":6.15306,
+    "geom:longitude":1.22556,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kletigan",
+    "gn:country_code":"TG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365997,
+    "gn:latitude":6.15306,
+    "gn:longitude":1.22556,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Kl\u00e9tigan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365997
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"185e0625b0a9514ac3476035ae60cc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1276719641,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276719641,
+    "wof:lastmodified":1536758462,
+    "wof:name":"Kletigan",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.22556,
+    6.15306,
+    1.22556,
+    6.15306
+],
+  "geometry": {"coordinates":[1.22556,6.15306],"type":"Point"}
+}

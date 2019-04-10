@@ -1,0 +1,72 @@
+{
+  "id": 1242985259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83333,6.75,0.83333,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":0.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koressewa",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365824,
+    "gn:latitude":6.75,
+    "gn:longitude":0.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kor\u00e9ss\u00e9wa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kor\u00e9s\u00e9wa",
+        "Kor\u00e9ss\u00e9wa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421171045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365824
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"bd0cb84a577c19569af31ff41d4e0ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171045,
+            "locality_id":1242985259,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1242985259,
+    "wof:lastmodified":1537702862,
+    "wof:name":"Koressewa",
+    "wof:parent_id":421171045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83333,
+    6.75,
+    0.83333,
+    6.75
+],
+  "geometry": {"coordinates":[0.83333,6.75],"type":"Point"}
+}

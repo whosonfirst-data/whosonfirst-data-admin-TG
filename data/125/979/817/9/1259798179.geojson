@@ -1,0 +1,71 @@
+{
+  "id": 1259798179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68333,6.73333,0.68333,6.73333",
+    "geom:latitude":6.73333,
+    "geom:longitude":0.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nyekonakpoe",
+    "gn:country_code":"TG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364718,
+    "gn:latitude":6.73333,
+    "gn:longitude":0.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ny\u00e9konakpo\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ny\u00e9konakpo\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421171045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364718,
+        "wk:page":"Ny%C3%A9konakpo%C3%A9"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"693e877165be541cff80c4de6089e197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171045,
+            "locality_id":1259798179,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1259798179,
+    "wof:lastmodified":1537702847,
+    "wof:name":"Nyekonakpoe",
+    "wof:parent_id":421171045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68333,
+    6.73333,
+    0.68333,
+    6.73333
+],
+  "geometry": {"coordinates":[0.68333,6.73333],"type":"Point"}
+}

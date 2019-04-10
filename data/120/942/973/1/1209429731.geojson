@@ -1,0 +1,65 @@
+{
+  "id": 1209429731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4,9.66667,0.4,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":0.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dakpetab",
+    "gn:country_code":"TG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367193,
+    "gn:latitude":9.66667,
+    "gn:longitude":0.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dakp\u00e9tab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakp\u00e9tab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367193,
+        "wk:page":"Dakpetab"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9381915377b235ee168effd78468c31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209429731
+        }
+    ],
+    "wof:id":1209429731,
+    "wof:lastmodified":1537702879,
+    "wof:name":"Dakpetab",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4,
+    9.66667,
+    0.4,
+    9.66667
+],
+  "geometry": {"coordinates":[0.4,9.66667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309963835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.12444,6.34194,1.12444,6.34194",
+    "geom:latitude":6.34194,
+    "geom:longitude":1.12444,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Komla Kope",
+    "gn:country_code":"TG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365868,
+    "gn:latitude":6.34194,
+    "gn:longitude":1.12444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Komla Kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanakop\u00e9",
+        "Tagakop\u00e9",
+        "Komla Kop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365868
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a21294d95f5b9231cb7797d8df3f5d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1309963835,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1309963835,
+    "wof:lastmodified":1537702862,
+    "wof:name":"Komla Kope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.12444,
+    6.34194,
+    1.12444,
+    6.34194
+],
+  "geometry": {"coordinates":[1.12444,6.34194],"type":"Point"}
+}

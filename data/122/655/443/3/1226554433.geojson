@@ -1,0 +1,72 @@
+{
+  "id": 1226554433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53333,6.68333,1.53333,6.68333",
+    "geom:latitude":6.68333,
+    "geom:longitude":1.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gboto Atchame",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366544,
+    "gn:latitude":6.68333,
+    "gn:longitude":1.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gboto Atcham\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gboto Atch\u00e9m\u00e9",
+        "Gboto Atcham\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366544
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7fb7d4e3db3a6273452086d347d6c4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561197,
+            "locality_id":1226554433,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1226554433,
+    "wof:lastmodified":1537702871,
+    "wof:name":"Gboto Atchame",
+    "wof:parent_id":1108561197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53333,
+    6.68333,
+    1.53333,
+    6.68333
+],
+  "geometry": {"coordinates":[1.53333,6.68333],"type":"Point"}
+}

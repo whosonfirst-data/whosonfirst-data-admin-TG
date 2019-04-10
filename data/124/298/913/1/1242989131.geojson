@@ -1,0 +1,72 @@
+{
+  "id": 1242989131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86667,9.95,0.86667,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":0.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pamber",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364464,
+    "gn:latitude":9.95,
+    "gn:longitude":0.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pamber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pammber",
+        "Pamber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364464
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"20cbddfa02811d0263d5888923092a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561163,
+            "locality_id":1242989131,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1242989131,
+    "wof:lastmodified":1537702845,
+    "wof:name":"Pamber",
+    "wof:parent_id":1108561163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86667,
+    9.95,
+    0.86667,
+    9.95
+],
+  "geometry": {"coordinates":[0.86667,9.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259898061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.40589,10.7415,0.40589,10.7415",
+    "geom:latitude":10.7415,
+    "geom:longitude":0.40589,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sawaga",
+    "gn:country_code":"TG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364203,
+    "gn:latitude":10.7415,
+    "gn:longitude":0.40589,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sawaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364203
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5e5b0f6d00ea1a418c404a67df88a3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1259898061,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259898061,
+    "wof:lastmodified":1536758250,
+    "wof:name":"Sawaga",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.40589,
+    10.7415,
+    0.40589,
+    10.7415
+],
+  "geometry": {"coordinates":[0.40589,10.7415],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242695947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.80752,8.1902,0.80752,8.1902",
+    "geom:latitude":8.1902,
+    "geom:longitude":0.80752,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tsifama",
+    "gn:country_code":"TG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363760,
+    "gn:latitude":8.1902,
+    "gn:longitude":0.80752,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tsifama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tioufouma",
+        "Ti\u00e9fouma",
+        "Tsifama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363760
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"cd0346ba536dbe1c59fb594166b30712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561181,
+            "locality_id":1242695947,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1242695947,
+    "wof:lastmodified":1537702836,
+    "wof:name":"Tsifama",
+    "wof:parent_id":1108561181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.80752,
+    8.1902,
+    0.80752,
+    8.1902
+],
+  "geometry": {"coordinates":[0.80752,8.1902],"type":"Point"}
+}

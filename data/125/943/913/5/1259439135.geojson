@@ -1,0 +1,71 @@
+{
+  "id": 1259439135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.24222,9.615,1.24222,9.615",
+    "geom:latitude":9.615,
+    "geom:longitude":1.24222,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lassa",
+    "gn:country_code":"TG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365350,
+    "gn:latitude":9.615,
+    "gn:longitude":1.24222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lasa",
+        "Lassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421187889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365350
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b3e192aa377bd69b8cfd478f9dbcb79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421187889,
+            "locality_id":1259439135,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1259439135,
+    "wof:lastmodified":1537702855,
+    "wof:name":"Lassa",
+    "wof:parent_id":421187889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.24222,
+    9.615,
+    1.24222,
+    9.615
+],
+  "geometry": {"coordinates":[1.24222,9.615],"type":"Point"}
+}

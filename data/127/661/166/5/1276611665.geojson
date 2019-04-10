@@ -1,0 +1,67 @@
+{
+  "id": 1276611665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.36806,6.40444,1.36806,6.40444",
+    "geom:latitude":6.40444,
+    "geom:longitude":1.36806,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ezo",
+    "gn:country_code":"TG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366723,
+    "gn:latitude":6.40444,
+    "gn:longitude":1.36806,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Ezo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366723
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a55b31e6ddfa4562d107708a8e870e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1276611665,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276611665,
+    "wof:lastmodified":1536903451,
+    "wof:name":"Ezo",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.36806,
+    6.40444,
+    1.36806,
+    6.40444
+],
+  "geometry": {"coordinates":[1.36806,6.40444],"type":"Point"}
+}

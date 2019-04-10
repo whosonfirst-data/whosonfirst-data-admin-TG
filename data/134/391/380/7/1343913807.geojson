@@ -1,0 +1,74 @@
+{
+  "id": 1343913807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41,6.29694,1.41,6.29694",
+    "geom:latitude":6.29694,
+    "geom:longitude":1.41,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Sevagan",
+    "gn:country_code":"TG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364165,
+    "gn:latitude":6.29694,
+    "gn:longitude":1.41,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00e9vagan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sevaga",
+        "S\u00e9wagan",
+        "Zevaga",
+        "Sew\u00e1g\u00e1",
+        "S\u00e9vagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364165
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"36655c9264c5ac69ca4459f9860b0a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1343913807,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343913807,
+    "wof:lastmodified":1537702842,
+    "wof:name":"Sevagan",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41,
+    6.29694,
+    1.41,
+    6.29694
+],
+  "geometry": {"coordinates":[1.41,6.29694],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259501655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.21667,10.03333,1.21667,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":1.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bontan",
+    "gn:country_code":"TG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367355,
+    "gn:latitude":10.03333,
+    "gn:longitude":1.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bontan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367355,
+        "wk:page":"Bontan"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d4e7f2abe1f14e068f7d3b2d8f11aac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1259501655,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1259501655,
+    "wof:lastmodified":1537573901,
+    "wof:name":"Bontan",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.21667,
+    10.03333,
+    1.21667,
+    10.03333
+],
+  "geometry": {"coordinates":[1.21667,10.03333],"type":"Point"}
+}

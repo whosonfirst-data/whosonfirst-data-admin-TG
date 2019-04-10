@@ -1,0 +1,67 @@
+{
+  "id": 1259898161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.48333,10.88333,0.48333,10.88333",
+    "geom:latitude":10.88333,
+    "geom:longitude":0.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Djenkoukouri",
+    "gn:country_code":"TG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366972,
+    "gn:latitude":10.88333,
+    "gn:longitude":0.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Djenkoukouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366972
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"dadc4dd40108c71fe24c6b4b42f7b924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1259898161,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1259898161,
+    "wof:lastmodified":1536758105,
+    "wof:name":"Djenkoukouri",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.48333,
+    10.88333,
+    0.48333,
+    10.88333
+],
+  "geometry": {"coordinates":[0.48333,10.88333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225854679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73333,10.78333,0.73333,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":0.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wokon",
+    "gn:country_code":"TG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363414,
+    "gn:latitude":10.78333,
+    "gn:longitude":0.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Wokon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363414
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"96d66d86e5d9f3d2f7841bd4a3f6fd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1225854679,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1225854679,
+    "wof:lastmodified":1536999966,
+    "wof:name":"Wokon",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73333,
+    10.78333,
+    0.73333,
+    10.78333
+],
+  "geometry": {"coordinates":[0.73333,10.78333],"type":"Point"}
+}

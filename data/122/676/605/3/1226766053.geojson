@@ -1,0 +1,67 @@
+{
+  "id": 1226766053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.88333,10.03333,0.88333,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":0.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Komite",
+    "gn:country_code":"TG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365870,
+    "gn:latitude":10.03333,
+    "gn:longitude":0.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Komit\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365870
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"2ff8801eb83bda5c83ffcc2ef80d5ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561163,
+            "locality_id":1226766053,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1226766053,
+    "wof:lastmodified":1536686321,
+    "wof:name":"Komite",
+    "wof:parent_id":1108561163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.88333,
+    10.03333,
+    0.88333,
+    10.03333
+],
+  "geometry": {"coordinates":[0.88333,10.03333],"type":"Point"}
+}

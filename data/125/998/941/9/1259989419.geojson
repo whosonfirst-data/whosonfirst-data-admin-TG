@@ -1,0 +1,67 @@
+{
+  "id": 1259989419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.95,6.88333,0.95,6.88333",
+    "geom:latitude":6.88333,
+    "geom:longitude":0.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Doundoudjeme",
+    "gn:country_code":"TG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366845,
+    "gn:latitude":6.88333,
+    "gn:longitude":0.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Doundoudjem\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366845
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4e2ee88558fc8966d94784616a3252b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1259989419,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1259989419,
+    "wof:lastmodified":1536624551,
+    "wof:name":"Doundoudjeme",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.95,
+    6.88333,
+    0.95,
+    6.88333
+],
+  "geometry": {"coordinates":[0.95,6.88333],"type":"Point"}
+}

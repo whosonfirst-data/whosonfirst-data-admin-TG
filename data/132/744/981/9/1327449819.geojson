@@ -1,0 +1,72 @@
+{
+  "id": 1327449819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.38333,8.05,1.38333,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":1.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yebou Yebou",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363354,
+    "gn:latitude":8.05,
+    "gn:longitude":1.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00e9bou Y\u00e9bou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e9bou-J\u00e9bou",
+        "Y\u00e9bou Y\u00e9bou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363354
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f6b39d02200b7654c3fe31e7423e0d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561183,
+            "locality_id":1327449819,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1327449819,
+    "wof:lastmodified":1537702830,
+    "wof:name":"Yebou Yebou",
+    "wof:parent_id":1108561183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.38333,
+    8.05,
+    1.38333,
+    8.05
+],
+  "geometry": {"coordinates":[1.38333,8.05],"type":"Point"}
+}

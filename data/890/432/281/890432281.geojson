@@ -1,0 +1,96 @@
+{
+  "id": 890432281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53333,6.33333,1.53333,6.33333",
+    "geom:latitude":6.33333,
+    "geom:longitude":1.53333,
+    "gn:country":"TG",
+    "gn:fcode":"PPL",
+    "gn:pop":20569,
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Vogan"
+    ],
+    "name:eng_x_preferred":[
+        "Vogan"
+    ],
+    "name:epo_x_preferred":[
+        "Vogano"
+    ],
+    "name:fre_x_preferred":[
+        "Vogan"
+    ],
+    "name:ita_x_preferred":[
+        "Vogan"
+    ],
+    "name:pol_x_preferred":[
+        "Vogan"
+    ],
+    "name:rum_x_preferred":[
+        "Vogan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0433\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Woga"
+    ],
+    "qs:name":"Vogan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363490,
+        "gp:id":1441302,
+        "qs:id":278587,
+        "wd:id":"Q2740491",
+        "wk:page":"Vogan"
+    },
+    "wof:country":"TG",
+    "wof:created":1469051935,
+    "wof:geomhash":"d11d66371cb746e5d94928974a759da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":890432281,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":890432281,
+    "wof:lastmodified":1527793034,
+    "wof:name":"Vogan",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:population":20569,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53333,
+    6.33333,
+    1.53333,
+    6.33333
+],
+  "geometry": {"coordinates":[1.53333,6.33333],"type":"Point"}
+}

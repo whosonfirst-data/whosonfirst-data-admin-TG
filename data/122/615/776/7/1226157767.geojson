@@ -1,0 +1,67 @@
+{
+  "id": 1226157767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03333,8.0,1.03333,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":1.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tchakala Kossou",
+    "gn:country_code":"TG",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363916,
+    "gn:latitude":8.0,
+    "gn:longitude":1.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tchakala Kossou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363916
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c8b5c603cd41597eb499e8bbe6020021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561181,
+            "locality_id":1226157767,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1226157767,
+    "wof:lastmodified":1537057763,
+    "wof:name":"Tchakala Kossou",
+    "wof:parent_id":1108561181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03333,
+    8.0,
+    1.03333,
+    8.0
+],
+  "geometry": {"coordinates":[1.03333,8.0],"type":"Point"}
+}

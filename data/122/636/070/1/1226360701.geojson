@@ -1,0 +1,67 @@
+{
+  "id": 1226360701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16667,9.43333,1.16667,9.43333",
+    "geom:latitude":9.43333,
+    "geom:longitude":1.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Filandi",
+    "gn:country_code":"TG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366702,
+    "gn:latitude":9.43333,
+    "gn:longitude":1.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Filandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        421187889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366702
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f6b8317e875b9451fcb417b59db581af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421187889,
+            "locality_id":1226360701,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1226360701,
+    "wof:lastmodified":1536768437,
+    "wof:name":"Filandi",
+    "wof:parent_id":421187889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16667,
+    9.43333,
+    1.16667,
+    9.43333
+],
+  "geometry": {"coordinates":[1.16667,9.43333],"type":"Point"}
+}

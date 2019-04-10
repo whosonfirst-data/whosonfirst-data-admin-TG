@@ -1,0 +1,72 @@
+{
+  "id": 1260098475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83333,6.7,0.83333,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":0.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Damade",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367182,
+    "gn:latitude":6.7,
+    "gn:longitude":0.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Damad\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adam\u00e9",
+        "Damad\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421171045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367182
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"69ba037c02b6abe7d3e39095d4c44be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171045,
+            "locality_id":1260098475,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1260098475,
+    "wof:lastmodified":1537702879,
+    "wof:name":"Damade",
+    "wof:parent_id":421171045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83333,
+    6.7,
+    0.83333,
+    6.7
+],
+  "geometry": {"coordinates":[0.83333,6.7],"type":"Point"}
+}

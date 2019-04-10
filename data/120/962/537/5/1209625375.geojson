@@ -1,0 +1,62 @@
+{
+  "id": 1209625375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01667,9.25,1.01667,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":1.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kamaama",
+    "gn:country_code":"TG",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366221,
+    "gn:latitude":9.25,
+    "gn:longitude":1.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamaama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366221,
+        "wk:page":"Kamaama"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d1d19fd499c9ff4de9610eb87ce3ed4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209625375
+        }
+    ],
+    "wof:id":1209625375,
+    "wof:lastmodified":1537573897,
+    "wof:name":"Kamaama",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01667,
+    9.25,
+    1.01667,
+    9.25
+],
+  "geometry": {"coordinates":[1.01667,9.25],"type":"Point"}
+}

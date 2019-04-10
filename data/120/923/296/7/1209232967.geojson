@@ -1,0 +1,65 @@
+{
+  "id": 1209232967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1,9.4,1.1,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":1.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kadieka",
+    "gn:country_code":"TG",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366278,
+    "gn:latitude":9.4,
+    "gn:longitude":1.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kadi\u00e9ka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadi\u00e9ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366278,
+        "wk:page":"Kadieka"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d5a9389bd83f74d6e146d84ad0b7ccb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209232967
+        }
+    ],
+    "wof:id":1209232967,
+    "wof:lastmodified":1537702867,
+    "wof:name":"Kadieka",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1,
+    9.4,
+    1.1,
+    9.4
+],
+  "geometry": {"coordinates":[1.1,9.4],"type":"Point"}
+}

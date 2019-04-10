@@ -1,0 +1,72 @@
+{
+  "id": 1310161947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98889,9.73889,0.98889,9.73889",
+    "geom:latitude":9.73889,
+    "geom:longitude":0.98889,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Aloum",
+    "gn:country_code":"TG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368078,
+    "gn:latitude":9.73889,
+    "gn:longitude":0.98889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aloum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aloun",
+        "Aloum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368078,
+        "wk:page":"Aloum"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"73dd287727e08f01d3dd29c1e3ede965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1310161947,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1310161947,
+    "wof:lastmodified":1537702892,
+    "wof:name":"Aloum",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98889,
+    9.73889,
+    0.98889,
+    9.73889
+],
+  "geometry": {"coordinates":[0.98889,9.73889],"type":"Point"}
+}

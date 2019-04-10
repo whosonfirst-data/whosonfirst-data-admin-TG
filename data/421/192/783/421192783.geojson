@@ -1,0 +1,79 @@
+{
+  "id": 421192783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61667,6.31667,1.61667,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":1.61667,
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Anfoi"
+    ],
+    "qs:gn_country":"TG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2367987,
+    "qs:gn_pop":0,
+    "qs:name":"Anfoin",
+    "qs:name_adm0":"Togo",
+    "qs:name_adm1":"Maritime",
+    "qs:photos":53,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":53,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175250,
+    "qs:woe_adm0":23424965,
+    "qs:woe_id":1438209,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367987,
+        "gp:id":1438209,
+        "qs:id":1175250
+    },
+    "wof:country":"TG",
+    "wof:created":1459009748,
+    "wof:geomhash":"a7eb076b15b5e8280508d431787f454e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":421192783,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":421192783,
+    "wof:lastmodified":1501262701,
+    "wof:name":"Anfoin",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61667,
+    6.31667,
+    1.61667,
+    6.31667
+],
+  "geometry": {"coordinates":[1.61667,6.31667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259593229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03333,8.43333,1.03333,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":1.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bodjonde",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367410,
+    "gn:latitude":8.43333,
+    "gn:longitude":1.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bodjond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bondjond\u00e9",
+        "Bodjond\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367410
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5e1ab719ead8f3cd55f89e1081873cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561179,
+            "locality_id":1259593229,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1259593229,
+    "wof:lastmodified":1537702882,
+    "wof:name":"Bodjonde",
+    "wof:parent_id":1108561179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03333,
+    8.43333,
+    1.03333,
+    8.43333
+],
+  "geometry": {"coordinates":[1.03333,8.43333],"type":"Point"}
+}

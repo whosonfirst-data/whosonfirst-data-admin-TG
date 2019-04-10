@@ -1,0 +1,71 @@
+{
+  "id": 1310259583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.18333,10.65,0.18333,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":0.18333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bogou",
+    "gn:country_code":"TG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367395,
+    "gn:latitude":10.65,
+    "gn:longitude":0.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogu",
+        "Bogou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367395
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"67651b0dc066d6645f171b08e52830af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561159,
+            "locality_id":1310259583,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1310259583,
+    "wof:lastmodified":1537702881,
+    "wof:name":"Bogou",
+    "wof:parent_id":1108561159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.18333,
+    10.65,
+    0.18333,
+    10.65
+],
+  "geometry": {"coordinates":[0.18333,10.65],"type":"Point"}
+}

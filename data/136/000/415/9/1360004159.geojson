@@ -1,0 +1,72 @@
+{
+  "id": 1360004159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73333,9.48333,0.73333,9.48333",
+    "geom:latitude":9.48333,
+    "geom:longitude":0.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Koudyoman",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365765,
+    "gn:latitude":9.48333,
+    "gn:longitude":0.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koudyoman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koujioman",
+        "Koudyoman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365765
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"774be6d73b828fd5b86046d300c8d955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1360004159,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1360004159,
+    "wof:lastmodified":1537702861,
+    "wof:name":"Koudyoman",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73333,
+    9.48333,
+    0.73333,
+    9.48333
+],
+  "geometry": {"coordinates":[0.73333,9.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343876501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.23333,10.96667,0.23333,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":0.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kotouri",
+    "gn:country_code":"TG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365808,
+    "gn:latitude":10.96667,
+    "gn:longitude":0.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kotouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365808
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"105ae20a7e59e98e918f5ce098c17456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":1343876501,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1343876501,
+    "wof:lastmodified":1536642727,
+    "wof:name":"Kotouri",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.23333,
+    10.96667,
+    0.23333,
+    10.96667
+],
+  "geometry": {"coordinates":[0.23333,10.96667],"type":"Point"}
+}

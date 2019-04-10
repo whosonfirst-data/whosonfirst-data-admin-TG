@@ -1,0 +1,71 @@
+{
+  "id": 1310061551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08583,6.46472,1.08583,6.46472",
+    "geom:latitude":6.46472,
+    "geom:longitude":1.08583,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Fokoun",
+    "gn:country_code":"TG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366691,
+    "gn:latitude":6.46472,
+    "gn:longitude":1.08583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fokoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foukonou",
+        "Fokoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366691
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"32ff25298c46b30ffa846fb85493e9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1310061551,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310061551,
+    "wof:lastmodified":1537702874,
+    "wof:name":"Fokoun",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08583,
+    6.46472,
+    1.08583,
+    6.46472
+],
+  "geometry": {"coordinates":[1.08583,6.46472],"type":"Point"}
+}

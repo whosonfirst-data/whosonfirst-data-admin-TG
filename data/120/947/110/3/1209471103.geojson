@@ -1,0 +1,66 @@
+{
+  "id": 1209471103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98333,10.01667,0.98333,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":0.98333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kpasside",
+    "gn:country_code":"TG",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364391,
+    "gn:latitude":10.01667,
+    "gn:longitude":0.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kpassid\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pessid\u00e9",
+        "Kpassid\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364391,
+        "wk:page":"Kpasside"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"39d92ad1ad3043a6b6bc4a9f7cedaf93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209471103
+        }
+    ],
+    "wof:id":1209471103,
+    "wof:lastmodified":1537702844,
+    "wof:name":"Kpasside",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98333,
+    10.01667,
+    0.98333,
+    10.01667
+],
+  "geometry": {"coordinates":[0.98333,10.01667],"type":"Point"}
+}

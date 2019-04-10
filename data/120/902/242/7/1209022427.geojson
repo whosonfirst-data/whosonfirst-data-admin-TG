@@ -1,0 +1,61 @@
+{
+  "id": 1209022427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.01667,6.66667,1.01667,6.66667",
+    "geom:latitude":6.66667,
+    "geom:longitude":1.01667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aloyi",
+    "gn:country_code":"TG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368073,
+    "gn:latitude":6.66667,
+    "gn:longitude":1.01667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Aloyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368073
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"538a8d6fd4273ed6cdb8959761dd48c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209022427
+        }
+    ],
+    "wof:id":1209022427,
+    "wof:lastmodified":1536300106,
+    "wof:name":"Aloyi",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.01667,
+    6.66667,
+    1.01667,
+    6.66667
+],
+  "geometry": {"coordinates":[1.01667,6.66667],"type":"Point"}
+}

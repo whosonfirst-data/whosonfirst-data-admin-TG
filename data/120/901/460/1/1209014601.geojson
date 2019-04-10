@@ -1,0 +1,67 @@
+{
+  "id": 1209014601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.6,9.68333,0.6,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":0.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nambowedo",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364961,
+    "gn:latitude":9.68333,
+    "gn:longitude":0.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nambow\u00e9do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nammbow\u00e9do",
+        "Nambow\u00e9do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364961,
+        "wk:page":"Nambowedo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d4b06e506c81145293487c7a76e50fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209014601
+        }
+    ],
+    "wof:id":1209014601,
+    "wof:lastmodified":1537702851,
+    "wof:name":"Nambowedo",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.6,
+    9.68333,
+    0.6,
+    9.68333
+],
+  "geometry": {"coordinates":[0.6,9.68333],"type":"Point"}
+}

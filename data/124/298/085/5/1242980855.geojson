@@ -1,0 +1,67 @@
+{
+  "id": 1242980855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.23333,6.35,1.23333,6.35",
+    "geom:latitude":6.35,
+    "geom:longitude":1.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tsikplonou",
+    "gn:country_code":"TG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363527,
+    "gn:latitude":6.35,
+    "gn:longitude":1.23333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tsikplonou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363527
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"2f5be6e96a532c39af33feab48d177c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1242980855,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1242980855,
+    "wof:lastmodified":1536979078,
+    "wof:name":"Tsikplonou",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.23333,
+    6.35,
+    1.23333,
+    6.35
+],
+  "geometry": {"coordinates":[1.23333,6.35],"type":"Point"}
+}

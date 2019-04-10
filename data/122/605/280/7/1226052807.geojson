@@ -1,0 +1,72 @@
+{
+  "id": 1226052807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41667,6.6,1.41667,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":1.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ahepe Agbleta",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368253,
+    "gn:latitude":6.6,
+    "gn:longitude":1.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ah\u00e9p\u00e9 Agbl\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ah\u00e9p\u00e9 Agbletta",
+        "Ah\u00e9p\u00e9 Agbl\u00e9ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368253
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3a92ffcfb88373a858b47dc297ce8370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561197,
+            "locality_id":1226052807,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1226052807,
+    "wof:lastmodified":1537702894,
+    "wof:name":"Ahepe Agbleta",
+    "wof:parent_id":1108561197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41667,
+    6.6,
+    1.41667,
+    6.6
+],
+  "geometry": {"coordinates":[1.41667,6.6],"type":"Point"}
+}

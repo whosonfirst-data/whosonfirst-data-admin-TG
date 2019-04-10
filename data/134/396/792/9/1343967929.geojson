@@ -1,0 +1,68 @@
+{
+  "id": 1343967929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55,9.6,0.55,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":0.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouboabo",
+    "gn:country_code":"TG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365786,
+    "gn:latitude":9.6,
+    "gn:longitude":0.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouboabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365786,
+        "wk:page":"Kouboabo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c32e48ba125b8572e5b266fdc6f2b1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1343967929,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343967929,
+    "wof:lastmodified":1537573895,
+    "wof:name":"Kouboabo",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55,
+    9.6,
+    0.55,
+    9.6
+],
+  "geometry": {"coordinates":[0.55,9.6],"type":"Point"}
+}

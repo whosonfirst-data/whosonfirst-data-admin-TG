@@ -1,0 +1,67 @@
+{
+  "id": 1242980619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.51667,6.93333,1.51667,6.93333",
+    "geom:latitude":6.93333,
+    "geom:longitude":1.51667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kpodji",
+    "gn:country_code":"TG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365466,
+    "gn:latitude":6.93333,
+    "gn:longitude":1.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kpodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365466
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5b0e3e1466292cea34f49829555e197f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1242980619,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1242980619,
+    "wof:lastmodified":1536979409,
+    "wof:name":"Kpodji",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.51667,
+    6.93333,
+    1.51667,
+    6.93333
+],
+  "geometry": {"coordinates":[1.51667,6.93333],"type":"Point"}
+}

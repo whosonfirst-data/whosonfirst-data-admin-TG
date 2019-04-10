@@ -1,0 +1,67 @@
+{
+  "id": 1225803041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.47194,6.19528,1.47194,6.19528",
+    "geom:latitude":6.19528,
+    "geom:longitude":1.47194,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kodzovya",
+    "gn:country_code":"TG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589608,
+    "gn:latitude":6.19528,
+    "gn:longitude":1.47194,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Kodzovya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589608
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"995ce233d1a88a7a774dcdda636b5a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1225803041,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1225803041,
+    "wof:lastmodified":1537072329,
+    "wof:name":"Kodzovya",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.47194,
+    6.19528,
+    1.47194,
+    6.19528
+],
+  "geometry": {"coordinates":[1.47194,6.19528],"type":"Point"}
+}

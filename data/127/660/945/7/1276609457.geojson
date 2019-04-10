@@ -1,0 +1,67 @@
+{
+  "id": 1276609457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.49694,6.24167,1.49694,6.24167",
+    "geom:latitude":6.24167,
+    "geom:longitude":1.49694,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Agodeke",
+    "gn:country_code":"TG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589534,
+    "gn:latitude":6.24167,
+    "gn:longitude":1.49694,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Agod\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589534
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3361eab63159f6dc454f2f8d3c582b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1276609457,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276609457,
+    "wof:lastmodified":1536906476,
+    "wof:name":"Agodeke",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.49694,
+    6.24167,
+    1.49694,
+    6.24167
+],
+  "geometry": {"coordinates":[1.49694,6.24167],"type":"Point"}
+}

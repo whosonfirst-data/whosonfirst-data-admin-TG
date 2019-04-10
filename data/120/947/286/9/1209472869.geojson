@@ -1,0 +1,61 @@
+{
+  "id": 1209472869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.20417,6.20556,1.20417,6.20556",
+    "geom:latitude":6.20556,
+    "geom:longitude":1.20417,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Aogan",
+    "gn:country_code":"TG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589778,
+    "gn:latitude":6.20556,
+    "gn:longitude":1.20417,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Aogan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589778
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a7ab682e0559f8879b4564238d723402",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209472869
+        }
+    ],
+    "wof:id":1209472869,
+    "wof:lastmodified":1536286026,
+    "wof:name":"Aogan",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.20417,
+    6.20556,
+    1.20417,
+    6.20556
+],
+  "geometry": {"coordinates":[1.20417,6.20556],"type":"Point"}
+}

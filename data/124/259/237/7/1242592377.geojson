@@ -1,0 +1,67 @@
+{
+  "id": 1242592377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28333,10.81667,0.28333,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":0.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Babona",
+    "gn:country_code":"TG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367674,
+    "gn:latitude":10.81667,
+    "gn:longitude":0.28333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Babona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367674
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a66f6fd2b2e26b937200b70e1b14f126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":1242592377,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1242592377,
+    "wof:lastmodified":1537040562,
+    "wof:name":"Babona",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28333,
+    10.81667,
+    0.28333,
+    10.81667
+],
+  "geometry": {"coordinates":[0.28333,10.81667],"type":"Point"}
+}

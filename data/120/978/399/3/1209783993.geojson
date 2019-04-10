@@ -1,0 +1,75 @@
+{
+  "id": 1209783993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.47889,6.20139,1.47889,6.20139",
+    "geom:latitude":6.20139,
+    "geom:longitude":1.47889,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Agbodrafo",
+    "gn:country_code":"TG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368378,
+    "gn:latitude":6.20139,
+    "gn:longitude":1.47889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agbodrafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porto-S\u00e9guro",
+        "Agbedrafo",
+        "Porto-Segouro",
+        "Agbodrafo (Porto-S\u00e9guro)",
+        "Agbodrafo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368378,
+        "wk:page":"Agbodrafo"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"833c37a06475eb17fd2dde87976bd789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1209783993,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1209783993,
+    "wof:lastmodified":1537702896,
+    "wof:name":"Agbodrafo",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.47889,
+    6.20139,
+    1.47889,
+    6.20139
+],
+  "geometry": {"coordinates":[1.47889,6.20139],"type":"Point"}
+}

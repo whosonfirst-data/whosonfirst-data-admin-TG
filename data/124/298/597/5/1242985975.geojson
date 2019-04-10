@@ -1,0 +1,66 @@
+{
+  "id": 1242985975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53309,7.58005,0.53309,7.58005",
+    "geom:latitude":7.58005,
+    "geom:longitude":0.53309,
+    "gn:asciiname":"Kessibo Wawa",
+    "gn:country_code":"TG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942665,
+    "gn:latitude":7.58005,
+    "gn:longitude":0.53309,
+    "gn:modification_date":"2015-11-28",
+    "gn:name":"Kessibo Wawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942665
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"8136597e7ceac548d7c4f5886dd8d178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561187,
+            "locality_id":1242985975,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1242985975,
+    "wof:lastmodified":1536971957,
+    "wof:name":"Kessibo Wawa",
+    "wof:parent_id":1108561187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53309,
+    7.58005,
+    0.53309,
+    7.58005
+],
+  "geometry": {"coordinates":[0.53309,7.58005],"type":"Point"}
+}

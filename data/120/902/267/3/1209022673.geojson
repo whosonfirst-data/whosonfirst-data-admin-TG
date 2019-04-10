@@ -1,0 +1,61 @@
+{
+  "id": 1209022673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.56667,10.75,0.56667,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":0.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Boilougou",
+    "gn:country_code":"TG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367392,
+    "gn:latitude":10.75,
+    "gn:longitude":0.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Boilougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367392
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"720b3cbcee95840673b182669d49ed0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209022673
+        }
+    ],
+    "wof:id":1209022673,
+    "wof:lastmodified":1536300098,
+    "wof:name":"Boilougou",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.56667,
+    10.75,
+    0.56667,
+    10.75
+],
+  "geometry": {"coordinates":[0.56667,10.75],"type":"Point"}
+}

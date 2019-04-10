@@ -1,0 +1,71 @@
+{
+  "id": 1260135921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42222,6.28389,1.42222,6.28389",
+    "geom:latitude":6.28389,
+    "geom:longitude":1.42222,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Agbedevi Kope",
+    "gn:country_code":"TG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368402,
+    "gn:latitude":6.28389,
+    "gn:longitude":1.42222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agb\u00e9d\u00e9vi Kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9va Tonou",
+        "Agb\u00e9d\u00e9vi Kop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368402
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f69eafad83ac133f7e3e875f3a5cf383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1260135921,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1260135921,
+    "wof:lastmodified":1537702896,
+    "wof:name":"Agbedevi Kope",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42222,
+    6.28389,
+    1.42222,
+    6.28389
+],
+  "geometry": {"coordinates":[1.42222,6.28389],"type":"Point"}
+}

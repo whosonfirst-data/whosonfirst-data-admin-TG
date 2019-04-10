@@ -1,0 +1,72 @@
+{
+  "id": 1260047139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.49139,10.50417,0.49139,10.50417",
+    "geom:latitude":10.50417,
+    "geom:longitude":0.49139,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tchanaga",
+    "gn:country_code":"TG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363902,
+    "gn:latitude":10.50417,
+    "gn:longitude":0.49139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchanaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsanaga",
+        "Tchanaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363902,
+        "wk:page":"Tchanaga"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1cdc9cbdb81f89d428e95093d891ecad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1260047139,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1260047139,
+    "wof:lastmodified":1537702837,
+    "wof:name":"Tchanaga",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.49139,
+    10.50417,
+    0.49139,
+    10.50417
+],
+  "geometry": {"coordinates":[0.49139,10.50417],"type":"Point"}
+}

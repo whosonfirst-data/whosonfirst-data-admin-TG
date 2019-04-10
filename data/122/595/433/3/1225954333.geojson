@@ -1,0 +1,67 @@
+{
+  "id": 1225954333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.26667,6.96667,1.26667,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":1.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agueloufe",
+    "gn:country_code":"TG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368259,
+    "gn:latitude":6.96667,
+    "gn:longitude":1.26667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Agu\u00e9louf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368259
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c023ef5106c7d159d94ddfff0967be8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1225954333,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1225954333,
+    "wof:lastmodified":1536855607,
+    "wof:name":"Agueloufe",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.26667,
+    6.96667,
+    1.26667,
+    6.96667
+],
+  "geometry": {"coordinates":[1.26667,6.96667],"type":"Point"}
+}

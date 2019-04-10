@@ -1,0 +1,68 @@
+{
+  "id": 1193094957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.25667,6.20194,1.25667,6.20194",
+    "geom:latitude":6.20194,
+    "geom:longitude":1.25667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Agbodo",
+    "gn:country_code":"TG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589543,
+    "gn:latitude":6.20194,
+    "gn:longitude":1.25667,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Agbodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589543
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1f6f2c485cf92c6677b1ca44011a46d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1193094957,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1193094957,
+    "wof:lastmodified":1536366720,
+    "wof:name":"Agbodo",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.25667,
+    6.20194,
+    1.25667,
+    6.20194
+],
+  "geometry": {"coordinates":[1.25667,6.20194],"type":"Point"}
+}

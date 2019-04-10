@@ -1,0 +1,67 @@
+{
+  "id": 1226057509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.16667,7.48333,1.16667,7.48333",
+    "geom:latitude":7.48333,
+    "geom:longitude":1.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atalo",
+    "gn:country_code":"TG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367879,
+    "gn:latitude":7.48333,
+    "gn:longitude":1.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Atalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367879
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e70c278b6ccc4d1c97bb31c7c0f2dab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1226057509,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1226057509,
+    "wof:lastmodified":1536708438,
+    "wof:name":"Atalo",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.16667,
+    7.48333,
+    1.16667,
+    7.48333
+],
+  "geometry": {"coordinates":[1.16667,7.48333],"type":"Point"}
+}

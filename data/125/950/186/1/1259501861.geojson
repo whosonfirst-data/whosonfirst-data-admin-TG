@@ -1,0 +1,67 @@
+{
+  "id": 1259501861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53333,7.58333,1.53333,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":1.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Glito",
+    "gn:country_code":"TG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366524,
+    "gn:latitude":7.58333,
+    "gn:longitude":1.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Glito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366524
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d07deb97c127422346d80d46043dbfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1259501861,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1259501861,
+    "wof:lastmodified":1536831385,
+    "wof:name":"Glito",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53333,
+    7.58333,
+    1.53333,
+    7.58333
+],
+  "geometry": {"coordinates":[1.53333,7.58333],"type":"Point"}
+}

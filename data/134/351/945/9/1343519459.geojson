@@ -1,0 +1,67 @@
+{
+  "id": 1343519459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.46806,6.46389,1.46806,6.46389",
+    "geom:latitude":6.46389,
+    "geom:longitude":1.46806,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Damabali",
+    "gn:country_code":"TG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589860,
+    "gn:latitude":6.46389,
+    "gn:longitude":1.46806,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Damabali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589860
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d00f68227493f7740949d306731508e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1343519459,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343519459,
+    "wof:lastmodified":1536661260,
+    "wof:name":"Damabali",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.46806,
+    6.46389,
+    1.46806,
+    6.46389
+],
+  "geometry": {"coordinates":[1.46806,6.46389],"type":"Point"}
+}

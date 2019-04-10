@@ -1,0 +1,67 @@
+{
+  "id": 1242888719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.21667,7.38333,1.21667,7.38333",
+    "geom:latitude":7.38333,
+    "geom:longitude":1.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Afikope",
+    "gn:country_code":"TG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368473,
+    "gn:latitude":7.38333,
+    "gn:longitude":1.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Afikop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        421178017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368473
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"44b744e1e0e1e8cf89fe2bbac1458718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421178017,
+            "locality_id":1242888719,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1242888719,
+    "wof:lastmodified":1536613025,
+    "wof:name":"Afikope",
+    "wof:parent_id":421178017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.21667,
+    7.38333,
+    1.21667,
+    7.38333
+],
+  "geometry": {"coordinates":[1.21667,7.38333],"type":"Point"}
+}

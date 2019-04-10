@@ -1,0 +1,73 @@
+{
+  "id": 1310615909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75,6.48333,0.75,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":0.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Batoume",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367542,
+    "gn:latitude":6.48333,
+    "gn:longitude":0.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Batoum\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abowikovhe",
+        "Batome",
+        "Batoum\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367542
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"5947f18f729bcf88ed1963b551de1847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1310615909,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310615909,
+    "wof:lastmodified":1537702884,
+    "wof:name":"Batoume",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75,
+    6.48333,
+    0.75,
+    6.48333
+],
+  "geometry": {"coordinates":[0.75,6.48333],"type":"Point"}
+}

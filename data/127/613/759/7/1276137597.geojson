@@ -1,0 +1,72 @@
+{
+  "id": 1276137597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61667,6.45,1.61667,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":1.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zotchi Kpota",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363269,
+    "gn:latitude":6.45,
+    "gn:longitude":1.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zotchi Kpota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kpota Kop\u00e9",
+        "Zotchi Kpota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363269
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"2d6ee5be1c7b52f67af9c75ac8c7f547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1276137597,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276137597,
+    "wof:lastmodified":1537702829,
+    "wof:name":"Zotchi Kpota",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61667,
+    6.45,
+    1.61667,
+    6.45
+],
+  "geometry": {"coordinates":[1.61667,6.45],"type":"Point"}
+}

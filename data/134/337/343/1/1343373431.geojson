@@ -1,0 +1,65 @@
+{
+  "id": 1343373431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.63333,7.05,1.63333,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":1.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ouagba",
+    "gn:country_code":"TG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364589,
+    "gn:latitude":7.05,
+    "gn:longitude":1.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ouagba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364589
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"80b12fec3a4a982958a302aa3cde56ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "locality_id":1343373431,
+            "region_id":85668815
+        }
+    ],
+    "wof:id":1343373431,
+    "wof:lastmodified":1536870609,
+    "wof:name":"Ouagba",
+    "wof:parent_id":85668815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.63333,
+    7.05,
+    1.63333,
+    7.05
+],
+  "geometry": {"coordinates":[1.63333,7.05],"type":"Point"}
+}

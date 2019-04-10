@@ -1,0 +1,87 @@
+{
+  "id": 421189771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.571044,6.234077,1.571044,6.234077",
+    "geom:latitude":6.234077,
+    "geom:longitude":1.571044,
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "F\u00e9lix Couchoro"
+    ],
+    "name:glg_x_preferred":[
+        "F\u00e9lix Couchoro"
+    ],
+    "name:ron_x_preferred":[
+        "F\u00e9lix Couchoro"
+    ],
+    "name:spa_x_preferred":[
+        "F\u00e9lix Couchoro"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"An\u00e9cho",
+    "qs:name_adm0":"Togo",
+    "qs:name_adm1":"Maritime",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116858,
+    "qs:woe_adm0":23424965,
+    "qs:woe_id":1438207,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1438207,
+        "qs:id":1116858
+    },
+    "wof:country":"TG",
+    "wof:created":1459009635,
+    "wof:geomhash":"88d88a1f38b824e60a7327b29d035956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":421189771,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":421189771,
+    "wof:lastmodified":1500033951,
+    "wof:name":"An\u00e9cho",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.571044,
+    6.234077,
+    1.571044,
+    6.234077
+],
+  "geometry": {"coordinates":[1.571044,6.234077],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310072761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.03611,10.84583,0.03611,10.84583",
+    "geom:latitude":10.84583,
+    "geom:longitude":0.03611,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tami",
+    "gn:country_code":"TG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363993,
+    "gn:latitude":10.84583,
+    "gn:longitude":0.03611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jami",
+        "Tami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363993
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"037fc5e2a52384c6474604ea7af54b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":1310072761,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1310072761,
+    "wof:lastmodified":1537702839,
+    "wof:name":"Tami",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.03611,
+    10.84583,
+    0.03611,
+    10.84583
+],
+  "geometry": {"coordinates":[0.03611,10.84583],"type":"Point"}
+}

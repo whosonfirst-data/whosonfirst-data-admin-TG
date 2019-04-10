@@ -1,0 +1,68 @@
+{
+  "id": 1276133393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.08333,9.35,1.08333,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":1.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gnata",
+    "gn:country_code":"TG",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366515,
+    "gn:latitude":9.35,
+    "gn:longitude":1.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gnata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366515,
+        "wk:page":"Gnata"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"11ebe352f16bd09a298ce9cd45c27c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561173,
+            "locality_id":1276133393,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1276133393,
+    "wof:lastmodified":1537573898,
+    "wof:name":"Gnata",
+    "wof:parent_id":1108561173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.08333,
+    9.35,
+    1.08333,
+    9.35
+],
+  "geometry": {"coordinates":[1.08333,9.35],"type":"Point"}
+}

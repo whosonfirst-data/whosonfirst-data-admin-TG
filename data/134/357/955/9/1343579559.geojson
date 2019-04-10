@@ -1,0 +1,68 @@
+{
+  "id": 1343579559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.24608,9.55229,0.24608,9.55229",
+    "geom:latitude":9.55229,
+    "geom:longitude":0.24608,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Passao",
+    "gn:country_code":"TG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364426,
+    "gn:latitude":9.55229,
+    "gn:longitude":0.24608,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Passao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364426,
+        "wk:page":"Passao"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"d524b8e4fdd4458071373c36d2e14e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561169,
+            "locality_id":1343579559,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343579559,
+    "wof:lastmodified":1537573889,
+    "wof:name":"Passao",
+    "wof:parent_id":1108561169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.24608,
+    9.55229,
+    0.24608,
+    9.55229
+],
+  "geometry": {"coordinates":[0.24608,9.55229],"type":"Point"}
+}

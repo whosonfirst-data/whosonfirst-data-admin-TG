@@ -1,0 +1,65 @@
+{
+  "id": 1226257557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.66667,6.23333,1.66667,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":1.66667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yovovi Kondji",
+    "gn:country_code":"TG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363313,
+    "gn:latitude":6.23333,
+    "gn:longitude":1.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yovovi Kondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363313
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1817a957cd5f5c68d66227df3d57b7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "locality_id":1226257557,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1226257557,
+    "wof:lastmodified":1536917053,
+    "wof:name":"Yovovi Kondji",
+    "wof:parent_id":85668823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.66667,
+    6.23333,
+    1.66667,
+    6.23333
+],
+  "geometry": {"coordinates":[1.66667,6.23333],"type":"Point"}
+}

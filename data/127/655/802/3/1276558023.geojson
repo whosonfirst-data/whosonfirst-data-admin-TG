@@ -1,0 +1,74 @@
+{
+  "id": 1276558023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.68333,7.73333,0.68333,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":0.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bloumfou",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367419,
+    "gn:latitude":7.73333,
+    "gn:longitude":0.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bloumfou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brouffou",
+        "Blumfu",
+        "Blomfou",
+        "Bloumfou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367419
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b941d3414d558ca5c443477487b52e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561187,
+            "locality_id":1276558023,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1276558023,
+    "wof:lastmodified":1537702882,
+    "wof:name":"Bloumfou",
+    "wof:parent_id":1108561187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.68333,
+    7.73333,
+    0.68333,
+    7.73333
+],
+  "geometry": {"coordinates":[0.68333,7.73333],"type":"Point"}
+}

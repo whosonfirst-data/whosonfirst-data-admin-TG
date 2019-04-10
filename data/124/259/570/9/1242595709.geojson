@@ -1,0 +1,71 @@
+{
+  "id": 1242595709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86667,9.53333,0.86667,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":0.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Niempenou",
+    "gn:country_code":"TG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364787,
+    "gn:latitude":9.53333,
+    "gn:longitude":0.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ni\u00e8mp\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u00e8mp\u00e9nou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364787,
+        "wk:page":"Niempenou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4720c95247bcdc650cf27cdb50fb817c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1242595709,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1242595709,
+    "wof:lastmodified":1537702848,
+    "wof:name":"Niempenou",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86667,
+    9.53333,
+    0.86667,
+    9.53333
+],
+  "geometry": {"coordinates":[0.86667,9.53333],"type":"Point"}
+}

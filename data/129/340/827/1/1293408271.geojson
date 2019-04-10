@@ -1,0 +1,67 @@
+{
+  "id": 1293408271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48333,6.35,1.48333,6.35",
+    "geom:latitude":6.35,
+    "geom:longitude":1.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sokome",
+    "gn:country_code":"TG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364102,
+    "gn:latitude":6.35,
+    "gn:longitude":1.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sokom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364102
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"332782eaacc0293f826240d7e8e35d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1293408271,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1293408271,
+    "wof:lastmodified":1536901324,
+    "wof:name":"Sokome",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48333,
+    6.35,
+    1.48333,
+    6.35
+],
+  "geometry": {"coordinates":[1.48333,6.35],"type":"Point"}
+}

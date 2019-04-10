@@ -1,0 +1,66 @@
+{
+  "id": 1209324713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06667,7.81667,1.06667,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":1.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ogodji",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364672,
+    "gn:latitude":7.81667,
+    "gn:longitude":1.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ogodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koulama",
+        "Ogodji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364672
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"10349eb7e9a5fe10cf7192674ff10e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209324713
+        }
+    ],
+    "wof:id":1209324713,
+    "wof:lastmodified":1537702846,
+    "wof:name":"Ogodji",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06667,
+    7.81667,
+    1.06667,
+    7.81667
+],
+  "geometry": {"coordinates":[1.06667,7.81667],"type":"Point"}
+}

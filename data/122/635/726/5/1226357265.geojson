@@ -1,0 +1,67 @@
+{
+  "id": 1226357265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.13333,8.81667,1.13333,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":1.13333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Batchang",
+    "gn:country_code":"TG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367555,
+    "gn:latitude":8.81667,
+    "gn:longitude":1.13333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Batchang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367555
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"19e66777f7b38896a8a7f41b61ba4910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561175,
+            "locality_id":1226357265,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1226357265,
+    "wof:lastmodified":1536773469,
+    "wof:name":"Batchang",
+    "wof:parent_id":1108561175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.13333,
+    8.81667,
+    1.13333,
+    8.81667
+],
+  "geometry": {"coordinates":[1.13333,8.81667],"type":"Point"}
+}

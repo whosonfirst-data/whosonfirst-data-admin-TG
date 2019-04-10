@@ -1,0 +1,71 @@
+{
+  "id": 1343671717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.6,9.43333,0.6,9.43333",
+    "geom:latitude":9.43333,
+    "geom:longitude":0.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tabale",
+    "gn:country_code":"TG",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364044,
+    "gn:latitude":9.43333,
+    "gn:longitude":0.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tabal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabal\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364044,
+        "wk:page":"Tabale"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"97130399d624e0895e4bd075d1ae1809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1343671717,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1343671717,
+    "wof:lastmodified":1537702840,
+    "wof:name":"Tabale",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.6,
+    9.43333,
+    0.6,
+    9.43333
+],
+  "geometry": {"coordinates":[0.6,9.43333],"type":"Point"}
+}

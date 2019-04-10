@@ -1,0 +1,72 @@
+{
+  "id": 1226000595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18306,6.19028,1.18306,6.19028",
+    "geom:latitude":6.19028,
+    "geom:longitude":1.18306,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Gblenkome",
+    "gn:country_code":"TG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366558,
+    "gn:latitude":6.19028,
+    "gn:longitude":1.18306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gblenkom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glenkov\u00e9",
+        "Gblenkom\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366558
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"c0285c31f464e399eab4b9afa3240d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1226000595,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1226000595,
+    "wof:lastmodified":1537702871,
+    "wof:name":"Gblenkome",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18306,
+    6.19028,
+    1.18306,
+    6.19028
+],
+  "geometry": {"coordinates":[1.18306,6.19028],"type":"Point"}
+}

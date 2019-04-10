@@ -1,0 +1,61 @@
+{
+  "id": 1209429469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.93333,9.98333,0.93333,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":0.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Wihote",
+    "gn:country_code":"TG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363420,
+    "gn:latitude":9.98333,
+    "gn:longitude":0.93333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Wihot\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363420
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"eba87b920e0b85b7c00fda98eefc8184",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209429469
+        }
+    ],
+    "wof:id":1209429469,
+    "wof:lastmodified":1536287279,
+    "wof:name":"Wihote",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.93333,
+    9.98333,
+    0.93333,
+    9.98333
+],
+  "geometry": {"coordinates":[0.93333,9.98333],"type":"Point"}
+}

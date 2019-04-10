@@ -1,0 +1,73 @@
+{
+  "id": 1209928917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.2,6.55,1.2,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":1.2,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nossikope",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364754,
+    "gn:latitude":6.55,
+    "gn:longitude":1.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nossikop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nosi Kop\u00e9",
+        "S\u00e9vo Kop\u00e9",
+        "Nossikop\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364754
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"08e169e6a0f8b15d8d020406ce43e8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1209928917,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1209928917,
+    "wof:lastmodified":1537702848,
+    "wof:name":"Nossikope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.2,
+    6.55,
+    1.2,
+    6.55
+],
+  "geometry": {"coordinates":[1.2,6.55],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343619525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.18639,6.21556,1.18639,6.21556",
+    "geom:latitude":6.21556,
+    "geom:longitude":1.18639,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Azongo",
+    "gn:country_code":"TG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2589752,
+    "gn:latitude":6.21556,
+    "gn:longitude":1.18639,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Azongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421171049,
+        1175613667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2589752
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a039a08c2373c8244080c4af1d4007f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421171049,
+            "locality_id":1343619525,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1343619525,
+    "wof:lastmodified":1537013496,
+    "wof:name":"Azongo",
+    "wof:parent_id":1175613667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.18639,
+    6.21556,
+    1.18639,
+    6.21556
+],
+  "geometry": {"coordinates":[1.18639,6.21556],"type":"Point"}
+}

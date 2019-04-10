@@ -1,0 +1,67 @@
+{
+  "id": 1344166931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.85,10.95,0.85,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":0.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Teouli",
+    "gn:country_code":"TG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363830,
+    "gn:latitude":10.95,
+    "gn:longitude":0.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"T\u00e9ouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363830
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"e85eafaddaeab3f9a6724ec74a28df00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":1344166931,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1344166931,
+    "wof:lastmodified":1536722213,
+    "wof:name":"Teouli",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.85,
+    10.95,
+    0.85,
+    10.95
+],
+  "geometry": {"coordinates":[0.85,10.95],"type":"Point"}
+}

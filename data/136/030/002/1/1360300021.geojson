@@ -1,0 +1,71 @@
+{
+  "id": 1360300021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.63333,9.25,0.63333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":0.63333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kissachieou",
+    "gn:country_code":"TG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366011,
+    "gn:latitude":9.25,
+    "gn:longitude":0.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kissachi\u00e9ou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kissachi\u00e9ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366011,
+        "wk:page":"Kissachieou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"51a3033adff513d7d9aed63b3ea0eb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1360300021,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1360300021,
+    "wof:lastmodified":1537702864,
+    "wof:name":"Kissachieou",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.63333,
+    9.25,
+    0.63333,
+    9.25
+],
+  "geometry": {"coordinates":[0.63333,9.25],"type":"Point"}
+}

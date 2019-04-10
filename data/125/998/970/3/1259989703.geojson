@@ -1,0 +1,72 @@
+{
+  "id": 1259989703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.86667,6.55,0.86667,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":0.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aki",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368195,
+    "gn:latitude":6.55,
+    "gn:longitude":0.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atti",
+        "Aki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368195
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"85a91b5bfbea5c07bfa27d5b951612a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1259989703,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1259989703,
+    "wof:lastmodified":1537702893,
+    "wof:name":"Aki",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.86667,
+    6.55,
+    0.86667,
+    6.55
+],
+  "geometry": {"coordinates":[0.86667,6.55],"type":"Point"}
+}

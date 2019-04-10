@@ -1,0 +1,72 @@
+{
+  "id": 890418167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.41667,9.03333,1.41667,9.03333",
+    "geom:latitude":9.03333,
+    "geom:longitude":1.41667,
+    "gn:country":"TG",
+    "gn:fcode":"PPL",
+    "gn:pop":25668,
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kouboni"
+    ],
+    "qs:name":"Tchamba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":330,
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363908,
+        "gp:id":1441012,
+        "qs:id":1035247,
+        "wd:id":"Q2711981",
+        "wk:page":"Tchamba"
+    },
+    "wof:country":"TG",
+    "wof:created":1469051237,
+    "wof:geomhash":"69029142baf4c2046fc588efc865426d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":890418167,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":890418167,
+    "wof:lastmodified":1527792814,
+    "wof:name":"Tchamba",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:population":25668,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.41667,
+    9.03333,
+    1.41667,
+    9.03333
+],
+  "geometry": {"coordinates":[1.41667,9.03333],"type":"Point"}
+}

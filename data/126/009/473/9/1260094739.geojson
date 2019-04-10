@@ -1,0 +1,67 @@
+{
+  "id": 1260094739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.55,6.45,1.55,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":1.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Atchadipeme",
+    "gn:country_code":"TG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367874,
+    "gn:latitude":6.45,
+    "gn:longitude":1.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Atchadip\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367874
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"aed2b54b029a6d7410f62ae54aeb52bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1260094739,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1260094739,
+    "wof:lastmodified":1536971406,
+    "wof:name":"Atchadipeme",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.55,
+    6.45,
+    1.55,
+    6.45
+],
+  "geometry": {"coordinates":[1.55,6.45],"type":"Point"}
+}

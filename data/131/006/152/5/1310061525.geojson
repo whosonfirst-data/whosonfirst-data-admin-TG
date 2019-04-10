@@ -1,0 +1,67 @@
+{
+  "id": 1310061525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.48111,6.42667,1.48111,6.42667",
+    "geom:latitude":6.42667,
+    "geom:longitude":1.48111,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Atetime",
+    "gn:country_code":"TG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367841,
+    "gn:latitude":6.42667,
+    "gn:longitude":1.48111,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"At\u00e9tim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367841
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"a53f1694dc4baec90747d37adeaeabb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561201,
+            "locality_id":1310061525,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310061525,
+    "wof:lastmodified":1537057523,
+    "wof:name":"Atetime",
+    "wof:parent_id":1108561201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.48111,
+    6.42667,
+    1.48111,
+    6.42667
+],
+  "geometry": {"coordinates":[1.48111,6.42667],"type":"Point"}
+}

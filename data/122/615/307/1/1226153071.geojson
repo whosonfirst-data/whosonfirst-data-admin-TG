@@ -1,0 +1,72 @@
+{
+  "id": 1226153071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.56667,7.3,1.56667,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":1.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tchiheme",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363862,
+    "gn:latitude":7.3,
+    "gn:longitude":1.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tchih\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchi\u00e9m\u00e9",
+        "Tchih\u00e9m\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363862
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"75091b93b841ad04090e132d215bd9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561191,
+            "locality_id":1226153071,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1226153071,
+    "wof:lastmodified":1537702837,
+    "wof:name":"Tchiheme",
+    "wof:parent_id":1108561191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.56667,
+    7.3,
+    1.56667,
+    7.3
+],
+  "geometry": {"coordinates":[1.56667,7.3],"type":"Point"}
+}

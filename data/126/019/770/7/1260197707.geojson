@@ -1,0 +1,67 @@
+{
+  "id": 1260197707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03333,7.43333,1.03333,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":1.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Abonkope",
+    "gn:country_code":"TG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368618,
+    "gn:latitude":7.43333,
+    "gn:longitude":1.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Abonkop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368618
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"da4353a6c6fb7da92c29df9f02b62f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561189,
+            "locality_id":1260197707,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1260197707,
+    "wof:lastmodified":1536827351,
+    "wof:name":"Abonkope",
+    "wof:parent_id":1108561189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03333,
+    7.43333,
+    1.03333,
+    7.43333
+],
+  "geometry": {"coordinates":[1.03333,7.43333],"type":"Point"}
+}

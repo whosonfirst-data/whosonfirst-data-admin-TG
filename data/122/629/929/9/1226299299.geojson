@@ -1,0 +1,75 @@
+{
+  "id": 1226299299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.98595,8.32335,0.98595,8.32335",
+    "geom:latitude":8.32335,
+    "geom:longitude":0.98595,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Blitta",
+    "gn:country_code":"TG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367423,
+    "gn:latitude":8.32335,
+    "gn:longitude":0.98595,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Blitta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blita",
+        "Blibba",
+        "Blita-gare",
+        "Bliba",
+        "Blitta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367423,
+        "wk:page":"Blitta_Prefecture"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"3c623246b89d35d20d7f9121ca8269c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561181,
+            "locality_id":1226299299,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1226299299,
+    "wof:lastmodified":1537702882,
+    "wof:name":"Blitta",
+    "wof:parent_id":1108561181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.98595,
+    8.32335,
+    0.98595,
+    8.32335
+],
+  "geometry": {"coordinates":[0.98595,8.32335],"type":"Point"}
+}

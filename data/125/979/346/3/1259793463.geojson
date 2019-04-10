@@ -1,0 +1,67 @@
+{
+  "id": 1259793463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.0,7.18333,1.0,7.18333",
+    "geom:latitude":7.18333,
+    "geom:longitude":1.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kpegnon Agorome",
+    "gn:country_code":"TG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365531,
+    "gn:latitude":7.18333,
+    "gn:longitude":1.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kp\u00e9gnon Agorom\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365531
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ab8881b6f3d3806d4de08ad3521cd886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561195,
+            "locality_id":1259793463,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1259793463,
+    "wof:lastmodified":1536909013,
+    "wof:name":"Kpegnon Agorome",
+    "wof:parent_id":1108561195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.0,
+    7.18333,
+    1.0,
+    7.18333
+],
+  "geometry": {"coordinates":[1.0,7.18333],"type":"Point"}
+}

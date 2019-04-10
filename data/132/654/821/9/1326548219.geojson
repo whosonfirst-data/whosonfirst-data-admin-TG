@@ -1,0 +1,67 @@
+{
+  "id": 1326548219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.65,10.7,0.65,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":0.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yagou",
+    "gn:country_code":"TG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363384,
+    "gn:latitude":10.7,
+    "gn:longitude":0.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363384
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"46ca3c466bf5e17b385beaef43848f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1326548219,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1326548219,
+    "wof:lastmodified":1536960859,
+    "wof:name":"Yagou",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.65,
+    10.7,
+    0.65,
+    10.7
+],
+  "geometry": {"coordinates":[0.65,10.7],"type":"Point"}
+}

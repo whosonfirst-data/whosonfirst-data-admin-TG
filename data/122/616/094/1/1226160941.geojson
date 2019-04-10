@@ -1,0 +1,65 @@
+{
+  "id": 1226160941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.88333,10.85,0.88333,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":0.88333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kouyao",
+    "gn:country_code":"TG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365595,
+    "gn:latitude":10.85,
+    "gn:longitude":0.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kouyao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365595
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"92dc867e2283282a598a0a2e62eea5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "locality_id":1226160941,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":1226160941,
+    "wof:lastmodified":1537053507,
+    "wof:name":"Kouyao",
+    "wof:parent_id":85668825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.88333,
+    10.85,
+    0.88333,
+    10.85
+],
+  "geometry": {"coordinates":[0.88333,10.85],"type":"Point"}
+}

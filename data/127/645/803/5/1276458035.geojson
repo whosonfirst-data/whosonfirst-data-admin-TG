@@ -1,0 +1,67 @@
+{
+  "id": 1276458035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.33333,6.28333,1.33333,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":1.33333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kounadjekou Kope",
+    "gn:country_code":"TG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365685,
+    "gn:latitude":6.28333,
+    "gn:longitude":1.33333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Kounadj\u00e9kou Kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365685
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ab71a6559f0c12aa982f26bbc3d218a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1276458035,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276458035,
+    "wof:lastmodified":1536608825,
+    "wof:name":"Kounadjekou Kope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.33333,
+    6.28333,
+    1.33333,
+    6.28333
+],
+  "geometry": {"coordinates":[1.33333,6.28333],"type":"Point"}
+}

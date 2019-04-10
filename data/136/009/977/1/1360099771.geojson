@@ -1,0 +1,67 @@
+{
+  "id": 1360099771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.38333,10.6,0.38333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":0.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nagbeni",
+    "gn:country_code":"TG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365023,
+    "gn:latitude":10.6,
+    "gn:longitude":0.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Nagb\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678549,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365023
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7be8e2c96fd8f183dda1b0f4fdf9f332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":1360099771,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":1360099771,
+    "wof:lastmodified":1536925076,
+    "wof:name":"Nagbeni",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.38333,
+    10.6,
+    0.38333,
+    10.6
+],
+  "geometry": {"coordinates":[0.38333,10.6],"type":"Point"}
+}

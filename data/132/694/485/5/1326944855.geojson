@@ -1,0 +1,72 @@
+{
+  "id": 1326944855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.91667,8.68333,0.91667,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":0.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Melamboua",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365146,
+    "gn:latitude":8.68333,
+    "gn:longitude":0.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e9lamboua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9lanmboua",
+        "M\u00e9lamboua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365146
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"494a647b2d75748c2d1e64cc6d4fc927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561179,
+            "locality_id":1326944855,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1326944855,
+    "wof:lastmodified":1537702853,
+    "wof:name":"Melamboua",
+    "wof:parent_id":1108561179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.91667,
+    8.68333,
+    0.91667,
+    8.68333
+],
+  "geometry": {"coordinates":[0.91667,8.68333],"type":"Point"}
+}

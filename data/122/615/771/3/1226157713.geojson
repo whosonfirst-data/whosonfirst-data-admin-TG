@@ -1,0 +1,67 @@
+{
+  "id": 1226157713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.5,8.1,1.5,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":1.5,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ekpa",
+    "gn:country_code":"TG",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2366783,
+    "gn:latitude":8.1,
+    "gn:longitude":1.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ekpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2366783
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"caffb8c3d67a98dcca52b07d0b3ac8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561183,
+            "locality_id":1226157713,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1226157713,
+    "wof:lastmodified":1537057842,
+    "wof:name":"Ekpa",
+    "wof:parent_id":1108561183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.5,
+    8.1,
+    1.5,
+    8.1
+],
+  "geometry": {"coordinates":[1.5,8.1],"type":"Point"}
+}

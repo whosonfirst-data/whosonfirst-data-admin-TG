@@ -1,0 +1,73 @@
+{
+  "id": 1276461941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.61667,6.43333,1.61667,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":1.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Assou Kondji",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367900,
+    "gn:latitude":6.43333,
+    "gn:longitude":1.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Assou Kondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atou Kondji",
+        "Asou Kondji",
+        "Assou Kondji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        421198915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367900
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9dd8b2d8d4b2469b9e413b4a75403119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421198915,
+            "locality_id":1276461941,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1276461941,
+    "wof:lastmodified":1537702889,
+    "wof:name":"Assou Kondji",
+    "wof:parent_id":421198915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.61667,
+    6.43333,
+    1.61667,
+    6.43333
+],
+  "geometry": {"coordinates":[1.61667,6.43333],"type":"Point"}
+}

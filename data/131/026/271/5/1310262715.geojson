@@ -1,0 +1,71 @@
+{
+  "id": 1310262715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.12583,6.32222,1.12583,6.32222",
+    "geom:latitude":6.32222,
+    "geom:longitude":1.12583,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mission-Tove",
+    "gn:country_code":"TG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2365122,
+    "gn:latitude":6.32222,
+    "gn:longitude":1.12583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mission-Tov\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michon-Tov\u00e9",
+        "Mission-Tov\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2365122
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ebcf07ff84a0df307d5ec4f64d5fd232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1310262715,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1310262715,
+    "wof:lastmodified":1537702852,
+    "wof:name":"Mission-Tove",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.12583,
+    6.32222,
+    1.12583,
+    6.32222
+],
+  "geometry": {"coordinates":[1.12583,6.32222],"type":"Point"}
+}

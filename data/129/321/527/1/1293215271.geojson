@@ -1,0 +1,72 @@
+{
+  "id": 1293215271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81667,6.28333,1.81667,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":1.81667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agbanaken",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368428,
+    "gn:latitude":6.28333,
+    "gn:longitude":1.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agbanaken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbanakin",
+        "Agbanaken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668823,
+        421177249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368428
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"f0ee70fe4abb6ce2949ae7b391560d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421177249,
+            "locality_id":1293215271,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":1293215271,
+    "wof:lastmodified":1537702897,
+    "wof:name":"Agbanaken",
+    "wof:parent_id":421177249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81667,
+    6.28333,
+    1.81667,
+    6.28333
+],
+  "geometry": {"coordinates":[1.81667,6.28333],"type":"Point"}
+}

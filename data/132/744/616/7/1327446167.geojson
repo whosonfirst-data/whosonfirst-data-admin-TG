@@ -1,0 +1,67 @@
+{
+  "id": 1327446167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58333,8.25,1.58333,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":1.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Adioba",
+    "gn:country_code":"TG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368563,
+    "gn:latitude":8.25,
+    "gn:longitude":1.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Adioba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368563
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7f9e7ae1c8b67f594acbc3e6a26ad612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561183,
+            "locality_id":1327446167,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1327446167,
+    "wof:lastmodified":1536660854,
+    "wof:name":"Adioba",
+    "wof:parent_id":1108561183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58333,
+    8.25,
+    1.58333,
+    8.25
+],
+  "geometry": {"coordinates":[1.58333,8.25],"type":"Point"}
+}

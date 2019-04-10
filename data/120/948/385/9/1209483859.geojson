@@ -1,0 +1,62 @@
+{
+  "id": 1209483859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.21056,10.05444,1.21056,10.05444",
+    "geom:latitude":10.05444,
+    "geom:longitude":1.21056,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Koutougou",
+    "gn:country_code":"TG",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596740,
+    "gn:latitude":10.05444,
+    "gn:longitude":1.21056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Koutougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596740,
+        "wk:page":"Koutougou"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"602cf6b729bd0d265fa42a79494f57a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209483859
+        }
+    ],
+    "wof:id":1209483859,
+    "wof:lastmodified":1537573907,
+    "wof:name":"Koutougou",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.21056,
+    10.05444,
+    1.21056,
+    10.05444
+],
+  "geometry": {"coordinates":[1.21056,10.05444],"type":"Point"}
+}

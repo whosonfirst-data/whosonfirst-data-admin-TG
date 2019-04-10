@@ -1,0 +1,72 @@
+{
+  "id": 1243378389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06667,6.6,1.06667,6.6",
+    "geom:latitude":6.6,
+    "geom:longitude":1.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Agbetime",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368390,
+    "gn:latitude":6.6,
+    "gn:longitude":1.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Agb\u00e9time",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agb\u00e9tim",
+        "Agb\u00e9time"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368390
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"1de1d5c8e21f81c7a2f564cf90b94c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1243378389,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1243378389,
+    "wof:lastmodified":1537702896,
+    "wof:name":"Agbetime",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06667,
+    6.6,
+    1.06667,
+    6.6
+],
+  "geometry": {"coordinates":[1.06667,6.6],"type":"Point"}
+}

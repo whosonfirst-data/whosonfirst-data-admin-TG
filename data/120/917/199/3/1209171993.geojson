@@ -1,0 +1,65 @@
+{
+  "id": 1209171993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.39583,6.17778,1.39583,6.17778",
+    "geom:latitude":6.17778,
+    "geom:longitude":1.39583,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Afidenyigba",
+    "gn:country_code":"TG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2368476,
+    "gn:latitude":6.17778,
+    "gn:longitude":1.39583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Afid\u00e9nyigba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afid\u00e9nigba",
+        "Afid\u00e9nyigba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2368476
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"89dbe20f1f2aff186c59d89ecc18b6f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209171993
+        }
+    ],
+    "wof:id":1209171993,
+    "wof:lastmodified":1537702897,
+    "wof:name":"Afidenyigba",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.39583,
+    6.17778,
+    1.39583,
+    6.17778
+],
+  "geometry": {"coordinates":[1.39583,6.17778],"type":"Point"}
+}

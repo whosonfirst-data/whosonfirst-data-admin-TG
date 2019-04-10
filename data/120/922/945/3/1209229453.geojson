@@ -1,0 +1,67 @@
+{
+  "id": 1209229453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.05,6.56667,1.05,6.56667",
+    "geom:latitude":6.56667,
+    "geom:longitude":1.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nyassive",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364721,
+    "gn:latitude":6.56667,
+    "gn:longitude":1.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nyassiv\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niassiv\u00e9",
+        "Nyasiv\u00e9",
+        "Nyassiv\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364721
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"8ba5ac79ef2143b40dd1720f39f4562a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632647,
+            "locality_id":1209229453
+        }
+    ],
+    "wof:id":1209229453,
+    "wof:lastmodified":1537702847,
+    "wof:name":"Nyassive",
+    "wof:parent_id":85632647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.05,
+    6.56667,
+    1.05,
+    6.56667
+],
+  "geometry": {"coordinates":[1.05,6.56667],"type":"Point"}
+}

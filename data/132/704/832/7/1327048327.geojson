@@ -1,0 +1,67 @@
+{
+  "id": 1327048327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.1,9.8,1.1,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":1.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baga",
+    "gn:country_code":"TG",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367649,
+    "gn:latitude":9.8,
+    "gn:longitude":1.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Baga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367649
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"90bd5cf8c3feee2818085eb3f011549b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561165,
+            "locality_id":1327048327,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1327048327,
+    "wof:lastmodified":1536737424,
+    "wof:name":"Baga",
+    "wof:parent_id":1108561165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.1,
+    9.8,
+    1.1,
+    9.8
+],
+  "geometry": {"coordinates":[1.1,9.8],"type":"Point"}
+}

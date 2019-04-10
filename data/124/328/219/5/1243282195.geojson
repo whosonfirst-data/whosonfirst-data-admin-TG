@@ -1,0 +1,72 @@
+{
+  "id": 1243282195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4,8.51667,1.4,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":1.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bagou",
+    "gn:cc2":"TG",
+    "gn:country_code":"TG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367644,
+    "gn:latitude":8.51667,
+    "gn:longitude":1.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagu",
+        "Bagou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678545,
+        1108561177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367644
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"eea8ec6c9fc623b216b4d7130537292d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561177,
+            "locality_id":1243282195,
+            "region_id":85678545
+        }
+    ],
+    "wof:id":1243282195,
+    "wof:lastmodified":1537702885,
+    "wof:name":"Bagou",
+    "wof:parent_id":1108561177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4,
+    8.51667,
+    1.4,
+    8.51667
+],
+  "geometry": {"coordinates":[1.4,8.51667],"type":"Point"}
+}

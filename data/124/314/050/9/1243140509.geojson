@@ -1,0 +1,67 @@
+{
+  "id": 1243140509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.21833,6.35917,1.21833,6.35917",
+    "geom:latitude":6.35917,
+    "geom:longitude":1.21833,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ouakpo Kope",
+    "gn:country_code":"TG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364587,
+    "gn:latitude":6.35917,
+    "gn:longitude":1.21833,
+    "gn:modification_date":"2009-03-12",
+    "gn:name":"Ouakpo Kop\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678537,
+        1108561199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364587
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"18f9e4267b3202fc02bb7c1e24b3165d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561199,
+            "locality_id":1243140509,
+            "region_id":85678537
+        }
+    ],
+    "wof:id":1243140509,
+    "wof:lastmodified":1536749655,
+    "wof:name":"Ouakpo Kope",
+    "wof:parent_id":1108561199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.21833,
+    6.35917,
+    1.21833,
+    6.35917
+],
+  "geometry": {"coordinates":[1.21833,6.35917],"type":"Point"}
+}

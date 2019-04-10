@@ -1,0 +1,67 @@
+{
+  "id": 1343780385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.53333,7.31667,1.53333,7.31667",
+    "geom:latitude":7.31667,
+    "geom:longitude":1.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Niebodji",
+    "gn:country_code":"TG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2364791,
+    "gn:latitude":7.31667,
+    "gn:longitude":1.53333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ni\u00e9bodji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678531,
+        1108561191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2364791
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"b118c8d8683c83bc353744dc5cee6591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561191,
+            "locality_id":1343780385,
+            "region_id":85678531
+        }
+    ],
+    "wof:id":1343780385,
+    "wof:lastmodified":1536782732,
+    "wof:name":"Niebodji",
+    "wof:parent_id":1108561191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.53333,
+    7.31667,
+    1.53333,
+    7.31667
+],
+  "geometry": {"coordinates":[1.53333,7.31667],"type":"Point"}
+}

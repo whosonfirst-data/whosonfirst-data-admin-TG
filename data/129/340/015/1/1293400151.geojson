@@ -1,0 +1,71 @@
+{
+  "id": 1293400151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53333,9.06667,0.53333,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":0.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bakoule",
+    "gn:country_code":"TG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2367633,
+    "gn:latitude":9.06667,
+    "gn:longitude":0.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakoul\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lome",
+    "iso:country":"TG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakoul\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632647,
+        85678541,
+        1108561171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2367633,
+        "wk:page":"Bakoule"
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"915da664dff82ce489f904d013f5b438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561171,
+            "locality_id":1293400151,
+            "region_id":85678541
+        }
+    ],
+    "wof:id":1293400151,
+    "wof:lastmodified":1537702885,
+    "wof:name":"Bakoule",
+    "wof:parent_id":1108561171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53333,
+    9.06667,
+    0.53333,
+    9.06667
+],
+  "geometry": {"coordinates":[0.53333,9.06667],"type":"Point"}
+}
