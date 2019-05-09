@@ -10,6 +10,12 @@
     "geom:latitude":9.826394,
     "geom:longitude":1.08176,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Doufelgou Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.758421,
     "lbl:longitude":0.977916,
     "meso:admin_1":"DE LA KARA",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561165,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718115,
     "wof:name":"Doufelgou",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

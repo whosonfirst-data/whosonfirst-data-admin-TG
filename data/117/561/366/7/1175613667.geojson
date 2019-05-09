@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029111,
-    "geom:area_square_m":60351803.49634,
+    "geom:area_square_m":357856740.024858,
     "geom:bbox":"1.08380615188,6.10344495214,1.38752095962,6.30625667827",
     "geom:latitude":6.20375,
     "geom:longitude":1.207245,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Golfe Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":6.141802,
     "lbl:longitude":1.228591,
     "meso:admin_1":"LOME",
@@ -34,6 +40,9 @@
         "Golfe (incl Lom\u00e9)"
     ],
     "name:fra_x_preferred":[
+        "Pr\u00e9fecture du Golfe"
+    ],
+    "name:fre_x_preferred":[
         "Pr\u00e9fecture du Golfe"
     ],
     "name:und_x_variant":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1175613667,
-    "wof:lastmodified":1534985987,
+    "wof:lastmodified":1555047724,
     "wof:name":"Golfe",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

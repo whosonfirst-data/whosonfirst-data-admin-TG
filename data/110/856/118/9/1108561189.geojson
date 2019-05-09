@@ -10,6 +10,12 @@
     "geom:latitude":7.539295,
     "geom:longitude":1.002108,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Amou Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.428033,
     "lbl:longitude":1.035956,
     "meso:admin_1":"DES PLATEAUX",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561189,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718117,
     "wof:name":"Amou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

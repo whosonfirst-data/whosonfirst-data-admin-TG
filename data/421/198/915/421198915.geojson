@@ -10,6 +10,12 @@
     "geom:latitude":6.383736,
     "geom:longitude":1.640427,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Lacs Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":6.357856,
     "lbl:longitude":1.689935,
     "meso:admin_1":"MARITIME",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421198915,
-    "wof:lastmodified":1544032799,
+    "wof:lastmodified":1553717543,
     "wof:name":"Lacs",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

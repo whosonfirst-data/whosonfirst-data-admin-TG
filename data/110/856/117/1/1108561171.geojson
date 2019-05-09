@@ -10,6 +10,12 @@
     "geom:latitude":9.271478,
     "geom:longitude":0.757116,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Bassar Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.273189,
     "lbl:longitude":0.752765,
     "meso:admin_1":"DE LA KARA",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561171,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718115,
     "wof:name":"Bassar",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

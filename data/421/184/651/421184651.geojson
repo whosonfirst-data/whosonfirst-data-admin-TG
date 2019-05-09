@@ -10,6 +10,12 @@
     "geom:latitude":9.732245,
     "geom:longitude":1.310856,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Binah Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.763227,
     "lbl:longitude":1.292245,
     "meso:admin_1":"DE LA KARA",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421184651,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1553717431,
     "wof:name":"Binah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

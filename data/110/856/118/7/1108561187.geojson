@@ -10,6 +10,12 @@
     "geom:latitude":7.670985,
     "geom:longitude":0.763283,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Wawa Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.562867,
     "lbl:longitude":0.735685,
     "meso:admin_1":"DES PLATEAUX",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561187,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718117,
     "wof:name":"Wawa",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

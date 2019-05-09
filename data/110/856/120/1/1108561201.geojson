@@ -10,6 +10,12 @@
     "geom:latitude":6.385391,
     "geom:longitude":1.485114,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Vo Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":6.385749,
     "lbl:longitude":1.487379,
     "meso:admin_1":"MARITIME",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561201,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1553718114,
     "wof:name":"Vo",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

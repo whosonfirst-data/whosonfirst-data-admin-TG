@@ -10,6 +10,12 @@
     "geom:latitude":10.658365,
     "geom:longitude":0.145531,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Tandjouare Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.65333,
     "lbl:longitude":0.167373,
     "meso:admin_1":"DES SAVANES",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108561159,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1553718114,
     "wof:name":"Tandjouare",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

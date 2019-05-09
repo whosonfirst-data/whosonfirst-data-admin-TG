@@ -10,6 +10,12 @@
     "geom:latitude":7.194113,
     "geom:longitude":1.560524,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Moyen-Mono Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.197314,
     "lbl:longitude":1.560552,
     "meso:admin_1":"DES PLATEAUX",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108561191,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718117,
     "wof:name":"Moyen-Mono",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

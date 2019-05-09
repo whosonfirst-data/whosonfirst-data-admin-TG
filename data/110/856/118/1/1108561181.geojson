@@ -10,6 +10,12 @@
     "geom:latitude":8.163148,
     "geom:longitude":0.931665,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Blitta Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":8.175767,
     "lbl:longitude":0.890736,
     "meso:admin_1":"DU CENTRE",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108561181,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718116,
     "wof:name":"Blitta",
     "wof:parent_id":85678545,
     "wof:placetype":"county",

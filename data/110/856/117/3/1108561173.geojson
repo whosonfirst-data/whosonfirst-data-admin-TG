@@ -10,6 +10,12 @@
     "geom:latitude":9.344504,
     "geom:longitude":1.195542,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Assoli Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.343892,
     "lbl:longitude":1.236296,
     "meso:admin_1":"DE LA KARA",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561173,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718116,
     "wof:name":"Assoli",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

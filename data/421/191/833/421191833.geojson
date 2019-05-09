@@ -10,6 +10,12 @@
     "geom:latitude":10.850688,
     "geom:longitude":0.613603,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Kpendjal Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.846225,
     "lbl:longitude":0.619314,
     "meso:admin_1":"DES SAVANES",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421191833,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717511,
     "wof:name":"Kpendjal",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

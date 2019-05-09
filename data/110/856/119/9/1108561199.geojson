@@ -10,6 +10,12 @@
     "geom:latitude":6.511318,
     "geom:longitude":1.086948,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Zio Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":6.523637,
     "lbl:longitude":1.093277,
     "meso:admin_1":"MARITIME",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561199,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718114,
     "wof:name":"Zio",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

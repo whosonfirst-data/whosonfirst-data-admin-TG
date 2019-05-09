@@ -10,6 +10,12 @@
     "geom:latitude":7.572773,
     "geom:longitude":1.35298,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Ogou Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.522545,
     "lbl:longitude":1.38357,
     "meso:admin_1":"DES PLATEAUX",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421178017,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1553717370,
     "wof:name":"Ogou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

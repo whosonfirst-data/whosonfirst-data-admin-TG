@@ -10,6 +10,12 @@
     "geom:latitude":10.936802,
     "geom:longitude":0.168094,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Tone Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.942009,
     "lbl:longitude":0.172472,
     "meso:admin_1":"DES SAVANES",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108561157,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718114,
     "wof:name":"Tone",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.753499,
     "geom:longitude":0.77816,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Agou Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":6.742384,
     "lbl:longitude":0.781041,
     "meso:admin_1":"DES PLATEAUX",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421171045,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1553717322,
     "wof:name":"Agou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

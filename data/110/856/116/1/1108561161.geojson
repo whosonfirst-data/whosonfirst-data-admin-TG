@@ -10,6 +10,12 @@
     "geom:latitude":10.356748,
     "geom:longitude":0.561727,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Oti Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":10.411552,
     "lbl:longitude":0.568359,
     "meso:admin_1":"DES SAVANES",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561161,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718114,
     "wof:name":"Oti",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

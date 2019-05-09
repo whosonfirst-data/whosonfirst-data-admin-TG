@@ -10,6 +10,12 @@
     "geom:latitude":7.01985,
     "geom:longitude":1.233772,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Haho Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":7.004547,
     "lbl:longitude":1.227356,
     "meso:admin_1":"DES PLATEAUX",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561195,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718114,
     "wof:name":"Haho",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

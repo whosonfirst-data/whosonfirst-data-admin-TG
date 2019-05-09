@@ -10,6 +10,12 @@
     "geom:latitude":6.697089,
     "geom:longitude":1.446715,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Yoto Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":6.704429,
     "lbl:longitude":1.446695,
     "meso:admin_1":"MARITIME",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108561197,
-    "wof:lastmodified":1544032790,
+    "wof:lastmodified":1553718114,
     "wof:name":"Yoto",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

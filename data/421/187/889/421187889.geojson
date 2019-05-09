@@ -10,6 +10,12 @@
     "geom:latitude":9.550076,
     "geom:longitude":1.146597,
     "iso:country":"TG",
+    "label:eng_x_preferred_longname":[
+        "Kozah Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
+    ],
     "lbl:latitude":9.541219,
     "lbl:longitude":1.131391,
     "meso:admin_1":"DE LA KARA",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421187889,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1553717455,
     "wof:name":"Kozah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",
