@@ -18,19 +18,19 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u043b\u0438\u0433\u0431\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Tabligbo"
-    ],
     "name:eng_x_preferred":[
         "Tabligbo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tabligbo"
     ],
     "name:ita_x_preferred":[
         "Tabligbo"
     ],
     "name:lit_x_preferred":[
+        "Tabligbo"
+    ],
+    "name:nld_x_preferred":[
         "Tabligbo"
     ],
     "name:pol_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890437081,
-    "wof:lastmodified":1527729752,
+    "wof:lastmodified":1561751833,
     "wof:name":"Tabligbo",
     "wof:parent_id":1108561197,
     "wof:placetype":"locality",
