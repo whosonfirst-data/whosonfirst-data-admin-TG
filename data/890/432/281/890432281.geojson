@@ -15,25 +15,25 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vogan"
-    ],
     "name:eng_x_preferred":[
         "Vogan"
     ],
     "name:epo_x_preferred":[
         "Vogano"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vogan"
     ],
     "name:ita_x_preferred":[
         "Vogan"
     ],
+    "name:nld_x_preferred":[
+        "Vogan"
+    ],
     "name:pol_x_preferred":[
         "Vogan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vogan"
     ],
     "name:rus_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890432281,
-    "wof:lastmodified":1527793034,
+    "wof:lastmodified":1561751833,
     "wof:name":"Vogan",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

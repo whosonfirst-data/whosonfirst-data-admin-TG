@@ -41,17 +41,11 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Mar\u00edtima"
     ],
-    "name:chi_x_preferred":[
-        "\u6ff1\u6d77\u5340"
-    ],
     "name:dan_x_preferred":[
         "Maritime"
     ],
     "name:deu_x_preferred":[
         "Region Maritime"
-    ],
-    "name:dut_x_preferred":[
-        "Maritime"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c1\u03b9\u03c4\u03af\u03bc"
@@ -84,15 +78,6 @@
         "R\u00e9gion Maritime",
         "R\u00e9gion maritime"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion maritime"
-    ],
-    "name:ger_x_preferred":[
-        "Region Maritime"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03b9\u03c4\u03af\u03bc"
-    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab0\u0ac0\u0a9f\u0abe\u0a88\u0aae \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -123,14 +108,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0930\u0940\u091f\u093e\u0907\u092e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Maritime Region"
+    ],
+    "name:nld_x_preferred":[
+        "Maritime"
     ],
     "name:nob_x_preferred":[
         "Maritime"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0627\u0631\u06cc\u062a\u06cc\u0645"
     ],
     "name:pol_x_preferred":[
         "Region Maritime"
@@ -139,9 +124,6 @@
         "Maritime"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Maritime"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Maritime"
     ],
     "name:rus_x_preferred":[
@@ -310,7 +292,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550524,
+    "wof:lastmodified":1561751822,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

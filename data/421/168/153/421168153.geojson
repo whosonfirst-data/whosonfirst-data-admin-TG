@@ -16,19 +16,10 @@
     "name:cat_x_preferred":[
         "Bafilo"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u83f2\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "Bafilo"
-    ],
     "name:eng_x_preferred":[
         "Bafilo"
     ],
     "name:fra_x_preferred":[
-        "Bafilo"
-    ],
-    "name:fre_x_preferred":[
         "Bafilo"
     ],
     "name:hun_x_preferred":[
@@ -37,13 +28,13 @@
     "name:ita_x_preferred":[
         "Bafilo"
     ],
+    "name:nld_x_preferred":[
+        "Bafilo"
+    ],
     "name:pol_x_preferred":[
         "Bafilo"
     ],
     "name:ron_x_preferred":[
-        "Bafilo"
-    ],
-    "name:rum_x_preferred":[
         "Bafilo"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421168153,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1561751832,
     "wof:name":"Bafilo",
     "wof:parent_id":1108561173,
     "wof:placetype":"locality",

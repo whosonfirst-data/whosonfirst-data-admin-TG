@@ -31,17 +31,14 @@
     "name:ces_x_preferred":[
         "Kara"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Kara"
     ],
     "name:deu_x_preferred":[
         "Kara"
     ],
-    "name:dut_x_preferred":[
-        "Kara"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Kara"
@@ -57,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Kara"
-    ],
-    "name:fre_x_preferred":[
-        "Kara"
-    ],
-    "name:ger_x_preferred":[
-        "Kara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0abe"
@@ -112,7 +100,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kara"
     ],
     "name:nld_x_preferred":[
@@ -133,7 +121,7 @@
     "name:por_x_preferred":[
         "Kara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kara"
     ],
     "name:rus_x_preferred":[
@@ -174,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "Kara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -220,7 +211,7 @@
         }
     ],
     "wof:id":421189775,
-    "wof:lastmodified":1527716271,
+    "wof:lastmodified":1561751833,
     "wof:name":"Kara",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

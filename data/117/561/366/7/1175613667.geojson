@@ -42,9 +42,6 @@
     "name:fra_x_preferred":[
         "Pr\u00e9fecture du Golfe"
     ],
-    "name:fre_x_preferred":[
-        "Pr\u00e9fecture du Golfe"
-    ],
     "name:und_x_variant":[
         "DU GOLFE"
     ],
@@ -103,7 +100,7 @@
         }
     ],
     "wof:id":1175613667,
-    "wof:lastmodified":1555047724,
+    "wof:lastmodified":1561751830,
     "wof:name":"Golfe",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

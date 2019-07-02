@@ -20,17 +20,17 @@
     "name:ben_x_preferred":[
         "\u0986\u09a4\u09be\u0995\u09aa\u09be\u09ae\u09c7"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5854\u5e15\u6885"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Atakpam\u00e9"
     ],
     "name:dan_x_preferred":[
         "Atakpam\u00e9"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Atakpam\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03b1\u03ba\u03c0\u03b1\u03bc\u03ad"
     ],
     "name:eng_x_preferred":[
         "Atakpam\u00e9"
@@ -41,14 +41,8 @@
     "name:fin_x_preferred":[
         "Atakpam\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atakpam\u00e9"
-    ],
-    "name:ger_x_preferred":[
-        "Atakpam\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03b1\u03ba\u03c0\u03b1\u03bc\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9f\u0a95\u0acd\u0aaa\u0aae\u0ac7"
@@ -83,8 +77,11 @@
     "name:mar_x_preferred":[
         "\u0905\u091f\u092a\u0945\u092e\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Atakpame"
+    ],
+    "name:nld_x_preferred":[
+        "Atakpam\u00e9"
     ],
     "name:nob_x_preferred":[
         "Atakpame"
@@ -95,7 +92,7 @@
     "name:por_x_preferred":[
         "Atakpam\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Atakpam\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -130,6 +127,9 @@
     ],
     "name:vie_x_preferred":[
         "Atakpam\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5854\u5e15\u6885"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Togo",
@@ -250,7 +250,7 @@
         }
     ],
     "wof:id":1141909167,
-    "wof:lastmodified":1514505968,
+    "wof:lastmodified":1561751838,
     "wof:name":"Atakpame",
     "wof:parent_id":1108561189,
     "wof:placetype":"locality",

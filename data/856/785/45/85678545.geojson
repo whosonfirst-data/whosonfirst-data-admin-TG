@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.104065,
-    "geom:area_square_m":13497258666.444231,
+    "geom:area_square_m":13497258666.444201,
     "geom:bbox":"0.374531157266,7.90182461027,1.64750605602,9.30727686993",
     "geom:latitude":8.627918,
     "geom:longitude":1.069289,
@@ -38,17 +38,11 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Central"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u90e8\u533a"
-    ],
     "name:dan_x_preferred":[
         "Centrale"
     ],
     "name:deu_x_preferred":[
         "Region Centrale"
-    ],
-    "name:dut_x_preferred":[
-        "Centrale"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
@@ -74,15 +68,6 @@
     "name:fra_x_variant":[
         "R\u00e9gion Centrale",
         "R\u00e9gion centrale"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00e9gion centrale"
-    ],
-    "name:ger_x_preferred":[
-        "Region Centrale"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -114,8 +99,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0927\u094d\u092f\u0935\u0930\u094d\u0924\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Centrale Region"
+    ],
+    "name:nld_x_preferred":[
+        "Centrale"
     ],
     "name:nob_x_preferred":[
         "Centrale"
@@ -127,9 +115,6 @@
         "Centrale"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Centrale"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Centrale"
     ],
     "name:rus_x_preferred":[
@@ -294,7 +279,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814827,
+    "wof:lastmodified":1561751821,
     "wof:name":"Centre",
     "wof:parent_id":85632647,
     "wof:placetype":"region",
