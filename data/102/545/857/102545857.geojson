@@ -12,11 +12,23 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0644\u0648\u0645\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Lom\u00e9\u2013Tokoin Airport"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Lom\u00e9"
     ],
+    "name:eng_x_preferred":[
+        "Lom\u00e9-Tokoin Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u0645\u0647-\u062a\u0648\u06a9\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Lom\u00e9-Tokoinin kansainv\u00e4linen lentoasema"
     ],
     "name:fra_x_preferred":[
         "A\u00e9roport international de Lom\u00e9-Tokoin"
@@ -33,14 +45,41 @@
     "name:lit_x_preferred":[
         "Lom\u0117-Tokoin oro uostas"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Tokoin"
+    ],
+    "name:nld_x_preferred":[
+        "Lom\u00e9-Tokoin Airport"
+    ],
+    "name:nob_x_preferred":[
+        "Lom\u00e9-Tokoin lufthavn"
+    ],
     "name:nor_x_preferred":[
         "Lom\u00e9-Tokoin lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Lom\u00e9"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Lom\u00e9-Tokoin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0435 \u2014 \u0422\u043e\u043a\u0443\u044d\u043d"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Lom\u00e9-Tokoin"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u0443\u043c\u04b3-\u0442\u0443\u043a\u0438\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Gnassingb\u00e9 Eyad\u00e9ma Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Lom\u00e9-Tokoin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u8f9b\u8d1d\u00b7\u57c3\u4e9a\u5fb7\u9a6c\u56fd\u9645\u673a\u573a"
     ],
     "oa:elevation_ft":"72",
     "oa:type":"medium_airport",
@@ -75,7 +114,7 @@
         }
     ],
     "wof:id":102545857,
-    "wof:lastmodified":1543846096,
+    "wof:lastmodified":1563241605,
     "wof:name":"Lome Tokoin Airport",
     "wof:parent_id":85678537,
     "wof:placetype":"campus",
