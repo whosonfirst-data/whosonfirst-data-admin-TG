@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09aa\u09be\u09b2\u09bf\u09ae\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Kpalim\u00e9"
+    ],
     "name:dan_x_preferred":[
         "Kpalim\u00e9"
     ],
@@ -37,10 +40,16 @@
     "name:eng_x_preferred":[
         "Palim\u00e9"
     ],
+    "name:eng_x_variant":[
+        "Kpalim\u00e9"
+    ],
     "name:fin_x_preferred":[
         "Palim\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Kpalim\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Kpalim\u00e9"
     ],
     "name:guj_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0caa\u0cbe\u0cb2\u0cbf\u0cae\u0ccd"
+    ],
+    "name:kbp_x_preferred":[
+        "Kpal\u0269ma"
     ],
     "name:kor_x_preferred":[
         "\ud06c\ud314\ub9ac\uba54"
@@ -172,7 +184,7 @@
         }
     ],
     "wof:id":1125784075,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242019,
     "wof:name":"Kpalim\u00e9",
     "wof:parent_id":1108561193,
     "wof:placetype":"locality",

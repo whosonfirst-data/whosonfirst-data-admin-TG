@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0433\u043e\u0443\u0434\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pagouda"
+    ],
     "name:eng_x_preferred":[
         "Pagouda"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:unk_x_variant":[
         "Kpagouda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u53e4\u9054"
     ],
     "qs:name":"Pagouda",
     "qs:photos_9r":0,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890435445,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242018,
     "wof:name":"Pagouda",
     "wof:parent_id":421184651,
     "wof:placetype":"locality",

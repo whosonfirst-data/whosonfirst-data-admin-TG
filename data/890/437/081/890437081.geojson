@@ -18,10 +18,16 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u043b\u0438\u0433\u0431\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Tabligbo"
+    ],
     "name:eng_x_preferred":[
         "Tabligbo"
     ],
     "name:fra_x_preferred":[
+        "Tabligbo"
+    ],
+    "name:frr_x_preferred":[
         "Tabligbo"
     ],
     "name:ita_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890437081,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242014,
     "wof:name":"Tabligbo",
     "wof:parent_id":1108561197,
     "wof:placetype":"locality",

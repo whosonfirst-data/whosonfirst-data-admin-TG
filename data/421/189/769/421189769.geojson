@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09a4\u09be\u0995\u09aa\u09be\u09ae\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Atakpam\u00e9"
+    ],
     "name:ces_x_preferred":[
         "Atakpam\u00e9"
     ],
@@ -43,6 +46,9 @@
     "name:fra_x_preferred":[
         "Atakpam\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Atakpam\u00e9"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9f\u0a95\u0acd\u0aaa\u0aae\u0ac7"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0c9f\u0cbe\u0c95\u0ccd\u0caa\u0cae\u0cc6"
+    ],
+    "name:kbp_x_preferred":[
+        "Atakpaam"
     ],
     "name:kor_x_preferred":[
         "\uc544\ud0c0\ud06c\ud30c\uba54"
@@ -114,6 +123,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e15\u0e31\u0e04\u0e1e\u0e32\u0e40\u0e21\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e15\u0e31\u0e01\u0e1b\u0e32\u0e40\u0e21"
     ],
     "name:tur_x_preferred":[
         "Atakpam\u00e9"
@@ -180,7 +192,7 @@
         }
     ],
     "wof:id":421189769,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242007,
     "wof:name":"Atakpam\u00e9",
     "wof:parent_id":421178017,
     "wof:placetype":"locality",

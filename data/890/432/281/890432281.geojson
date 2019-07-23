@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Vogan"
     ],
+    "name:frr_x_preferred":[
+        "Vogan"
+    ],
     "name:ita_x_preferred":[
         "Vogan"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Woga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u5ca1"
     ],
     "qs:name":"Vogan",
     "qs:photos_9r":0,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890432281,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242017,
     "wof:name":"Vogan",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

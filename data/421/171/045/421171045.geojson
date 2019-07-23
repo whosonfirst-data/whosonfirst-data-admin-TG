@@ -36,15 +36,20 @@
         "Agou"
     ],
     "name:eng_x_variant":[
-        "Agou",
         "Kloto",
         "KLOTO"
+    ],
+    "name:nld_x_preferred":[
+        "Kloto"
     ],
     "name:und_x_variant":[
         "DE KLOTO"
     ],
     "name:unk_x_variant":[
         "Kloto"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7f85\u6258\u7701"
     ],
     "qs:gn_country":"TG",
     "qs:gn_fcode":"ADM2",
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":421171045,
-    "wof:lastmodified":1553717322,
+    "wof:lastmodified":1563242013,
     "wof:name":"Agou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

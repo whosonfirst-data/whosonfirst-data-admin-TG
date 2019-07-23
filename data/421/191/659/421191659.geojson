@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u0442\u043e\u0443\u0431\u043e\u0443\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Sotouboua"
+    ],
     "name:eng_x_preferred":[
         "Sotouboua"
     ],
     "name:fra_x_preferred":[
+        "Sotouboua"
+    ],
+    "name:frr_x_preferred":[
         "Sotouboua"
     ],
     "name:ita_x_preferred":[
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421191659,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242009,
     "wof:name":"Sotouboua",
     "wof:parent_id":1108561179,
     "wof:placetype":"locality",

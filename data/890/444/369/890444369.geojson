@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u0995\u09c1\u09a1\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Sokod\u00e9"
+    ],
     "name:ces_x_preferred":[
         "Sokod\u00e9"
     ],
@@ -44,6 +47,9 @@
         "Sokod\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Sokod\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Sokod\u00e9"
     ],
     "name:guj_x_preferred":[
@@ -129,6 +135,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e0b\u0e42\u0e04\u0e40\u0e14\u0e30"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e2d\u0e01\u0e2d\u0e40\u0e14"
     ],
     "name:tur_x_preferred":[
         "Sokod\u00e9"
@@ -275,7 +284,7 @@
         }
     ],
     "wof:id":890444369,
-    "wof:lastmodified":1561751833,
+    "wof:lastmodified":1563242016,
     "wof:name":"Sokod\u00e9",
     "wof:parent_id":1108561175,
     "wof:placetype":"locality",

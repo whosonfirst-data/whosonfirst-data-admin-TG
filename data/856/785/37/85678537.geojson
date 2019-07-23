@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Mar\u00edtima"
     ],
+    "name:ceb_x_preferred":[
+        "Maritime"
+    ],
     "name:dan_x_preferred":[
         "Maritime"
     ],
@@ -78,6 +81,9 @@
         "R\u00e9gion Maritime",
         "R\u00e9gion maritime"
     ],
+    "name:frr_x_preferred":[
+        "Regiuun Maritime"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab0\u0ac0\u0a9f\u0abe\u0a88\u0aae \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -89,6 +95,9 @@
     ],
     "name:ita_x_preferred":[
         "Regione Marittima"
+    ],
+    "name:ita_x_variant":[
+        "regione Marittima"
     ],
     "name:jpn_x_preferred":[
         "\u6cbf\u5cb8\u5dde"
@@ -149,6 +158,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e23\u0e34\u0e44\u0e17\u0e21\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e21\u0e32\u0e23\u0e35\u0e15\u0e35\u0e21"
     ],
     "name:tur_x_preferred":[
         "Maritime"
@@ -292,7 +304,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561751822,
+    "wof:lastmodified":1563241670,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",
