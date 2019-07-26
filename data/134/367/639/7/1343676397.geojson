@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pesside Koundoum"
+    ],
     "name:und_x_variant":[
         "Pessid\u00e9 Koundoum"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343676397,
-    "wof:lastmodified":1537702844,
+    "wof:lastmodified":1564184131,
     "wof:name":"Pesside Koundoum",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

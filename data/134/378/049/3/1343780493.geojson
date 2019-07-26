@@ -26,6 +26,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouni"
+    ],
+    "name:fra_x_preferred":[
+        "Kouni"
+    ],
     "name:und_x_variant":[
         "Kuni",
         "K\u00fage",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343780493,
-    "wof:lastmodified":1537702859,
+    "wof:lastmodified":1564184116,
     "wof:name":"Kouni",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

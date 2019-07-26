@@ -25,6 +25,48 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kolo"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolo"
+    ],
+    "name:ces_x_preferred":[
+        "Kolo"
+    ],
+    "name:deu_x_preferred":[
+        "Kolo"
+    ],
+    "name:fra_x_preferred":[
+        "Kolo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kolo"
+    ],
+    "name:ita_x_preferred":[
+        "Kolo"
+    ],
+    "name:nld_x_preferred":[
+        "Kolo"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0142o"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Kolo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kolo"
+    ],
+    "name:szl_x_preferred":[
+        "Ko\u0142o"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1260295049,
-    "wof:lastmodified":1536696533,
+    "wof:lastmodified":1564184403,
     "wof:name":"Kolo",
     "wof:parent_id":1108561173,
     "wof:placetype":"locality",

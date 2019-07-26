@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wapambouni"
+    ],
     "name:und_x_variant":[
         "Wapammbouni",
         "Wapambouni"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1225962343,
-    "wof:lastmodified":1537702831,
+    "wof:lastmodified":1564184645,
     "wof:name":"Wapambouni",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

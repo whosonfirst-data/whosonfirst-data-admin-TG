@@ -25,6 +25,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0627\u0646\u06af\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30fc\u30d7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327152647,
-    "wof:lastmodified":1537081565,
+    "wof:lastmodified":1564184043,
     "wof:name":"Aban",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

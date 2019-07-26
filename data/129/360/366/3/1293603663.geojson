@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lidyobilbou"
+    ],
     "name:und_x_variant":[
         "Lidiobilbou",
         "Lidyobilbou"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293603663,
-    "wof:lastmodified":1537702854,
+    "wof:lastmodified":1564184196,
     "wof:name":"Lidyobilbou",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

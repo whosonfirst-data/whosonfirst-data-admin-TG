@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "S\u00e9gou"
+    ],
     "name:und_x_variant":[
         "S\u00e9gou"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343968217,
-    "wof:lastmodified":1537702842,
+    "wof:lastmodified":1564184090,
     "wof:name":"Segou",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

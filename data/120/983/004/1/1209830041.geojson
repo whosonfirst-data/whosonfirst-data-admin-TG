@@ -25,6 +25,21 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Atepa"
+    ],
+    "name:nld_x_preferred":[
+        "Atepa"
+    ],
+    "name:swe_x_preferred":[
+        "Atepa"
+    ],
+    "name:vie_x_preferred":[
+        "Atepa"
+    ],
+    "name:war_x_preferred":[
+        "Atepa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209830041,
-    "wof:lastmodified":1536369412,
+    "wof:lastmodified":1564184322,
     "wof:name":"Atepa",
     "wof:parent_id":1108561183,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Salaga"
+    ],
+    "name:ceb_x_preferred":[
+        "Salaga"
+    ],
+    "name:deu_x_preferred":[
+        "Salaga"
+    ],
+    "name:fra_x_preferred":[
+        "Salaga"
+    ],
+    "name:ita_x_preferred":[
+        "Salaga"
+    ],
+    "name:ron_x_preferred":[
+        "Salaga"
+    ],
+    "name:swe_x_preferred":[
+        "Salaga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u06af\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -42,7 +66,7 @@
         }
     ],
     "wof:id":1209333039,
-    "wof:lastmodified":1536290312,
+    "wof:lastmodified":1564184349,
     "wof:name":"Salaga",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",

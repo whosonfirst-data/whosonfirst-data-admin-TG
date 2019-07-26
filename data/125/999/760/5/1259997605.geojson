@@ -25,6 +25,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ayata"
+    ],
+    "name:que_x_preferred":[
+        "Ayata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259997605,
-    "wof:lastmodified":1536612303,
+    "wof:lastmodified":1564184581,
     "wof:name":"Ayata",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

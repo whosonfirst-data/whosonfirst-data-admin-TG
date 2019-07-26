@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kemerida"
+    ],
     "name:und_x_variant":[
         "Koum\u00e9rida",
         "K\u00e9m\u00e8rida"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327190435,
-    "wof:lastmodified":1537702859,
+    "wof:lastmodified":1564184085,
     "wof:name":"Kemerida",
     "wof:parent_id":421184651,
     "wof:placetype":"locality",

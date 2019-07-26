@@ -26,6 +26,27 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Anha"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0410\u043d\u044c\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Anha"
+    ],
+    "name:por_x_preferred":[
+        "Anha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0430-\u041d\u043e\u0432\u0430-\u0434\u0435-\u0410\u043d\u044c\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Anha"
+    ],
+    "name:tur_x_preferred":[
+        "Anha"
+    ],
     "name:und_x_variant":[
         "Ana",
         "Anha"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1310511463,
-    "wof:lastmodified":1537702891,
+    "wof:lastmodified":1564184465,
     "wof:name":"Anha",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

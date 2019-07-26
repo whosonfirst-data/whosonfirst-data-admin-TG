@@ -26,6 +26,21 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Asante"
+    ],
+    "name:deu_x_preferred":[
+        "Asante"
+    ],
+    "name:fra_x_preferred":[
+        "Asante"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0938\u0928\u094d\u0924\u0947"
+    ],
+    "name:ita_x_preferred":[
+        "Asante"
+    ],
     "name:und_x_variant":[
         "Assant\u00e9",
         "Asant\u00e9"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1243373523,
-    "wof:lastmodified":1537702890,
+    "wof:lastmodified":1564184507,
     "wof:name":"Asante",
     "wof:parent_id":421178017,
     "wof:placetype":"locality",

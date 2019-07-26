@@ -25,6 +25,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gbangbal\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Gbangbale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293705159,
-    "wof:lastmodified":1536970264,
+    "wof:lastmodified":1564184180,
     "wof:name":"Gbangbale",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

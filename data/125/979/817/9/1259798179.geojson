@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ny\u00e9konakpo\u00e9"
+    ],
     "name:und_x_variant":[
         "Ny\u00e9konakpo\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259798179,
-    "wof:lastmodified":1537702847,
+    "wof:lastmodified":1564184585,
     "wof:name":"Nyekonakpoe",
     "wof:parent_id":421171045,
     "wof:placetype":"locality",

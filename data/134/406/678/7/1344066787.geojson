@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tgl_x_preferred":[
+        "Tche"
+    ],
     "name:und_x_variant":[
         "Tchi\u00e9",
         "Tch\u00e9"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1344066787,
-    "wof:lastmodified":1537702837,
+    "wof:lastmodified":1564184101,
     "wof:name":"Tche",
     "wof:parent_id":1108561181,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kadogou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259593303,
-    "wof:lastmodified":1537573897,
+    "wof:lastmodified":1564184598,
     "wof:name":"Kadogou",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

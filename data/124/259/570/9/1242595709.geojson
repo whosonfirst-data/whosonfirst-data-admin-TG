@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Niempenou"
+    ],
     "name:und_x_variant":[
         "Ni\u00e8mp\u00e9nou"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242595709,
-    "wof:lastmodified":1537702848,
+    "wof:lastmodified":1564184525,
     "wof:name":"Niempenou",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

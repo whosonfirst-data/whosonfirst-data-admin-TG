@@ -25,6 +25,78 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0987\u09ad"
+    ],
+    "name:cat_x_preferred":[
+        "Live"
+    ],
+    "name:ces_x_preferred":[
+        "Live"
+    ],
+    "name:dan_x_preferred":[
+        "Live"
+    ],
+    "name:deu_x_preferred":[
+        "Live"
+    ],
+    "name:fin_x_preferred":[
+        "Live"
+    ],
+    "name:fra_x_preferred":[
+        "Live"
+    ],
+    "name:heb_x_preferred":[
+        "Live"
+    ],
+    "name:hun_x_preferred":[
+        "Live"
+    ],
+    "name:ita_x_preferred":[
+        "Live"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30d6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc774\ube0c"
+    ],
+    "name:nld_x_preferred":[
+        "Live"
+    ],
+    "name:nor_x_preferred":[
+        "Live"
+    ],
+    "name:pol_x_preferred":[
+        "Live"
+    ],
+    "name:por_x_preferred":[
+        "Live"
+    ],
+    "name:ron_x_preferred":[
+        "Live"
+    ],
+    "name:rus_x_preferred":[
+        "Live"
+    ],
+    "name:slk_x_preferred":[
+        "Live"
+    ],
+    "name:spa_x_preferred":[
+        "Live"
+    ],
+    "name:swe_x_preferred":[
+        "Live"
+    ],
+    "name:ukr_x_preferred":[
+        "Live"
+    ],
+    "name:wln_x_preferred":[
+        "Live"
+    ],
+    "name:zho_x_preferred":[
+        "Live"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +120,7 @@
         }
     ],
     "wof:id":1326886273,
-    "wof:lastmodified":1536970741,
+    "wof:lastmodified":1564184024,
     "wof:name":"Live",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

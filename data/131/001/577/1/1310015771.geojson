@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bessarakpenbe"
+    ],
     "name:und_x_variant":[
         "Bessarakpennb\u00e9",
         "B\u00e9ssarakpenb\u00e9"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310015771,
-    "wof:lastmodified":1537702884,
+    "wof:lastmodified":1564184437,
     "wof:name":"Bessarakpenbe",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

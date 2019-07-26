@@ -25,6 +25,15 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bame"
+    ],
+    "name:spa_x_preferred":[
+        "Bame"
+    ],
+    "name:swe_x_preferred":[
+        "Bame"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1193246765,
-    "wof:lastmodified":1536372506,
+    "wof:lastmodified":1564184377,
     "wof:name":"Bame",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

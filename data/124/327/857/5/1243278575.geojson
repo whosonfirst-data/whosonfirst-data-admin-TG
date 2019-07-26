@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Taouleba"
+    ],
     "name:und_x_variant":[
         "Taoul\u00e9ba"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243278575,
-    "wof:lastmodified":1537702838,
+    "wof:lastmodified":1564184564,
     "wof:name":"Taouleba",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

@@ -25,6 +25,45 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:deu_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:fra_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:frr_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:ita_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e3\u30e0\u30c8\u30a5\u30fc\u30b0\u30fc"
+    ],
+    "name:kbp_x_preferred":[
+        "\u00d1amt\u028a\u028a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\uc554\ud22c\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Niamtugu"
+    ],
+    "name:pol_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:ron_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:tur_x_preferred":[
+        "Niamtougou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u59c6\u5716\u53e4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1277084469,
-    "wof:lastmodified":1536765421,
+    "wof:lastmodified":1564184228,
     "wof:name":"Niamtougou",
     "wof:parent_id":1108561195,
     "wof:placetype":"locality",

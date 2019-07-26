@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boukpassiba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209625251,
-    "wof:lastmodified":1537573901,
+    "wof:lastmodified":1564184306,
     "wof:name":"Boukpassiba",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kawa"
+    ],
+    "name:deu_x_preferred":[
+        "Kawa"
+    ],
+    "name:fra_x_preferred":[
+        "Kawa"
+    ],
+    "name:kur_x_preferred":[
+        "Kawa"
+    ],
+    "name:pol_x_preferred":[
+        "Kawa"
+    ],
+    "name:swe_x_preferred":[
+        "Kawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259597909,
-    "wof:lastmodified":1536694139,
+    "wof:lastmodified":1564184597,
     "wof:name":"Kawa",
     "wof:parent_id":421184651,
     "wof:placetype":"locality",

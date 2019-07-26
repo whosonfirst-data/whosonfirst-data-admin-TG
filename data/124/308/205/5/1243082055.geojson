@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ah\u00e9p\u00e9"
+    ],
     "name:und_x_variant":[
         "Ah\u00e9p\u00e9 Asiko",
         "Ah\u00e9p\u00e9"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243082055,
-    "wof:lastmodified":1537702894,
+    "wof:lastmodified":1564184512,
     "wof:name":"Ahepe",
     "wof:parent_id":1108561197,
     "wof:placetype":"locality",

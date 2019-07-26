@@ -31,12 +31,45 @@
     "mps:longitude":0.752765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bassar"
+    ],
+    "name:deu_x_preferred":[
+        "Bassar"
+    ],
     "name:eng_x_preferred":[
         "Bassar"
     ],
     "name:eng_x_variant":[
         "Bassar",
         "BASSAR"
+    ],
+    "name:fra_x_preferred":[
+        "Bassar"
+    ],
+    "name:frr_x_preferred":[
+        "Bassar"
+    ],
+    "name:hrv_x_preferred":[
+        "Bassar"
+    ],
+    "name:hun_x_preferred":[
+        "Bassar"
+    ],
+    "name:ita_x_preferred":[
+        "Bassar"
+    ],
+    "name:kbp_x_preferred":[
+        "Paas\u025b\u025b"
+    ],
+    "name:pol_x_preferred":[
+        "Bassar"
+    ],
+    "name:ron_x_preferred":[
+        "Bassar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0430\u0440"
     ],
     "name:und_x_variant":[
         "DE BASSAR"
@@ -76,7 +109,7 @@
         }
     ],
     "wof:id":1108561171,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1564184415,
     "wof:name":"Bassar",
     "wof:parent_id":85678541,
     "wof:placetype":"county",
