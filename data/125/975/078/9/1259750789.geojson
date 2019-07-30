@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ana"
+    ],
     "name:und_x_variant":[
         "Ana",
         "Ani\u00e9"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259750789,
-    "wof:lastmodified":1537702891,
+    "wof:lastmodified":1564184615,
     "wof:name":"Anie",
     "wof:parent_id":421178017,
     "wof:placetype":"locality",

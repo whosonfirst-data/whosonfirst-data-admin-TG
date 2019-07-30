@@ -24,6 +24,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Senkase"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276243823,
-    "wof:lastmodified":1537573907,
+    "wof:lastmodified":1564184280,
     "wof:name":"Senkanse",
     "wof:parent_id":1108561157,
     "wof:placetype":"locality",

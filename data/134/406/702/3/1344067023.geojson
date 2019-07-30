@@ -25,6 +25,36 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gota"
+    ],
+    "name:ceb_x_preferred":[
+        "Gota"
+    ],
+    "name:deu_x_preferred":[
+        "Gota"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:fra_x_preferred":[
+        "G\u00f6ta"
+    ],
+    "name:glg_x_preferred":[
+        "Gota"
+    ],
+    "name:ita_x_preferred":[
+        "Gota"
+    ],
+    "name:por_x_preferred":[
+        "Gota"
+    ],
+    "name:spa_x_preferred":[
+        "Gota"
+    ],
+    "name:swe_x_preferred":[
+        "Gota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1344067023,
-    "wof:lastmodified":1536864683,
+    "wof:lastmodified":1564184100,
     "wof:name":"Gota",
     "wof:parent_id":1108561195,
     "wof:placetype":"locality",

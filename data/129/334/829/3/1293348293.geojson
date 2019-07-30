@@ -25,6 +25,18 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u099f\u09cb\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Toka"
+    ],
+    "name:deu_x_preferred":[
+        "Toka"
+    ],
+    "name:swe_x_preferred":[
+        "Toka"
+    ],
     "name:und_x_variant":[
         "Tokagam\u00e9",
         "Toka"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293348293,
-    "wof:lastmodified":1537702835,
+    "wof:lastmodified":1564184199,
     "wof:name":"Toka",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

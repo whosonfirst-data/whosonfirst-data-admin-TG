@@ -25,6 +25,24 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Llu\u00e7"
+    ],
+    "name:fra_x_preferred":[
+        "Colin"
+    ],
+    "name:gle_x_preferred":[
+        "Colm\u00f3ir"
+    ],
+    "name:por_x_preferred":[
+        "Pescada"
+    ],
+    "name:spa_x_preferred":[
+        "Merluza"
+    ],
+    "name:tgl_x_preferred":[
+        "Merlusa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276676387,
-    "wof:lastmodified":1536815288,
+    "wof:lastmodified":1564184257,
     "wof:name":"Hake",
     "wof:parent_id":1108561195,
     "wof:placetype":"locality",

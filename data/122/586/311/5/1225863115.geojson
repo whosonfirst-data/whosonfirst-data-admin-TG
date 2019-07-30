@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nassibiki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1225863115,
-    "wof:lastmodified":1537573891,
+    "wof:lastmodified":1564184642,
     "wof:name":"Nassibiki",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

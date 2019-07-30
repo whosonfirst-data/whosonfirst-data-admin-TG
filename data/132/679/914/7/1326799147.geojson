@@ -25,6 +25,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sirka"
+    ],
+    "name:fra_x_preferred":[
+        "Adumd\u00e9"
+    ],
     "name:und_x_variant":[
         "Lolu",
         "Ssirka",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1326799147,
-    "wof:lastmodified":1537702841,
+    "wof:lastmodified":1564184064,
     "wof:name":"Sirka",
     "wof:parent_id":421184651,
     "wof:placetype":"locality",

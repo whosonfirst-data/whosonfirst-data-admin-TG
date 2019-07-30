@@ -25,6 +25,21 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vogan"
+    ],
+    "name:frr_x_preferred":[
+        "Vogan"
+    ],
+    "name:ita_x_preferred":[
+        "Vogan"
+    ],
+    "name:pol_x_preferred":[
+        "Vogan"
+    ],
+    "name:ron_x_preferred":[
+        "Vogan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1310511299,
-    "wof:lastmodified":1537573885,
+    "wof:lastmodified":1564184462,
     "wof:name":"Vogan",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

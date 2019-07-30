@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dondonne"
+    ],
     "name:und_x_variant":[
         "Dondonn\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260294775,
-    "wof:lastmodified":1537702876,
+    "wof:lastmodified":1564184404,
     "wof:name":"Dondonne",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

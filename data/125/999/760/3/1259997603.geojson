@@ -26,6 +26,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Natchamba"
+    ],
+    "name:fra_x_preferred":[
+        "Natchamba"
+    ],
     "name:und_x_variant":[
         "Natchammba",
         "Natchamba"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259997603,
-    "wof:lastmodified":1537702850,
+    "wof:lastmodified":1564184580,
     "wof:name":"Natchamba",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

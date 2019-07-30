@@ -25,6 +25,18 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mabo"
+    ],
+    "name:epo_x_preferred":[
+        "Mabo"
+    ],
+    "name:fra_x_preferred":[
+        "Mabo"
+    ],
+    "name:swe_x_preferred":[
+        "Mabo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309730329,
-    "wof:lastmodified":1537038241,
+    "wof:lastmodified":1564184494,
     "wof:name":"Mabo",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

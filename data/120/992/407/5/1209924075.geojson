@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Samba"
+    ],
     "name:und_x_variant":[
         "Sammba",
         "Samba"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209924075,
-    "wof:lastmodified":1537702843,
+    "wof:lastmodified":1564184338,
     "wof:name":"Samba",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

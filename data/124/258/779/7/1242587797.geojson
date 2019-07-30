@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dodji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242587797,
-    "wof:lastmodified":1537046892,
+    "wof:lastmodified":1564184526,
     "wof:name":"Dodji",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

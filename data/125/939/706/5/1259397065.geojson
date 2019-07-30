@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Naware"
+    ],
     "name:und_x_variant":[
         "Nawar\u00e9"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259397065,
-    "wof:lastmodified":1537702849,
+    "wof:lastmodified":1564184574,
     "wof:name":"Naware",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

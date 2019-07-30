@@ -26,6 +26,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jimbiri"
+    ],
     "name:und_x_variant":[
         "Jimmbiri",
         "Jimbiri"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343373343,
-    "wof:lastmodified":1537702867,
+    "wof:lastmodified":1564184093,
     "wof:name":"Jimbiri",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

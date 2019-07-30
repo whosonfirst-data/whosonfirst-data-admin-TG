@@ -26,6 +26,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Garbade"
+    ],
+    "name:spa_x_preferred":[
+        "Garbade"
+    ],
     "name:und_x_variant":[
         "Guarbad\u00e9",
         "Garbad\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1225962493,
-    "wof:lastmodified":1537702872,
+    "wof:lastmodified":1564184646,
     "wof:name":"Garbade",
     "wof:parent_id":1108561187,
     "wof:placetype":"locality",

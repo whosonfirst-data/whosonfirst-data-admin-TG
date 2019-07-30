@@ -26,6 +26,36 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Veve"
+    ],
+    "name:dan_x_preferred":[
+        "V\u00e9v\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Veve"
+    ],
+    "name:fra_x_preferred":[
+        "V\u00e9v\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Veve"
+    ],
+    "name:lat_x_preferred":[
+        "Veve"
+    ],
+    "name:por_x_preferred":[
+        "Veve"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0432\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Veve"
+    ],
+    "name:swe_x_preferred":[
+        "Veve"
+    ],
     "name:und_x_variant":[
         "Wev\u00e9",
         "V\u00e9v\u00e9"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1193034315,
-    "wof:lastmodified":1537702833,
+    "wof:lastmodified":1564184384,
     "wof:name":"Veve",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

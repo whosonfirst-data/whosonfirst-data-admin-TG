@@ -25,6 +25,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Houde"
+    ],
+    "name:fra_x_preferred":[
+        "Houde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276562725,
-    "wof:lastmodified":1536968389,
+    "wof:lastmodified":1564184247,
     "wof:name":"Houde",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

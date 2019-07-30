@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Agound\u00e9"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0646\u062f\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1277092169,
-    "wof:lastmodified":1537702895,
+    "wof:lastmodified":1564184231,
     "wof:name":"Agounde",
     "wof:parent_id":1108561165,
     "wof:placetype":"locality",

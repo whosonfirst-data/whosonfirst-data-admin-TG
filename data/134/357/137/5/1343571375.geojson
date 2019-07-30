@@ -25,8 +25,17 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lank\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Lanke"
+    ],
     "name:und_x_variant":[
         "Lank\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06a9\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343571375,
-    "wof:lastmodified":1537702855,
+    "wof:lastmodified":1564184125,
     "wof:name":"Lanke",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

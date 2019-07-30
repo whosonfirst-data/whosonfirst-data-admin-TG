@@ -25,6 +25,21 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Togoville"
+    ],
+    "name:deu_x_preferred":[
+        "Togoville"
+    ],
+    "name:fra_x_preferred":[
+        "Togoville"
+    ],
+    "name:ita_x_preferred":[
+        "Togoville"
+    ],
+    "name:ron_x_preferred":[
+        "Togoville"
+    ],
     "name:und_x_variant":[
         "Togo",
         "Togoville"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293260515,
-    "wof:lastmodified":1537702835,
+    "wof:lastmodified":1564184217,
     "wof:name":"Togoville",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tandjouar\u00e9"
+    ],
     "name:und_x_variant":[
         "Tandjouar\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5510\u5112\u963f\u96f7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243035217,
-    "wof:lastmodified":1537702838,
+    "wof:lastmodified":1564184542,
     "wof:name":"Tandjouare",
     "wof:parent_id":1108561159,
     "wof:placetype":"locality",

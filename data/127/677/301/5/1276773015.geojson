@@ -25,6 +25,9 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kiniakara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276773015,
-    "wof:lastmodified":1537573896,
+    "wof:lastmodified":1564184286,
     "wof:name":"Kiniakara",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

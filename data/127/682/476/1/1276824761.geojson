@@ -25,6 +25,24 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amou"
+    ],
+    "name:fra_x_preferred":[
+        "Amou"
+    ],
+    "name:ita_x_preferred":[
+        "Amou"
+    ],
+    "name:nld_x_preferred":[
+        "Amou"
+    ],
+    "name:slk_x_preferred":[
+        "Amou"
+    ],
+    "name:swe_x_preferred":[
+        "Amou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276824761,
-    "wof:lastmodified":1536615217,
+    "wof:lastmodified":1564184274,
     "wof:name":"Amou",
     "wof:parent_id":1175613667,
     "wof:placetype":"locality",

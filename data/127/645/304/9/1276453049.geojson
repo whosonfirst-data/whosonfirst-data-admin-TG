@@ -25,8 +25,17 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Langond\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Langonde"
+    ],
     "name:und_x_variant":[
         "Langond\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0648\u0646\u0688\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276453049,
-    "wof:lastmodified":1537702855,
+    "wof:lastmodified":1564184240,
     "wof:name":"Langonde",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Ez\u00f3k"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8766\u5937\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc870\uce58"
+    ],
+    "name:zho_x_preferred":[
+        "\u8766\u5937\u5730"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276611665,
-    "wof:lastmodified":1536903451,
+    "wof:lastmodified":1564184264,
     "wof:name":"Ezo",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

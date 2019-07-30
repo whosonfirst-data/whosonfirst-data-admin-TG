@@ -26,6 +26,15 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pamber"
+    ],
+    "name:pol_x_preferred":[
+        "Pamber"
+    ],
+    "name:swe_x_preferred":[
+        "Pamber"
+    ],
     "name:und_x_variant":[
         "Pammber",
         "Pamber"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1242989131,
-    "wof:lastmodified":1537702845,
+    "wof:lastmodified":1564184554,
     "wof:name":"Pamber",
     "wof:parent_id":1108561163,
     "wof:placetype":"locality",

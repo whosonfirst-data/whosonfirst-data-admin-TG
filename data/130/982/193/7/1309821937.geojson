@@ -25,6 +25,12 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oukr\u00e9do"
+    ],
+    "name:fra_x_preferred":[
+        "Oukredo"
+    ],
     "name:und_x_variant":[
         "Oukr\u00e9do"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309821937,
-    "wof:lastmodified":1537702846,
+    "wof:lastmodified":1564184486,
     "wof:name":"Oukredo",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

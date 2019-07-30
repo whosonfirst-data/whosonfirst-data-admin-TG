@@ -26,6 +26,15 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bagou"
+    ],
+    "name:fra_x_preferred":[
+        "Bagou"
+    ],
+    "name:swe_x_preferred":[
+        "Bagou"
+    ],
     "name:und_x_variant":[
         "Bagu",
         "Bagou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243282195,
-    "wof:lastmodified":1537702885,
+    "wof:lastmodified":1564184567,
     "wof:name":"Bagou",
     "wof:parent_id":1108561177,
     "wof:placetype":"locality",

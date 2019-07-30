@@ -25,12 +25,21 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:frr_x_preferred":[
+        "Blitta"
+    ],
+    "name:por_x_preferred":[
+        "Blitta"
+    ],
     "name:und_x_variant":[
         "Blita",
         "Blibba",
         "Blita-gare",
         "Bliba",
         "Blitta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5229\u5854\u7701"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1226299299,
-    "wof:lastmodified":1537702882,
+    "wof:lastmodified":1564184628,
     "wof:name":"Blitta",
     "wof:parent_id":1108561181,
     "wof:placetype":"locality",

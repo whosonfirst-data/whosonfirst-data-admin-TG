@@ -25,6 +25,30 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0435\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Awen"
+    ],
+    "name:cym_x_preferred":[
+        "Awen"
+    ],
+    "name:deu_x_preferred":[
+        "Awen"
+    ],
+    "name:fra_x_preferred":[
+        "Awen"
+    ],
+    "name:ita_x_preferred":[
+        "Awen"
+    ],
+    "name:slk_x_preferred":[
+        "Awen"
+    ],
+    "name:spa_x_preferred":[
+        "Awen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1326888289,
-    "wof:lastmodified":1536967901,
+    "wof:lastmodified":1564184023,
     "wof:name":"Awen",
     "wof:parent_id":1175613667,
     "wof:placetype":"locality",

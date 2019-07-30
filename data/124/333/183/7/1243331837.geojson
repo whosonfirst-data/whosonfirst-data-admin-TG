@@ -25,8 +25,20 @@
     "iso:country":"TG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Witi"
+    ],
+    "name:por_x_preferred":[
+        "Witiness Quembo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0442\u0438"
+    ],
     "name:und_x_variant":[
         "Viti",
+        "Witi"
+    ],
+    "name:vie_x_preferred":[
         "Witi"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243331837,
-    "wof:lastmodified":1537702833,
+    "wof:lastmodified":1564184546,
     "wof:name":"Witi",
     "wof:parent_id":1175613667,
     "wof:placetype":"locality",
