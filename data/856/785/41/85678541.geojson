@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":9.589125,
     "lbl:longitude":0.87536,
     "meso:name_local":"Kara",
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85678541,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563241671,
+    "wof:lastmodified":1565736959,
     "wof:name":"Kara",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

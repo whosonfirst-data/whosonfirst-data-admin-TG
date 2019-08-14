@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":10.631549,
     "lbl:longitude":0.487274,
     "meso:name_local":"Savanes",
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85678549,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563241672,
+    "wof:lastmodified":1565736959,
     "wof:name":"Savanes",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

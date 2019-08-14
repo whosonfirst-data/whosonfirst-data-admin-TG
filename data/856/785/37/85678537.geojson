@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":6.450816,
     "lbl:longitude":1.270917,
     "meso:name_local":"Maritime",
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85678537,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563241670,
+    "wof:lastmodified":1565736959,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",
