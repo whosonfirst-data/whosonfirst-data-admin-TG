@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.83,6.44667,0.87,6.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kpesougom\u00e9",
         "Kpatsougom\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209924379,
-    "wof:lastmodified":1537702857,
+    "wof:lastmodified":1566654444,
     "wof:name":"Kpatsougome",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

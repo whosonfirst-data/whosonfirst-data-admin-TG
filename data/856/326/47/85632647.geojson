@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":8.846267,
     "lbl:longitude":1.073832,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":8.846267,
     "mps:longitude":1.073832,
     "mz:hierarchy_label":1,
@@ -686,10 +688,7 @@
     "name:ukr_x_variant":[
         "\u0422\u043e\u0491\u043e"
     ],
-    "name:und_x_preferred":[
-        "Togolese Republic"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Republic of Togo"
     ],
     "name:urd_x_preferred":[
@@ -838,7 +837,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"228",
     "statoids:ds":"TG",
@@ -884,7 +883,7 @@
         "mzb:id":"togo",
         "ne:adm0_a3":"TGO",
         "nyt:id":"60388387872183418881",
-        "qs:id":1136120,
+        "qs_pg:id":1136120,
         "uncrt:id":"TG",
         "wd:id":"Q945",
         "wk:page":"Togo",
@@ -906,7 +905,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565736960,
+    "wof:lastmodified":1566654311,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

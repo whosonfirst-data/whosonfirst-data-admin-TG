@@ -11,8 +11,11 @@
     "geom:longitude":1.13333,
     "gn:country":"TG",
     "gn:fcode":"PPLA",
-    "gn:pop":117811,
+    "gn:population":117811,
     "iso:country":"TG",
+    "lbl:bbox":"1.11333,8.96333,1.15333,9.00333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -264,12 +267,12 @@
     "wof:concordances":{
         "gn:id":2364104,
         "gp:id":1440868,
-        "qs:id":1035234,
+        "qs_pg:id":1035234,
         "wd:id":"Q845097",
         "wk:page":"Sokod\u00e9"
     },
     "wof:concordances_alt":{
-        "qs:id":1116883
+        "qs_pg:id":1116883
     },
     "wof:country":"TG",
     "wof:created":1469052466,
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":890444369,
-    "wof:lastmodified":1563242016,
+    "wof:lastmodified":1566654572,
     "wof:name":"Sokod\u00e9",
     "wof:parent_id":1108561175,
     "wof:placetype":"locality",

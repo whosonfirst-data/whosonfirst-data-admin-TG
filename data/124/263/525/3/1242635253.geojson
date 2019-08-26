@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.44778,6.38083,1.48778,6.42083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tigw\u00e9tolom\u00e9",
         "Tigou\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242635253,
-    "wof:lastmodified":1537702836,
+    "wof:lastmodified":1566654637,
     "wof:name":"Tigoe",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

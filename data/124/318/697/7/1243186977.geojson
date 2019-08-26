@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.53,6.49667,1.57,6.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouatchidom\u00e9",
         "Watigom\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243186977,
-    "wof:lastmodified":1537702846,
+    "wof:lastmodified":1566654640,
     "wof:name":"Ouatchigome",
     "wof:parent_id":421198915,
     "wof:placetype":"locality",

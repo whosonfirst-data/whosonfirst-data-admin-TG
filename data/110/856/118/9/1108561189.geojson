@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.428033,
     "lbl:longitude":1.035956,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DES PLATEAUX",
     "meso:gadm_admin":"Amou",
     "meso:gadm_hasc2":"TG.PL.AM",
@@ -31,6 +33,7 @@
     "mps:longitude":1.035956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Amou"
     ],
@@ -60,9 +63,9 @@
         "D'AMOU"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "statoids:area_km":"2003",
     "statoids:as_of_date":"2010-11-06",
     "statoids:capital":"Amlam\u00e9",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108561189,
-    "wof:lastmodified":1564184413,
+    "wof:lastmodified":1566654497,
     "wof:name":"Amou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

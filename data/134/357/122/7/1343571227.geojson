@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.58,7.59667,0.62,7.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abrewanko",
         "Abr\u00e9ouanko"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343571227,
-    "wof:lastmodified":1537702900,
+    "wof:lastmodified":1566654290,
     "wof:name":"Abreouanko",
     "wof:parent_id":1108561187,
     "wof:placetype":"locality",

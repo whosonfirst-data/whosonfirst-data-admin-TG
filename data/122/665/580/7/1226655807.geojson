@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.98,7.33,1.02,7.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226655807,
-    "wof:lastmodified":1536843770,
+    "wof:lastmodified":1566654775,
     "wof:name":"Enabedje",
     "wof:parent_id":1108561189,
     "wof:placetype":"locality",

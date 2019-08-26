@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.541219,
     "lbl:longitude":1.131391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DE LA KARA",
     "meso:gadm_admin":"Kozah",
     "meso:gadm_hasc2":"TG.KA.KO",
@@ -31,6 +33,7 @@
     "mps:longitude":1.131391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kozah"
@@ -64,9 +67,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "statoids:area_km":"1075",
     "statoids:as_of_date":"2010-11-06",
     "statoids:capital":"Kara",
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gp:id":56048446,
         "hasc:id":"TG.KA.KO",
-        "qs:id":9288
+        "qs_pg:id":9288
     },
     "wof:country":"TG",
     "wof:created":1459009527,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421187889,
-    "wof:lastmodified":1553717455,
+    "wof:lastmodified":1566654567,
     "wof:name":"Kozah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

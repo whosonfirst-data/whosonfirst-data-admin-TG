@@ -11,10 +11,14 @@
     "geom:longitude":1.10528,
     "gn:country":"TG",
     "gn:fcode":"PPL",
-    "gn:pop":23261,
+    "gn:population":23261,
     "iso:country":"TG",
+    "lbl:bbox":"1.08528,9.74806,1.12528,9.78806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Niamtougou"
     ],
@@ -60,7 +64,7 @@
     "name:tur_x_preferred":[
         "Niamtougou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Njamt\u016bu"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2364812,
         "gp:id":1440419,
-        "qs:id":1035250,
+        "qs_pg:id":1035250,
         "wd:id":"Q201342",
         "wk:page":"Niamtougou"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890437083,
-    "wof:lastmodified":1563242013,
+    "wof:lastmodified":1566654571,
     "wof:name":"Niamtougou",
     "wof:parent_id":1108561165,
     "wof:placetype":"locality",

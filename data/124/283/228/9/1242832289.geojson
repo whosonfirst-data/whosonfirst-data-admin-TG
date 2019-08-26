@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.185,6.36472,1.225,6.40472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dawi\u00eb-D\u00e9kpo",
         "Davy\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242832289,
-    "wof:lastmodified":1537702879,
+    "wof:lastmodified":1566654623,
     "wof:name":"Davie",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

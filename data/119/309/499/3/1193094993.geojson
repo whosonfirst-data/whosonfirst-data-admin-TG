@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.24333,6.11444,1.28333,6.15444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
-        "Ablogam\u00e9"
-    ],
-    "name:und_x_variant":[
         "Ablogam\u00e9"
     ],
     "src:geom":"geonames",
@@ -56,7 +57,7 @@
         }
     ],
     "wof:id":1193094993,
-    "wof:lastmodified":1564184376,
+    "wof:lastmodified":1566654468,
     "wof:name":"Ablogame",
     "wof:parent_id":1175613667,
     "wof:placetype":"locality",

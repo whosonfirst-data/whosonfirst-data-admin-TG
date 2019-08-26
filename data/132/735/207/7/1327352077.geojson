@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.36333,6.58,1.40333,6.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ah\u00e9p\u00e9 Akposo",
         "Ah\u00e9p\u00e9 Akposso"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327352077,
-    "wof:lastmodified":1537702894,
+    "wof:lastmodified":1566654238,
     "wof:name":"Ahepe Akposso",
     "wof:parent_id":1108561197,
     "wof:placetype":"locality",

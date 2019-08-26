@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.59667,6.38,1.63667,6.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Popoin Doum\u00e9",
         "Zogbedji Pap\u00e9dom\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242592279,
-    "wof:lastmodified":1537702829,
+    "wof:lastmodified":1566654593,
     "wof:name":"Zogbedji Papedome",
     "wof:parent_id":421198915,
     "wof:placetype":"locality",

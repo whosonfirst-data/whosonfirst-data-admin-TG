@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.08583,6.21028,1.12583,6.25028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -34,7 +38,7 @@
         "gn:id":2589674
     },
     "wof:country":"TG",
-    "wof:geomhash":"051ddfcbb233ca2ff9738ab8836149e2",
+    "wof:geomhash":"b01eb0c15d45ced4e5d955850ad38f3a",
     "wof:hierarchy":[
         {
             "country_id":85632647,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209472859,
-    "wof:lastmodified":1536286026,
+    "wof:lastmodified":1566654439,
     "wof:name":"Vougome",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     1.10583,
-    6.2302800000000005,
+    6.23028,
     1.10583,
-    6.2302800000000005
+    6.23028
 ],
   "geometry": {"coordinates":[1.10583,6.23028],"type":"Point"}
 }

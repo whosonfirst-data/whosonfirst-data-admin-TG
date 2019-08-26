@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.34667,6.84667,1.38667,6.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310219639,
-    "wof:lastmodified":1536830809,
+    "wof:lastmodified":1566654522,
     "wof:name":"Bossou Vegou",
     "wof:parent_id":1108561195,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.141802,
     "lbl:longitude":1.228591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LOME",
     "meso:gadm_admin":"Golfe (incl Lom\u00e9)",
     "meso:gadm_hasc2":"TG.MA.GO",
@@ -31,6 +33,7 @@
     "mps:longitude":1.228591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u043f\u0440\u044d\u0444\u0435\u043a\u0442\u0443\u0440\u0430 \u0413\u043e\u043b\u044c\u0444\u044d"
@@ -57,9 +60,7 @@
         "\u0413\u043e\u043b\u044c\u0444\u0435"
     ],
     "name:und_x_variant":[
-        "DU GOLFE"
-    ],
-    "name:unk_x_variant":[
+        "DU GOLFE",
         "Circonscription de Lom\u00e9"
     ],
     "name:zho_x_preferred":[
@@ -87,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "wof:belongsto":[
         102191573,
         85632647,
@@ -101,7 +102,7 @@
         "gn:id":2365263,
         "gp:id":56048468,
         "hasc:id":"TG.MA.GO",
-        "qs:id":1206067,
+        "qs_pg:id":1206067,
         "wd:id":"Q3910168",
         "wk:page":"Golfe Prefecture"
     },
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1175613667,
-    "wof:lastmodified":1563241923,
+    "wof:lastmodified":1566654500,
     "wof:name":"Golfe",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

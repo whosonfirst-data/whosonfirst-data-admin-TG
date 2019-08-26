@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.79667,6.54667,0.83667,6.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -34,7 +38,7 @@
         "gn:id":2364029
     },
     "wof:country":"TG",
-    "wof:geomhash":"eb3fa9930016cb0d5ecca68eee43926f",
+    "wof:geomhash":"31cb8453d7d67ed44b2899291e983953",
     "wof:hierarchy":[
         {
             "country_id":85632647,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209019233,
-    "wof:lastmodified":1536300197,
+    "wof:lastmodified":1566654425,
     "wof:name":"Tagba",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     0.81667,
-    6.5666699999999985,
+    6.56667,
     0.81667,
-    6.5666699999999985
+    6.56667
 ],
   "geometry": {"coordinates":[0.81667,6.56667],"type":"Point"}
 }

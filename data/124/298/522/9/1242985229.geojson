@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.19667,6.63,1.23667,6.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boga",
         "Bogan"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242985229,
-    "wof:lastmodified":1537702882,
+    "wof:lastmodified":1566654636,
     "wof:name":"Bogan",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

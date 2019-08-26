@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.23,6.66333,1.27,6.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -34,7 +38,7 @@
         "gn:id":2368363
     },
     "wof:country":"TG",
-    "wof:geomhash":"eac924107932c0103109e6d924292326",
+    "wof:geomhash":"0f778e20fb13f075514046d46e75bb0a",
     "wof:hierarchy":[
         {
             "country_id":85632647,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209232973,
-    "wof:lastmodified":1536293579,
+    "wof:lastmodified":1566654438,
     "wof:name":"Agbouto Kope",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     1.25,
-    6.6833300000000015,
+    6.68333,
     1.25,
-    6.6833300000000015
+    6.68333
 ],
   "geometry": {"coordinates":[1.25,6.68333],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.58,9.36333,0.62,9.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yakassi"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276243233,
-    "wof:lastmodified":1564184280,
+    "wof:lastmodified":1566654404,
     "wof:name":"Yakassi",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

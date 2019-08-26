@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.93,9.61333,0.97,9.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pessid\u00e9",
         "Kpessid\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226252995,
-    "wof:lastmodified":1537702857,
+    "wof:lastmodified":1566654749,
     "wof:name":"Kpesside",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.08,7.71333,1.12,7.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kodji",
         "Kodji Ts\u00e9vi\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242985211,
-    "wof:lastmodified":1537702863,
+    "wof:lastmodified":1566654633,
     "wof:name":"Kodji Tsevie",
     "wof:parent_id":1108561189,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.83,6.49667,0.87,6.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092c\u094b\u0921\u093c\u094b \u092d\u093e\u0937\u093e"
     ],
@@ -78,8 +82,7 @@
         "\u0411\u043e\u0434\u043e"
     ],
     "name:und_x_variant":[
-        "B\u00e9do",
-        "Bodo"
+        "B\u00e9do"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1293113227,
-    "wof:lastmodified":1564184206,
+    "wof:lastmodified":1566654353,
     "wof:name":"Bodo",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.61333,9.84667,0.65333,9.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -34,7 +38,7 @@
         "gn:id":2364889
     },
     "wof:country":"TG",
-    "wof:geomhash":"da0278446dae50d05dd871aba101c0ae",
+    "wof:geomhash":"88d1a18ddba105568718b7b623a773a2",
     "wof:hierarchy":[
         {
             "country_id":85632647,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209629881,
-    "wof:lastmodified":1536281225,
+    "wof:lastmodified":1566654423,
     "wof:name":"Narbale",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.6333300000000001,
+    0.63333,
     9.86667,
-    0.6333300000000001,
+    0.63333,
     9.86667
 ],
   "geometry": {"coordinates":[0.63333,9.86667],"type":"Point"}

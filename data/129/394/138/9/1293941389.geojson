@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.17556,6.24917,1.21556,6.28917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "Akw\u1ebd"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293941389,
-    "wof:lastmodified":1564184194,
+    "wof:lastmodified":1566654343,
     "wof:name":"Akwen",
     "wof:parent_id":1175613667,
     "wof:placetype":"locality",
