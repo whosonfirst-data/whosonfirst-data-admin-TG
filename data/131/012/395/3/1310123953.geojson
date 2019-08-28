@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.54667,9.26333,0.58667,9.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bisoukpab\u00e9",
         "Bissokpab\u00e9"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310123953,
-    "wof:lastmodified":1537702883,
+    "wof:lastmodified":1566654502,
     "wof:name":"Bissokpabe",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

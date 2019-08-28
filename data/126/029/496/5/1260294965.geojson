@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.98,6.38,1.02,6.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agoudja",
         "Agoudiabadja",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260294965,
-    "wof:lastmodified":1537702895,
+    "wof:lastmodified":1566654490,
     "wof:name":"Agoudja Badja",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

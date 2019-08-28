@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.54667,6.44667,1.58667,6.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mom\u00e9 Bal\u00e9m\u00e9",
         "Balim\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225954349,
-    "wof:lastmodified":1537702885,
+    "wof:lastmodified":1566654707,
     "wof:name":"Balime",
     "wof:parent_id":1108561201,
     "wof:placetype":"locality",

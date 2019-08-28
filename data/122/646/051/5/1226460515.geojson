@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.53,6.66333,1.57,6.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ess\u00e9-Godjin",
         "Es\u00e8-Godj\u00e9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226460515,
-    "wof:lastmodified":1537702875,
+    "wof:lastmodified":1566654763,
     "wof:name":"Esse Godjen",
     "wof:parent_id":1108561197,
     "wof:placetype":"locality",

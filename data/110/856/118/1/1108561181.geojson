@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.175767,
     "lbl:longitude":0.890736,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DU CENTRE",
     "meso:gadm_admin":"Sotouboua",
     "meso:gadm_hasc2":"TG.CE.SO",
@@ -31,6 +33,7 @@
     "mps:longitude":0.890736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Blitta"
     ],
@@ -43,9 +46,9 @@
         "DE SOTOUBOUA DE BLITTA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "statoids:area_km":"2973",
     "statoids:as_of_date":"2010-11-06",
     "statoids:capital":"Blitta",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108561181,
-    "wof:lastmodified":1553718116,
+    "wof:lastmodified":1566654497,
     "wof:name":"Blitta",
     "wof:parent_id":85678545,
     "wof:placetype":"county",

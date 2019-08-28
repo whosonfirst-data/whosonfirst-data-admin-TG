@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.34667,9.53,0.38667,9.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pikpandib",
         "Bikpandib"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310315351,
-    "wof:lastmodified":1537702883,
+    "wof:lastmodified":1566654513,
     "wof:name":"Bikpandib",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

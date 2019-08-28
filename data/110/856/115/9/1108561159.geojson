@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.65333,
     "lbl:longitude":0.167373,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DES SAVANES",
     "meso:gadm_admin":"T\u00f4ne",
     "meso:gadm_hasc2":"TG.SA.TO",
@@ -31,6 +33,7 @@
     "mps:longitude":0.167373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tandjouare"
     ],
@@ -44,9 +47,9 @@
         "DE TONE DE TANDJOUARE"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "statoids:area_km":"848",
     "statoids:as_of_date":"2010-11-06",
     "statoids:capital":"Tandjouar\u00e9",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108561159,
-    "wof:lastmodified":1553718114,
+    "wof:lastmodified":1566654500,
     "wof:name":"Tandjouare",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

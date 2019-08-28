@@ -11,10 +11,14 @@
     "geom:longitude":1.18611,
     "gn:country":"TG",
     "gn:fcode":"PPLA",
-    "gn:pop":104207,
+    "gn:population":104207,
     "iso:country":"TG",
+    "lbl:bbox":"1.16611,9.53111,1.20611,9.57111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:afr_x_preferred":[
         "Kara"
     ],
@@ -228,7 +232,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lama"
     ],
     "name:vec_x_preferred":[
@@ -271,7 +275,7 @@
     "wof:concordances":{
         "gn:id":2366152,
         "gp:id":1439509,
-        "qs:id":1035272,
+        "qs_pg:id":1035272,
         "wd:id":"Q223947",
         "wk:page":"Kara"
     },
@@ -288,7 +292,7 @@
         }
     ],
     "wof:id":890435447,
-    "wof:lastmodified":1563242017,
+    "wof:lastmodified":1566654572,
     "wof:name":"Kara",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

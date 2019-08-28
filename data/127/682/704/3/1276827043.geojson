@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.09139,6.37528,1.13139,6.41528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276827043,
-    "wof:lastmodified":1536612027,
+    "wof:lastmodified":1566654399,
     "wof:name":"Ziovounou",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

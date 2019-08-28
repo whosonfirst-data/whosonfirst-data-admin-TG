@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.11333,9.01333,1.15333,9.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00e9dia",
         "K\u00e9d\u00e9od\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344066953,
-    "wof:lastmodified":1537702865,
+    "wof:lastmodified":1566654272,
     "wof:name":"Kedeode",
     "wof:parent_id":1108561175,
     "wof:placetype":"locality",

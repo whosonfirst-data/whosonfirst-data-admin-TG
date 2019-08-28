@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.98,9.49667,1.02,9.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Meda"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1326940307,
-    "wof:lastmodified":1564184034,
+    "wof:lastmodified":1566654224,
     "wof:name":"Meda",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

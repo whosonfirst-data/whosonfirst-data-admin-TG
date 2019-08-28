@@ -23,16 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.49667,9.76333,0.53667,9.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gass\u00e9ma"
     ],
     "name:fra_x_preferred":[
         "Gassema"
-    ],
-    "name:und_x_variant":[
-        "Gass\u00e9ma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1210034679,
-    "wof:lastmodified":1564184371,
+    "wof:lastmodified":1566654466,
     "wof:name":"Gassema",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

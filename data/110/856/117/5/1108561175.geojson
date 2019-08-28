@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.01094,
     "lbl:longitude":1.177247,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DU CENTRE",
     "meso:gadm_admin":"Tchaudjo",
     "meso:gadm_hasc2":"TG.CE.TD",
@@ -31,6 +33,7 @@
     "mps:longitude":1.177247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tchaoudjo"
     ],
@@ -43,9 +46,9 @@
         "DE TCHAOUDJO"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "statoids:area_km":"2708",
     "statoids:as_of_date":"2010-11-06",
     "statoids:capital":"Sokod\u00e9",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108561175,
-    "wof:lastmodified":1553718115,
+    "wof:lastmodified":1566654500,
     "wof:name":"Tchaoudjo",
     "wof:parent_id":85678545,
     "wof:placetype":"county",

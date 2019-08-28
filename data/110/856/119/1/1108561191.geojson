@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.197314,
     "lbl:longitude":1.560552,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DES PLATEAUX",
     "meso:gadm_admin":"Haho",
     "meso:gadm_hasc2":"TG.PL.HA",
@@ -31,6 +33,7 @@
     "mps:longitude":1.560552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Moyen-Mono"
     ],
@@ -43,9 +46,9 @@
         "DU HAHO DU MOYEN-MONO"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-06",
+    "src:population_date":"2010-11-06",
     "statoids:area_km":"607",
     "statoids:as_of_date":"2010-11-06",
     "statoids:capital":"Tohoun",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108561191,
-    "wof:lastmodified":1553718117,
+    "wof:lastmodified":1566654498,
     "wof:name":"Moyen-Mono",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

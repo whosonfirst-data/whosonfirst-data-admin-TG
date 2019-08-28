@@ -10,8 +10,12 @@
     "geom:latitude":7.46667,
     "geom:longitude":0.9,
     "iso:country":"TG",
+    "lbl:bbox":"0.88,7.44667,0.92,7.48667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Amlam\u00e9"
@@ -31,7 +35,7 @@
     "name:rus_x_preferred":[
         "\u0410\u043c\u043b\u0430\u043c\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Emla"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2368035,
         "gp:id":1438176,
-        "qs:id":1035285,
+        "qs_pg:id":1035285,
         "wd:id":"Q2080085",
         "wk:page":"Amlam\u00e9"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421175951,
-    "wof:lastmodified":1563242008,
+    "wof:lastmodified":1566654568,
     "wof:name":"Amlam\u00e9",
     "wof:parent_id":1108561189,
     "wof:placetype":"locality",

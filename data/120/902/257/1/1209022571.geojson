@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.81333,6.86333,0.85333,6.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632647
@@ -34,7 +38,7 @@
         "gn:id":2366039
     },
     "wof:country":"TG",
-    "wof:geomhash":"ffc63866fa4ad4934d2a838da6389537",
+    "wof:geomhash":"155baac6d2464a3dfa7986965e111176",
     "wof:hierarchy":[
         {
             "country_id":85632647,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209022571,
-    "wof:lastmodified":1536300101,
+    "wof:lastmodified":1566654450,
     "wof:name":"Kevikope",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.8333299999999999,
+    0.83333,
     6.88333,
-    0.8333299999999999,
+    0.83333,
     6.88333
 ],
   "geometry": {"coordinates":[0.83333,6.88333],"type":"Point"}

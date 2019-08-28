@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.73,10.88,0.77,10.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yoro"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1326648259,
-    "wof:lastmodified":1564184073,
+    "wof:lastmodified":1566654253,
     "wof:name":"Yoro",
     "wof:parent_id":421191833,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.04667,6.25278,1.08667,6.29278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amassakop\u00e9",
         "Kamasa Kop\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259541413,
-    "wof:lastmodified":1537702866,
+    "wof:lastmodified":1566654655,
     "wof:name":"Kamassakope",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.29667,7.49667,1.33667,7.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Lette"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344067163,
-    "wof:lastmodified":1564184102,
+    "wof:lastmodified":1566654273,
     "wof:name":"Lette",
     "wof:parent_id":421178017,
     "wof:placetype":"locality",

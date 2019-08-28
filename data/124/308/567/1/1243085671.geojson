@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.06333,7.46333,1.10333,7.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malom\u00e9",
         "Malomi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243085671,
-    "wof:lastmodified":1537702854,
+    "wof:lastmodified":1566654580,
     "wof:name":"Malomi",
     "wof:parent_id":1108561189,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.32583,6.43222,1.36583,6.47222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fongb\u00e9 Dzogb\u00e9dji",
         "F\u00f2gb\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310173629,
-    "wof:lastmodified":1537702873,
+    "wof:lastmodified":1566654521,
     "wof:name":"Fongbe",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

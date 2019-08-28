@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.54667,9.73,0.58667,9.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kouni"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Kuni",
-        "K\u00fage",
-        "Kouni"
+        "K\u00fage"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343780493,
-    "wof:lastmodified":1564184116,
+    "wof:lastmodified":1566654283,
     "wof:name":"Kouni",
     "wof:parent_id":1108561169,
     "wof:placetype":"locality",

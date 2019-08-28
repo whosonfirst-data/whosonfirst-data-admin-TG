@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.31333,8.24667,1.35333,8.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kounyion",
         "Kounyon"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310319807,
-    "wof:lastmodified":1537702858,
+    "wof:lastmodified":1566654514,
     "wof:name":"Kounyon",
     "wof:parent_id":1108561183,
     "wof:placetype":"locality",

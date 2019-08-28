@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.06333,8.88,1.10333,8.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sassemmpt\u00e9",
         "Sassempt\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226664161,
-    "wof:lastmodified":1537702842,
+    "wof:lastmodified":1566654735,
     "wof:name":"Sassempte",
     "wof:parent_id":1108561175,
     "wof:placetype":"locality",

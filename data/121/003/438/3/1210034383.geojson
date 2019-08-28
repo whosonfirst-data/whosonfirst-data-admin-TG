@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.74667,9.89667,0.78667,9.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0434\u0438\u044f"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1210034383,
-    "wof:lastmodified":1564184369,
+    "wof:lastmodified":1566654465,
     "wof:name":"Pandia",
     "wof:parent_id":1108561163,
     "wof:placetype":"locality",

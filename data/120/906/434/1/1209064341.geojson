@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.00667,6.47806,1.04667,6.51806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "V\u00e9voin",
         "Av\u00e9vwen",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209064341,
-    "wof:lastmodified":1537702886,
+    "wof:lastmodified":1566654428,
     "wof:name":"Avevoen",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",

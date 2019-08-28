@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"1.29139,9.64111,1.33139,9.68111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "K\u00e9tao"
     ],
@@ -34,8 +38,7 @@
     "name:und_x_variant":[
         "Koutaou",
         "Kutau",
-        "Kuta",
-        "K\u00e9tao"
+        "Kuta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1193095383,
-    "wof:lastmodified":1564184376,
+    "wof:lastmodified":1566654468,
     "wof:name":"Ketao",
     "wof:parent_id":421184651,
     "wof:placetype":"locality",

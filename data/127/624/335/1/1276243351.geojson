@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.51333,9.04667,0.55333,9.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Massejioon",
         "Mass\u00e9jioun"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276243351,
-    "wof:lastmodified":1537702853,
+    "wof:lastmodified":1566654405,
     "wof:name":"Massejioun",
     "wof:parent_id":1108561171,
     "wof:placetype":"locality",

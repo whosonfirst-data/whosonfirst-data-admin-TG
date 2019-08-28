@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lome",
     "iso:country":"TG",
+    "lbl:bbox":"0.96333,9.99667,1.00333,10.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kpassid\u00e8"
     ],
     "name:und_x_variant":[
-        "Pessid\u00e9",
-        "Kpassid\u00e8"
+        "Pessid\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209471103,
-    "wof:lastmodified":1564184331,
+    "wof:lastmodified":1566654439,
     "wof:name":"Kpasside",
     "wof:parent_id":85632647,
     "wof:placetype":"locality",
