@@ -891,6 +891,11 @@
     },
     "wof:country":"TG",
     "wof:country_alpha3":"TGO",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"7cf9d426abac5e47c65c89f6aa48e2a3",
     "wof:hierarchy":[
         {
@@ -905,7 +910,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654311,
+    "wof:lastmodified":1582347102,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

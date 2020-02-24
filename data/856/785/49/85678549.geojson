@@ -272,6 +272,9 @@
         "wk:page":"Savanes Region, Togo"
     },
     "wof:country":"TG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"441ea699077d84157a61b610f3826d9e",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654311,
+    "wof:lastmodified":1582347101,
     "wof:name":"Savanes",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

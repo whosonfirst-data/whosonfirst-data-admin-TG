@@ -287,6 +287,9 @@
         "wk:page":"Maritime Region"
     },
     "wof:country":"TG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe0a001e2903ddfd5779809ddb824ab5",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654310,
+    "wof:lastmodified":1582347101,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

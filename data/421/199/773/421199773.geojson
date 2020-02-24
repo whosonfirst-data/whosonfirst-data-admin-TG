@@ -542,6 +542,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459010000,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f30a9b0f4d399cb1e537caec886a571",
     "wof:hierarchy":[
         {
@@ -560,7 +563,7 @@
         }
     ],
     "wof:id":421199773,
-    "wof:lastmodified":1566654569,
+    "wof:lastmodified":1582347106,
     "wof:name":"Lom\u00e9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

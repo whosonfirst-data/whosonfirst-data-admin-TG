@@ -277,6 +277,9 @@
         "wk:page":"Kara Region"
     },
     "wof:country":"TG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60c4320467eb57b7b0cf7fec41e5f4b6",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654310,
+    "wof:lastmodified":1582347101,
     "wof:name":"Kara",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

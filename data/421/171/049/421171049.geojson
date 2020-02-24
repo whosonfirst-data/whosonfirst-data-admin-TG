@@ -77,6 +77,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459008879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9f6362ac6dfcec59698e81443f9bd92",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421171049,
-    "wof:lastmodified":1536615924,
+    "wof:lastmodified":1582347106,
     "wof:name":"Golfe",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

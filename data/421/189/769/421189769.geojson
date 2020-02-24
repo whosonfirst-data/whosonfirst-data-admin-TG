@@ -187,6 +187,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459009635,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48efe27f35296e455f28ae86cb18e6eb",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":421189769,
-    "wof:lastmodified":1566654568,
+    "wof:lastmodified":1582347106,
     "wof:name":"Atakpam\u00e9",
     "wof:parent_id":421178017,
     "wof:placetype":"locality",

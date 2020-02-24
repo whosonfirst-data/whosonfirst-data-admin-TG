@@ -280,6 +280,9 @@
         "wd:id":"Q316220"
     },
     "wof:country":"TG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e024a535062db52e880805f6c12b8662",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566654310,
+    "wof:lastmodified":1582347101,
     "wof:name":"Centre",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

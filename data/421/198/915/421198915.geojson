@@ -123,6 +123,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459009965,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbe6e233c9bc314db5ab5415abcfc0eb",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421198915,
-    "wof:lastmodified":1566654568,
+    "wof:lastmodified":1582347106,
     "wof:name":"Lacs",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

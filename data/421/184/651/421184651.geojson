@@ -95,6 +95,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459009418,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d41610020af1c7a204101bec6e2b0bd",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421184651,
-    "wof:lastmodified":1566654570,
+    "wof:lastmodified":1582347106,
     "wof:name":"Binah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",
