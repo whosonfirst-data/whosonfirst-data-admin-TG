@@ -93,6 +93,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459009168,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7535857232e291d21f16dd41f60d90e9",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421178017,
-    "wof:lastmodified":1566654570,
+    "wof:lastmodified":1582347106,
     "wof:name":"Ogou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

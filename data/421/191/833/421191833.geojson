@@ -94,6 +94,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459009711,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c036adec017cbb4e4d6263e70cf74672",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421191833,
-    "wof:lastmodified":1566654569,
+    "wof:lastmodified":1582347106,
     "wof:name":"Kpendjal",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

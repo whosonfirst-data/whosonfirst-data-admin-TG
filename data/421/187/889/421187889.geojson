@@ -94,6 +94,9 @@
     },
     "wof:country":"TG",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2466b6a2e7652874e85ccbfa8d1ae7d7",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421187889,
-    "wof:lastmodified":1566654567,
+    "wof:lastmodified":1582347106,
     "wof:name":"Kozah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",
