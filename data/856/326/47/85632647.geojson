@@ -867,9 +867,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Togo",
-        "digitalenvoy:country_code":[
-            768
-        ],
+        "digitalenvoy:country_code":768,
         "fb:id":"en.togo",
         "fifa:id":"TOG",
         "fips:code":"TO",
@@ -913,7 +911,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529228,
+    "wof:lastmodified":1583797437,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
