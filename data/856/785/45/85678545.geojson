@@ -9,7 +9,6 @@
     "geom:bbox":"0.374531157266,7.90182461027,1.64750605602,9.30727686993",
     "geom:latitude":8.627918,
     "geom:longitude":1.069289,
-    "gn:id":"",
     "iso:country":"TG",
     "label:eng_x_preferred_longname":[
         "Centre Region"
@@ -298,7 +297,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1582347101,
+    "wof:lastmodified":1603257194,
     "wof:name":"Centre",
     "wof:parent_id":85632647,
     "wof:placetype":"region",
