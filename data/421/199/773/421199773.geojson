@@ -538,6 +538,7 @@
         "gn:id":2365267,
         "gp:id":1440110,
         "loc:id":"n79142559",
+        "ne:id":1159150535,
         "qs_pg:id":492879,
         "wd:id":"Q3792",
         "wk:page":"Lom\u00e9"
@@ -565,7 +566,8 @@
         }
     ],
     "wof:id":421199773,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1608688175,
+    "wof:megacity":1,
     "wof:name":"Lom\u00e9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
