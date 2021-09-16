@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"1.25416666667,6.16583333333,1.25416666667,6.16583333333",
+    "geom:bbox":"1.254167,6.165833,1.254167,6.165833",
     "geom:latitude":6.165833,
     "geom:longitude":1.254167,
     "iso:country":"TG",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Lom\u00e9-Tokoin Airport"
+    ],
+    "name:eng_x_variant":[
+        "LFW",
+        "DXXX"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0648\u0645\u0647-\u062a\u0648\u06a9\u06cc\u0646"
@@ -106,7 +110,7 @@
         "wd:id":"Q1431925"
     },
     "wof:country":"TG",
-    "wof:geomhash":"6ca3f963be9b035b89f0717d8bdb7cb5",
+    "wof:geomhash":"de1e8d765137aadcc3539163e16474ac",
     "wof:hierarchy":[
         {
             "campus_id":102545857,
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":102545857,
-    "wof:lastmodified":1566654261,
+    "wof:lastmodified":1631750412,
     "wof:name":"Lome Tokoin Airport",
     "wof:parent_id":85678537,
     "wof:placetype":"campus",
@@ -127,10 +131,10 @@
     ]
 },
   "bbox": [
-    1.2541666666667,
-    6.1658333333333,
-    1.2541666666667,
-    6.1658333333333
+    1.254167,
+    6.165833,
+    1.254167,
+    6.165833
 ],
-  "geometry": {"coordinates":[1.2541666666667,6.1658333333333],"type":"Point"}
+  "geometry": {"coordinates":[1.254167,6.165833],"type":"Point"}
 }
