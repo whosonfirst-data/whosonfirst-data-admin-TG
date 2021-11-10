@@ -170,6 +170,9 @@
         "\u0633\u0648\u0646\u062a\u0631\u0627\u0644 \u0639\u0644\u0627\u0642\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Centre"
+    ],
+    "name:vie_x_variant":[
         "Centrale"
     ],
     "name:zho_x_preferred":[
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614896182,
+    "wof:lastmodified":1636501340,
     "wof:name":"Centre",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

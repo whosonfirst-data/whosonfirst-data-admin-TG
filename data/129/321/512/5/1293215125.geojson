@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Yala"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Yala"
+    ],
     "name:ita_x_preferred":[
         "Yala"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1293215125,
-    "wof:lastmodified":1566654364,
+    "wof:lastmodified":1636501342,
     "wof:name":"Yala",
     "wof:parent_id":1108561187,
     "wof:placetype":"locality",

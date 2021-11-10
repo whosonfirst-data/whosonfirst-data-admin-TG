@@ -39,7 +39,13 @@
     "name:fra_x_preferred":[
         "Sodo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Sodo"
+    ],
+    "name:hun_x_preferred":[
         "Sodo"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1259601495,
-    "wof:lastmodified":1566654689,
+    "wof:lastmodified":1636501346,
     "wof:name":"Sodo",
     "wof:parent_id":1108561189,
     "wof:placetype":"locality",

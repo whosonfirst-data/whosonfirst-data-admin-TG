@@ -39,11 +39,20 @@
     "name:deu_x_preferred":[
         "Ati"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ati"
     ],
     "name:fra_x_preferred":[
         "ATI"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Ati"
     ],
     "name:jpn_x_preferred":[
         "Ati"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1276566623,
-    "wof:lastmodified":1566654382,
+    "wof:lastmodified":1636501342,
     "wof:name":"Ati",
     "wof:parent_id":1108561199,
     "wof:placetype":"locality",

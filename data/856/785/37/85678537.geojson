@@ -91,8 +91,14 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab0\u0ac0\u0a9f\u0abe\u0a88\u0aae \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e7\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0930\u0940\u091f\u093e\u0907\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Maritime"
     ],
     "name:ind_x_preferred":[
         "Region Maritime"
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614896182,
+    "wof:lastmodified":1636501341,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",
