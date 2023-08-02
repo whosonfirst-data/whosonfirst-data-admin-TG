@@ -69,6 +69,9 @@
     "name:est_x_preferred":[
         "Rannikupiirkond"
     ],
+    "name:ewe_x_preferred":[
+        "Maritime Nuto"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u0645\u0627\u0631\u06cc\u062a\u06cc\u0645"
     ],
@@ -94,6 +97,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05e7\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d0\u05e8\u05d9\u05d8\u05d9\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0930\u0940\u091f\u093e\u0907\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -118,6 +124,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub9ac\ud300 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub9ac\ud300\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Piej\u016bras re\u0123ions"
     ],
@@ -135,6 +144,9 @@
     ],
     "name:nob_x_preferred":[
         "Maritime"
+    ],
+    "name:pap_x_preferred":[
+        "region Maritime"
     ],
     "name:pol_x_preferred":[
         "Region Maritime"
@@ -311,7 +323,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501341,
+    "wof:lastmodified":1690868597,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Kand\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Kand\u00e9"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890436863,
-    "wof:lastmodified":1566654571,
+    "wof:lastmodified":1690868604,
     "wof:name":"Kand\u00e9",
     "wof:parent_id":1108561163,
     "wof:placetype":"locality",

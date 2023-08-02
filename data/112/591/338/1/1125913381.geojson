@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "An\u00e9ho"
+    ],
     "name:ceb_x_preferred":[
         "An\u00e9ho"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0435\u0445\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "An\u00e9ho"
     ],
     "name:swe_x_preferred":[
         "An\u00e9ho"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1125913381,
-    "wof:lastmodified":1566654573,
+    "wof:lastmodified":1690868605,
     "wof:name":"An\u00e9ho",
     "wof:parent_id":421198915,
     "wof:placetype":"locality",

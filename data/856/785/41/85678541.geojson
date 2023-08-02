@@ -63,6 +63,9 @@
     "name:epo_x_preferred":[
         "Kara"
     ],
+    "name:ewe_x_preferred":[
+        "Kara Nuto"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u06a9\u0627\u0631\u0627"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Karas re\u0123ions"
@@ -301,7 +307,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501341,
+    "wof:lastmodified":1690868598,
     "wof:name":"Kara",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

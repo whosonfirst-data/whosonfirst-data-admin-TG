@@ -22,10 +22,19 @@
     "name:afr_x_preferred":[
         "Lom\u00e9"
     ],
+    "name:aka_x_preferred":[
+        "Lom\u00e9"
+    ],
     "name:amh_x_preferred":[
         "\u120e\u121c"
     ],
     "name:ara_x_preferred":[
+        "\u0644\u0648\u0645\u064a"
+    ],
+    "name:arg_x_preferred":[
+        "Lom\u00e9"
+    ],
+    "name:ary_x_preferred":[
         "\u0644\u0648\u0645\u064a"
     ],
     "name:arz_x_preferred":[
@@ -34,13 +43,22 @@
     "name:ast_x_preferred":[
         "Lom\u00e9"
     ],
+    "name:avk_x_preferred":[
+        "Lom\u00e9"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u0645\u0647"
     ],
     "name:aze_x_preferred":[
         "Lome"
     ],
+    "name:bak_x_preferred":[
+        "\u041b\u043e\u043c\u0435"
+    ],
     "name:bam_x_preferred":[
+        "Lom\u00e9"
+    ],
+    "name:ban_x_preferred":[
         "Lom\u00e9"
     ],
     "name:bel_x_preferred":[
@@ -173,6 +191,9 @@
     "name:ile_x_preferred":[
         "Lom\u00e9"
     ],
+    "name:ina_x_preferred":[
+        "Lom\u00e9"
+    ],
     "name:ind_x_preferred":[
         "Lom\u00e9"
     ],
@@ -215,6 +236,12 @@
     "name:lav_x_preferred":[
         "Lome"
     ],
+    "name:lfn_x_preferred":[
+        "Lome"
+    ],
+    "name:lij_x_preferred":[
+        "Lom\u00e9"
+    ],
     "name:lit_x_preferred":[
         "Lom\u0117"
     ],
@@ -230,6 +257,9 @@
     "name:mar_x_preferred":[
         "\u0932\u094b\u092e\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u043e\u043c\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u043c\u0435"
     ],
@@ -238,6 +268,9 @@
     ],
     "name:msa_x_preferred":[
         "Lom\u00e9"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0644\u0648\u0645\u0647"
     ],
     "name:nah_x_preferred":[
         "Lom\u00e9"
@@ -293,6 +326,9 @@
     "name:pus_x_preferred":[
         "\u0644\u0648\u0645"
     ],
+    "name:que_x_preferred":[
+        "Lumi"
+    ],
     "name:ron_x_preferred":[
         "Lom\u00e9"
     ],
@@ -301,6 +337,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043c\u0435"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c73\u1c62\u1c6e"
     ],
     "name:scn_x_preferred":[
         "Lom\u00e9"
@@ -317,6 +356,9 @@
     "name:slv_x_preferred":[
         "Lom\u00e9"
     ],
+    "name:smn_x_preferred":[
+        "Lom\u00e9"
+    ],
     "name:sna_x_preferred":[
         "Lom\u00e9"
     ],
@@ -327,6 +369,9 @@
         "Lom\u00e9"
     ],
     "name:sqi_x_preferred":[
+        "Lom\u00e9"
+    ],
+    "name:srd_x_preferred":[
         "Lom\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -526,8 +571,8 @@
     "wof:belongsto":[
         102191573,
         85632647,
-        421171049,
         85678537,
+        421171049,
         1108561205
     ],
     "wof:breaches":[],
@@ -566,7 +611,7 @@
         }
     ],
     "wof:id":421199773,
-    "wof:lastmodified":1608688175,
+    "wof:lastmodified":1690868602,
     "wof:megacity":1,
     "wof:name":"Lom\u00e9",
     "wof:parent_id":-4,

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0628\u0627\u0648\u0646\u0642"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0628\u0627\u0648\u0646\u0642"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u043f\u0430\u043e\u043d"
     ],
@@ -34,6 +40,9 @@
     "name:eng_x_preferred":[
         "Dapaong"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u067e\u0627\u0626\u0648\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Dapaong"
     ],
@@ -42,6 +51,9 @@
     ],
     "name:frr_x_preferred":[
         "Dapaong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d0\u05e4\u05d0\u05d5\u05e0\u05d2"
     ],
     "name:hrv_x_preferred":[
         "Dapaong"
@@ -94,11 +106,17 @@
     "name:tur_x_preferred":[
         "Dapaong"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043f\u0430\u043e\u043d\u0433"
+    ],
     "name:und_x_variant":[
         "Dapango"
     ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u067e\u0627\u0648\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Dapaong"
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u5e9e"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":890436865,
-    "wof:lastmodified":1566654571,
+    "wof:lastmodified":1690868604,
     "wof:name":"Dapaong",
     "wof:parent_id":1108561157,
     "wof:placetype":"locality",

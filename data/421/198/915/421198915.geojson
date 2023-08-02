@@ -71,6 +71,9 @@
     "name:nob_x_preferred":[
         "Lacs"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043a\u0441"
     ],
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421198915,
-    "wof:lastmodified":1636501345,
+    "wof:lastmodified":1690868602,
     "wof:name":"Lacs",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

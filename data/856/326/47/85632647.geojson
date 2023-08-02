@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u0422\u043e\u0433\u043e"
+    ],
     "name:ace_x_preferred":[
         "Togo"
     ],
@@ -49,6 +52,15 @@
     "name:amh_x_variant":[
         "\u1276\u1310"
     ],
+    "name:ami_x_preferred":[
+        "Togo"
+    ],
+    "name:ang_x_preferred":[
+        "Togo"
+    ],
+    "name:anp_x_preferred":[
+        "\u091f\u094b\u0917\u094b"
+    ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u063a\u0648"
     ],
@@ -58,6 +70,9 @@
     "name:arg_x_preferred":[
         "Togo"
     ],
+    "name:ary_x_preferred":[
+        "\u0637\u0648\u06ad\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u062a\u0648\u062c\u0648"
     ],
@@ -66,6 +81,9 @@
     ],
     "name:ast_x_variant":[
         "Togu"
+    ],
+    "name:avk_x_preferred":[
+        "Togoa"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0648\u0642\u0648"
@@ -79,6 +97,12 @@
     "name:bam_x_preferred":[
         "Togo"
     ],
+    "name:ban_x_preferred":[
+        "Togo"
+    ],
+    "name:bar_x_preferred":[
+        "Togo"
+    ],
     "name:bcl_x_preferred":[
         "Togo"
     ],
@@ -90,6 +114,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091f\u094b\u0917\u094b"
+    ],
+    "name:bis_x_preferred":[
+        "Togo"
     ],
     "name:bjn_x_preferred":[
         "Togo"
@@ -136,10 +163,16 @@
     "name:cor_x_preferred":[
         "Togo"
     ],
+    "name:cos_x_preferred":[
+        "Togoland"
+    ],
     "name:crh_x_preferred":[
         "Togo"
     ],
     "name:cym_x_preferred":[
+        "Togo"
+    ],
+    "name:dag_x_preferred":[
         "Togo"
     ],
     "name:dan_x_preferred":[
@@ -231,6 +264,9 @@
     "name:gag_x_preferred":[
         "Togo"
     ],
+    "name:gcr_x_preferred":[
+        "Togo"
+    ],
     "name:ger_x_variant":[
         "Republik Togo"
     ],
@@ -246,11 +282,23 @@
     "name:glv_x_preferred":[
         "Yn Togo"
     ],
+    "name:gpe_x_preferred":[
+        "Togo"
+    ],
+    "name:grn_x_preferred":[
+        "T\u00f3go"
+    ],
     "name:gsw_x_preferred":[
         "Togo"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a97\u0acb"
+    ],
+    "name:gur_x_preferred":[
+        "Togo"
+    ],
+    "name:guw_x_preferred":[
+        "Togo"
     ],
     "name:hak_x_preferred":[
         "Togo"
@@ -351,6 +399,9 @@
     "name:kbp_x_preferred":[
         "Togo"
     ],
+    "name:kcg_x_preferred":[
+        "Togo"
+    ],
     "name:khm_x_preferred":[
         "\u178f\u17bc\u17a0\u17d2\u1782\u17bc"
     ],
@@ -402,6 +453,9 @@
     "name:lit_x_preferred":[
         "Togas"
     ],
+    "name:lld_x_preferred":[
+        "Togo"
+    ],
     "name:lmo_x_preferred":[
         "Togo"
     ],
@@ -423,6 +477,15 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0917\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u043e\u0433\u043e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0422\u043e\u0433\u043e"
+    ],
+    "name:min_x_preferred":[
+        "Togo"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u043e\u0433\u043e"
     ],
@@ -432,8 +495,14 @@
     "name:mlt_x_preferred":[
         "Togo"
     ],
+    "name:mni_x_preferred":[
+        "\uabc7\uabe3\uabd2\uabe3"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u043e\u0433\u043e"
+    ],
+    "name:mri_x_preferred":[
+        "Toko"
     ],
     "name:mrj_x_preferred":[
         "\u0422\u043e\u0433\u043e"
@@ -489,6 +558,9 @@
     "name:nov_x_preferred":[
         "Togo"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d5\u07dc\u07ed\u07cf\u07eb"
+    ],
     "name:nso_x_preferred":[
         "Togo"
     ],
@@ -537,6 +609,9 @@
     "name:por_x_preferred":[
         "Togo"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0648\u06ab\u0648"
+    ],
     "name:que_x_preferred":[
         "Tugu"
     ],
@@ -545,6 +620,9 @@
     ],
     "name:ron_x_preferred":[
         "Togo"
+    ],
+    "name:rue_x_preferred":[
+        "\u0422\u043e\u0433\u043e"
     ],
     "name:run_x_preferred":[
         "Togo"
@@ -561,6 +639,9 @@
     "name:san_x_preferred":[
         "\u091f\u094b\u0917\u094b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c74\u1c73\u1c5c\u1c73"
+    ],
     "name:scn_x_preferred":[
         "Togu"
     ],
@@ -569,6 +650,9 @@
     ],
     "name:sgs_x_preferred":[
         "Togs"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1011\u1030\u101d\u103a\u1038\u1075\u1030\u101d\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0ddd\u0d9c\u0ddd"
@@ -585,7 +669,13 @@
     "name:sme_x_variant":[
         "Toge"
     ],
+    "name:smn_x_preferred":[
+        "Togo"
+    ],
     "name:smo_x_preferred":[
+        "Togo"
+    ],
+    "name:sms_x_preferred":[
         "Togo"
     ],
     "name:sna_x_preferred":[
@@ -633,11 +723,17 @@
     "name:szl_x_preferred":[
         "Togo"
     ],
+    "name:szy_x_preferred":[
+        "Togo"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bcb\u0b95\u0bcb"
     ],
     "name:tat_x_preferred":[
         "\u0422\u043e\u0433\u043e"
+    ],
+    "name:tay_x_preferred":[
+        "Togo"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c17\u0c4b"
@@ -661,8 +757,14 @@
     "name:tir_x_variant":[
         "\u1276\u1310"
     ],
+    "name:tok_x_preferred":[
+        "ma Toko"
+    ],
     "name:ton_x_preferred":[
         "Toko"
+    ],
+    "name:trv_x_preferred":[
+        "Togo"
     ],
     "name:tso_x_preferred":[
         "Togo"
@@ -741,6 +843,9 @@
     ],
     "name:yue_x_preferred":[
         "\u591a\u54e5"
+    ],
+    "name:zea_x_preferred":[
+        "Toho"
     ],
     "name:zha_x_preferred":[
         "Togo"
@@ -976,7 +1081,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1617827544,
+    "wof:lastmodified":1690868599,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
