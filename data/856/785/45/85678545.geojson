@@ -63,6 +63,12 @@
     "name:epo_x_preferred":[
         "Centra Regiono"
     ],
+    "name:ewe_x_preferred":[
+        "Centrale Nuto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Centrale"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6\u05d5\u05e8 \u05d4\u05de\u05e8\u05db\u05d6"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
@@ -301,7 +310,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501340,
+    "wof:lastmodified":1690868597,
     "wof:name":"Centre",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

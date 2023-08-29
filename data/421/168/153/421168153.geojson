@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bafilo"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0444\u0438\u043b\u043e"
     ],
@@ -24,6 +27,9 @@
         "Bafilo"
     ],
     "name:ceb_x_preferred":[
+        "Bafilo"
+    ],
+    "name:deu_x_preferred":[
         "Bafilo"
     ],
     "name:eng_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421168153,
-    "wof:lastmodified":1566654567,
+    "wof:lastmodified":1690868601,
     "wof:name":"Bafilo",
     "wof:parent_id":1108561173,
     "wof:placetype":"locality",

@@ -63,6 +63,12 @@
     "name:epo_x_preferred":[
         "Altebena\u0135o"
     ],
+    "name:ewe_x_preferred":[
+        "Plateaux Nuto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0644\u0627\u062a\u06cc\u0648\u06a9\u0633"
+    ],
     "name:fin_x_preferred":[
         "Plateaux"
     ],
@@ -85,6 +91,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05e9\u05d5\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05dc\u05d0\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0932\u0947\u091f\u094b \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
@@ -105,6 +114,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub77c\ud1a0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub77c\ud1a0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Plato re\u0123ions"
@@ -296,7 +308,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501341,
+    "wof:lastmodified":1690868597,
     "wof:name":"Plateaux",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

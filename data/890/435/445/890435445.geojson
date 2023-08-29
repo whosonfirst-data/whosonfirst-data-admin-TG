@@ -31,7 +31,13 @@
     "name:fra_x_preferred":[
         "Pagouda"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b0\u30c0"
+    ],
     "name:nld_x_preferred":[
+        "Pagouda"
+    ],
+    "name:pol_x_preferred":[
         "Pagouda"
     ],
     "name:rus_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":890435445,
-    "wof:lastmodified":1566654572,
+    "wof:lastmodified":1690868605,
     "wof:name":"Pagouda",
     "wof:parent_id":421184651,
     "wof:placetype":"locality",

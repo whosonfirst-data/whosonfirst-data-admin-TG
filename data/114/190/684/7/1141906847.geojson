@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"0.630028440971,6.90039145805,0.630028440971,6.90039145805",
+    "geom:bbox":"0.630028,6.900391,0.630028,6.900391",
     "geom:latitude":6.900391,
     "geom:longitude":0.630028,
     "iso:country":"TG",
@@ -21,10 +21,22 @@
     "name:ara_x_preferred":[
         "\u0643\u0628\u0627\u0644\u0645\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0628\u0627\u0644\u0645\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kpalim\u00e9"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09aa\u09be\u09b2\u09bf\u09ae\u09c7"
     ],
+    "name:cat_x_preferred":[
+        "Kpalim\u00e9"
+    ],
     "name:ceb_x_preferred":[
+        "Kpalim\u00e9"
+    ],
+    "name:ces_x_preferred":[
         "Kpalim\u00e9"
     ],
     "name:dan_x_preferred":[
@@ -39,6 +51,9 @@
     "name:eng_x_preferred":[
         "Kpalim\u00e9"
     ],
+    "name:ewe_x_preferred":[
+        "Kpalime"
+    ],
     "name:fin_x_preferred":[
         "Palim\u00e9"
     ],
@@ -50,6 +65,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0aaa\u0abe\u0ab2\u0abf\u0aae\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e4\u05d0\u05dc\u05d9\u05de\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u092a\u0947\u0932\u0940\u092e\u0947"
@@ -246,7 +264,7 @@
     },
     "wof:country":"TG",
     "wof:created":1499130647,
-    "wof:geomhash":"1461eb95a06c553ef70d0c1479531b39",
+    "wof:geomhash":"4b10ff35fd60c1d9e9dd4cfc309ecee8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -257,7 +275,7 @@
         }
     ],
     "wof:id":1141906847,
-    "wof:lastmodified":1566654790,
+    "wof:lastmodified":1690868607,
     "wof:name":"Kpalime",
     "wof:parent_id":1108561193,
     "wof:placetype":"locality",
@@ -267,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.6300284409707,
-    6.90039145805179,
-    0.6300284409707,
-    6.90039145805179
+    0.630028,
+    6.900391,
+    0.630028,
+    6.900391
 ],
-  "geometry": {"coordinates":[0.6300284409707,6.90039145805179],"type":"Point"}
+  "geometry": {"coordinates":[0.630028,6.900391],"type":"Point"}
 }

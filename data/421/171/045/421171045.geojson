@@ -35,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kloto"
+    ],
     "name:eng_x_preferred":[
         "Agou"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:fra_x_preferred":[
         "Agou"
+    ],
+    "name:fra_x_variant":[
+        "Kloto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d5\u05d8\u05d5"
     ],
     "name:nld_x_preferred":[
         "Kloto"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421171045,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1690868603,
     "wof:name":"Agou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

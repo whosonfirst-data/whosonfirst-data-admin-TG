@@ -22,7 +22,13 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u062f\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Badou"
+    ],
     "name:ceb_x_preferred":[
+        "Badou"
+    ],
+    "name:deu_x_preferred":[
         "Badou"
     ],
     "name:eng_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":890437085,
-    "wof:lastmodified":1566654571,
+    "wof:lastmodified":1690868603,
     "wof:name":"Badou",
     "wof:parent_id":1108561187,
     "wof:placetype":"locality",

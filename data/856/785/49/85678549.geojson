@@ -63,6 +63,12 @@
     "name:epo_x_preferred":[
         "Savanoj"
     ],
+    "name:ewe_x_preferred":[
+        "Savanes Nuto"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0627\u0648\u0627\u0646\u0633"
+    ],
     "name:fin_x_preferred":[
         "Savanes"
     ],
@@ -81,6 +87,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab5\u0abe\u0aa8\u0ac7\u0ab8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d1\u05d0\u05e0\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0935\u0947\u0928\u0947\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ubc18 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ubc18\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Savanes re\u0123ions"
@@ -291,7 +303,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501341,
+    "wof:lastmodified":1690868598,
     "wof:name":"Savanes",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

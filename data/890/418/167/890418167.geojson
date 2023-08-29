@@ -37,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30f3\u30d0"
     ],
+    "name:lit_x_preferred":[
+        "\u010camba"
+    ],
     "name:nld_x_preferred":[
         "Tchamba"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890418167,
-    "wof:lastmodified":1566654572,
+    "wof:lastmodified":1690868604,
     "wof:name":"Tchamba",
     "wof:parent_id":1108561177,
     "wof:placetype":"locality",

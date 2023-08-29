@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u062a\u0627\u0648\u0628\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u062a\u0627\u0648\u0628\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Sotouboua"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09a4\u09cb\u0989\u09ac\u09c1\u09df\u09be"
     ],
@@ -249,7 +255,7 @@
         }
     ],
     "wof:id":421191659,
-    "wof:lastmodified":1636501345,
+    "wof:lastmodified":1690868602,
     "wof:name":"Sotouboua",
     "wof:parent_id":1108561179,
     "wof:placetype":"locality",

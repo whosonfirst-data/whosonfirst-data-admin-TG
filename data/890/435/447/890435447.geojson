@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Kara"
     ],
+    "name:aze_x_preferred":[
+        "Kara"
+    ],
     "name:bar_x_preferred":[
         "Kara"
     ],
@@ -138,6 +141,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Kara"
     ],
     "name:lij_x_preferred":[
         "Kara"
@@ -292,7 +298,7 @@
         }
     ],
     "wof:id":890435447,
-    "wof:lastmodified":1566654572,
+    "wof:lastmodified":1690868605,
     "wof:name":"Kara",
     "wof:parent_id":421187889,
     "wof:placetype":"locality",

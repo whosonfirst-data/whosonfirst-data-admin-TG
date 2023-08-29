@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u062a\u0633\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Nots\u00e9"
+    ],
     "name:ceb_x_preferred":[
+        "Nots\u00e9"
+    ],
+    "name:deu_x_preferred":[
         "Nots\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -28,6 +37,9 @@
     ],
     "name:frr_x_preferred":[
         "Nots\u00e9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e1\u05d8\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Nots\u00e9"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":421168147,
-    "wof:lastmodified":1566654567,
+    "wof:lastmodified":1690868601,
     "wof:name":"Nots\u00e9",
     "wof:parent_id":1108561195,
     "wof:placetype":"locality",
