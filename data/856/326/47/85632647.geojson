@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.669362,
-    "geom:area_square_m":57082979981.718658,
+    "geom:area_square_m":57082976066.536072,
     "geom:bbox":"-0.144042,6.112283,1.80905,11.139552",
     "geom:latitude":8.53181,
     "geom:longitude":0.978788,
@@ -14,6 +14,9 @@
     "iso:country":"TG",
     "itu:country_code":[
         "228"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TG"
@@ -1007,7 +1010,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"228",
     "statoids:ds":"TG",
     "statoids:fifa":"TOG",
@@ -1067,7 +1071,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"ef7ea3278eaab7bd3f6c349d2e89d2b0",
+    "wof:geomhash":"a92467d6af9e2795e649d3e66d7c161f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1081,12 +1085,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690868599,
+    "wof:lastmodified":1694492079,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":6816982,
-    "wof:population_rank":13,
+    "wof:population":8082366,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tg",
     "wof:shortcode":"TG",
     "wof:superseded_by":[],
