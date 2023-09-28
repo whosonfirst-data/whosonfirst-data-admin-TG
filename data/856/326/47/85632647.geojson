@@ -1050,6 +1050,7 @@
         "hasc:id":"TG",
         "icao:code":"5V",
         "ioc:id":"TOG",
+        "iso:code":"TG",
         "itu:id":"TGO",
         "loc:id":"n80061115",
         "m49:code":"768",
@@ -1064,6 +1065,7 @@
         "wk:page":"Togo",
         "wmo:id":"TG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TG",
     "wof:country_alpha3":"TGO",
     "wof:geom_alt":[
@@ -1085,7 +1087,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639532,
+    "wof:lastmodified":1695881189,
     "wof:name":"Togo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
