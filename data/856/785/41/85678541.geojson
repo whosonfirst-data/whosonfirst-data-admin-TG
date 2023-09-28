@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.945296,
-    "geom:area_square_m":11524748215.814899,
+    "geom:area_square_m":11524748530.649841,
     "geom:bbox":"0.225446,8.865409,1.424441,10.275833",
     "geom:latitude":9.605028,
     "geom:longitude":0.866305,
@@ -282,17 +282,19 @@
         "gn:id":2597439,
         "gp:id":56048435,
         "hasc:id":"TG.KA",
+        "iso:code":"TG-K",
         "iso:id":"TG-K",
         "qs_pg:id":1105217,
         "unlc:id":"TG-K",
         "wd:id":"Q316216",
         "wk:page":"Kara Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e211a259fefa21f8441cdef373152c2",
+    "wof:geomhash":"9322bdbe5a1db08dd53d05434d1e6a98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690868598,
+    "wof:lastmodified":1695884883,
     "wof:name":"Kara",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.523858,
-    "geom:area_square_m":6435932688.85092,
+    "geom:area_square_m":6435933313.602593,
     "geom:bbox":"0.719042,6.103445,1.803364,6.911498",
     "geom:latitude":6.500099,
     "geom:longitude":1.281206,
@@ -298,17 +298,19 @@
         "gn:id":2365173,
         "gp:id":56048437,
         "hasc:id":"TG.MA",
+        "iso:code":"TG-M",
         "iso:id":"TG-M",
         "qs_pg:id":1206055,
         "unlc:id":"TG-M",
         "wd:id":"Q316291",
         "wk:page":"Maritime Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"585886ee36e5094ee366b94ae37e95ba",
+    "wof:geomhash":"64e47c200f4fb61627632757af5160cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690868597,
+    "wof:lastmodified":1695884883,
     "wof:name":"Maritime",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

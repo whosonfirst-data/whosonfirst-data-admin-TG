@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.391025,
-    "geom:area_square_m":17054809325.657476,
+    "geom:area_square_m":17054808842.226364,
     "geom:bbox":"0.514356,6.52301,1.646739,8.368938",
     "geom:latitude":7.445891,
     "geom:longitude":1.126253,
@@ -283,17 +283,19 @@
         "gn:id":2364370,
         "gp:id":56048438,
         "hasc:id":"TG.PL",
+        "iso:code":"TG-P",
         "iso:id":"TG-P",
         "qs_pg:id":1206064,
         "unlc:id":"TG-P",
         "wd:id":"Q316306",
         "wk:page":"Plateaux Region, Togo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4264c495bb505390e3202139c1850a4f",
+    "wof:geomhash":"977f20eb6a4795ed15dfbee0f1f83a14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -308,7 +310,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690868597,
+    "wof:lastmodified":1695884883,
     "wof:name":"Plateaux",
     "wof:parent_id":85632647,
     "wof:placetype":"region",
