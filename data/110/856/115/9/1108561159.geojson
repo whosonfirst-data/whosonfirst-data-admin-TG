@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096425,
-    "geom:area_square_m":1171737464.906783,
+    "geom:area_square_m":1171737420.03949,
     "geom:bbox":"-0.090052,10.399133,0.352852,10.813052",
     "geom:latitude":10.658365,
     "geom:longitude":0.145531,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TG.SA.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981952,
-    "wof:geomhash":"38b90e0f9b2590c30efde8050e3e41bb",
+    "wof:geomhash":"d571d50d3593f428b4b157e5f4241532",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108561159,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Tandjouare",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

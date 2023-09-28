@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256166,
-    "geom:area_square_m":3130817434.546216,
+    "geom:area_square_m":3130817434.54621,
     "geom:bbox":"1.2273215867,8.36207737279,1.64750605602,9.26852831601",
     "geom:latitude":8.730001,
     "geom:longitude":1.46128,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"TG.CE.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981965,
-    "wof:geomhash":"385d29b2c2e7ca48852e0f34f5e9d097",
+    "wof:geomhash":"f952f7b3e6653861afabfc0d50874edc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108561177,
-    "wof:lastmodified":1566654499,
+    "wof:lastmodified":1695886487,
     "wof:name":"Tchamba",
     "wof:parent_id":85678545,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144215,
-    "geom:area_square_m":1751357307.294145,
+    "geom:area_square_m":1751357469.835419,
     "geom:bbox":"0.307522,10.686444,0.912797,11.026387",
     "geom:latitude":10.850688,
     "geom:longitude":0.613603,
@@ -95,12 +95,13 @@
         "hasc:id":"TG.SA.KP",
         "qs_pg:id":119969
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1459009711,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb385292ff7d5f9588c1a31077e70e32",
+    "wof:geomhash":"6fd8033a19e22d622b80c500312a2bff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":421191833,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Kpendjal",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217016,
-    "geom:area_square_m":2650356972.602986,
+    "geom:area_square_m":2650356737.750966,
     "geom:bbox":"0.882138,8.668261,1.45694,9.307277",
     "geom:latitude":9.006002,
     "geom:longitude":1.171813,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"TG.CE.TD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981964,
-    "wof:geomhash":"77adfc44ca04310b32138c6f78bb9808",
+    "wof:geomhash":"b50e74849b2a87bc560a86e0a143c551",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108561175,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886516,
     "wof:name":"Tchaoudjo",
     "wof:parent_id":85678545,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269589,
-    "geom:area_square_m":3289960547.46079,
+    "geom:area_square_m":3289960437.525876,
     "geom:bbox":"0.455754,8.865409,1.028226,9.677487",
     "geom:latitude":9.271478,
     "geom:longitude":0.757116,
@@ -142,9 +142,10 @@
     "wof:concordances":{
         "hasc:id":"TG.KA.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981961,
-    "wof:geomhash":"8c22f3236989f2dee26514d6109befee",
+    "wof:geomhash":"3663fe3d70ff04d1f31e6f5b3df589e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108561171,
-    "wof:lastmodified":1636501344,
+    "wof:lastmodified":1695886776,
     "wof:name":"Bassar",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

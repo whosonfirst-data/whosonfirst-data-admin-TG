@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117505,
-    "geom:area_square_m":1426580244.156599,
+    "geom:area_square_m":1426580505.861879,
     "geom:bbox":"-0.145744,10.757029,0.423496,11.138991",
     "geom:latitude":10.936802,
     "geom:longitude":0.168094,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"TG.SA.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981949,
-    "wof:geomhash":"c5519a0e8635cec6abbac9ce49f614e4",
+    "wof:geomhash":"8fe32e8f9ce6869864edcb5bcef5db4a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108561157,
-    "wof:lastmodified":1636501344,
+    "wof:lastmodified":1695886776,
     "wof:name":"Tone",
     "wof:parent_id":85678549,
     "wof:placetype":"county",

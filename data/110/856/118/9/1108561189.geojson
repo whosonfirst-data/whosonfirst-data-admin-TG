@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141972,
-    "geom:area_square_m":1740332914.948723,
+    "geom:area_square_m":1740332914.948724,
     "geom:bbox":"0.783842464782,7.1883748655,1.15583823059,7.87176479847",
     "geom:latitude":7.539295,
     "geom:longitude":1.002108,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"TG.PL.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981973,
-    "wof:geomhash":"eadd7cf0501c17480dfabe3632373e70",
+    "wof:geomhash":"b0b3068c764325b462ed8aef725657da",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1108561189,
-    "wof:lastmodified":1566654497,
+    "wof:lastmodified":1695886486,
     "wof:name":"Amou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080759,
-    "geom:area_square_m":991668124.11349,
+    "geom:area_square_m":991668011.476453,
     "geom:bbox":"0.619828,6.52301,0.922757,6.933659",
     "geom:latitude":6.753499,
     "geom:longitude":0.77816,
@@ -112,12 +112,13 @@
         "wd:id":"Q3408917",
         "wk:page":"Kloto Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1459008879,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23ee48a919e160fc8b3a7a304763e1f5",
+    "wof:geomhash":"7395d38c246c3ba637bb9c0351b49405",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421171045,
-    "wof:lastmodified":1690868603,
+    "wof:lastmodified":1695886514,
     "wof:name":"Agou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

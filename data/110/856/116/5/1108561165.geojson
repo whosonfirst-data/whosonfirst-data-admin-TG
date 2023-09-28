@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103347,
-    "geom:area_square_m":1259152542.877879,
+    "geom:area_square_m":1259153064.794508,
     "geom:bbox":"0.835442,9.634634,1.335239,10.041859",
     "geom:latitude":9.826394,
     "geom:longitude":1.08176,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"TG.KA.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981956,
-    "wof:geomhash":"0087b4e6310a045b2ced2e45a4ce8251",
+    "wof:geomhash":"3d947878a4a9429cfd40bf701c681eef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561165,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Doufelgou",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

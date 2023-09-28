@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263941,
-    "geom:area_square_m":3242613549.396563,
+    "geom:area_square_m":3242613720.882065,
     "geom:bbox":"0.719042,6.179174,1.392977,6.832288",
     "geom:latitude":6.511318,
     "geom:longitude":1.086948,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"TG.MA.ZI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981982,
-    "wof:geomhash":"0b3eb776e364b34264e8d2d7712c9408",
+    "wof:geomhash":"05d983fbdc57133797314f7965b17441",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1108561199,
-    "wof:lastmodified":1627522815,
+    "wof:lastmodified":1695886517,
     "wof:name":"Zio",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

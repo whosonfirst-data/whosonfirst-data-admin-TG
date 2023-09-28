@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203126,
-    "geom:area_square_m":2486663442.176366,
+    "geom:area_square_m":2486663480.446677,
     "geom:bbox":"1.150681,7.771914,1.632135,8.368938",
     "geom:latitude":8.094688,
     "geom:longitude":1.422701,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"TG.PL.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981969,
-    "wof:geomhash":"62bb8b8870afd64608dad2e09a29d928",
+    "wof:geomhash":"9c344e2255bbfb90b24a888f14e82026",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108561183,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886516,
     "wof:name":"Est-Mono",
     "wof:parent_id":85678531,
     "wof:placetype":"county",
