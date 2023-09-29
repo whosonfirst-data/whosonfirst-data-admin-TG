@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070639,
-    "geom:area_square_m":861873498.280604,
+    "geom:area_square_m":861873330.242223,
     "geom:bbox":"0.935574,9.21296,1.424441,9.463872",
     "geom:latitude":9.344504,
     "geom:longitude":1.195542,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"TG.KA.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981962,
-    "wof:geomhash":"aacb2f7fd5734863ea9478fc4f752242",
+    "wof:geomhash":"cc12efbe3bb135890e6e3bd050bb1758",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561173,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886515,
     "wof:name":"Assoli",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

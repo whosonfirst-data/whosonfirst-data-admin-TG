@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199118,
-    "geom:area_square_m":2440090704.240642,
+    "geom:area_square_m":2440090537.487193,
     "geom:bbox":"0.514356,7.370864,1.078881,7.985507",
     "geom:latitude":7.670985,
     "geom:longitude":0.763283,
@@ -124,9 +124,10 @@
     "wof:concordances":{
         "hasc:id":"TG.PL.WW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981971,
-    "wof:geomhash":"00cfd8ce229ca29b0a46bab5daad7444",
+    "wof:geomhash":"a12c153ed5701fd4323ef9d08d5c6c74",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108561187,
-    "wof:lastmodified":1636501343,
+    "wof:lastmodified":1695886776,
     "wof:name":"Wawa",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

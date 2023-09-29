@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060788,
-    "geom:area_square_m":746996532.244913,
+    "geom:area_square_m":746996202.766798,
     "geom:bbox":"1.367189,6.219334,1.607767,6.565158",
     "geom:latitude":6.385391,
     "geom:longitude":1.485114,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"TG.MA.VO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981984,
-    "wof:geomhash":"8c9d504d33ee696fd4987b94562e523b",
+    "wof:geomhash":"b680d61d4a8e1943b57bbf1701eb4696",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108561201,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886516,
     "wof:name":"Vo",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145246,
-    "geom:area_square_m":1768509424.538431,
+    "geom:area_square_m":1768510102.091696,
     "geom:bbox":"0.658559,9.853147,1.284381,10.275833",
     "geom:latitude":10.036687,
     "geom:longitude":0.925659,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"TG.KA.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981955,
-    "wof:geomhash":"5901974da0cfe8235e9d69645a865cf2",
+    "wof:geomhash":"623c123ecf6f36946801231b4ce9e0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108561163,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Keran",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

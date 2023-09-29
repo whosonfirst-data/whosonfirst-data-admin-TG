@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222129,
-    "geom:area_square_m":2707376933.883069,
+    "geom:area_square_m":2707376642.527771,
     "geom:bbox":"0.225446,9.410031,0.878408,10.040103",
     "geom:latitude":9.702594,
     "geom:longitude":0.551203,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"TG.KA.DP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981958,
-    "wof:geomhash":"ff0ccb89a4ecd24a93ae5b4fb49628e9",
+    "wof:geomhash":"e0a0be46165e0e922d7a030cafae8f36",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108561169,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Dankpen",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048118,
-    "geom:area_square_m":590308482.214425,
+    "geom:area_square_m":590308945.093422,
     "geom:bbox":"1.444286,7.001075,1.634039,7.403221",
     "geom:latitude":7.194113,
     "geom:longitude":1.560524,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"TG.PL.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981975,
-    "wof:geomhash":"16d1ded953d6df17e81ff07a843f55ae",
+    "wof:geomhash":"981f4b7a127dcf5d5f1106f7396a0507",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108561191,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886516,
     "wof:name":"Moyen-Mono",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

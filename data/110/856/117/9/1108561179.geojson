@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.369323,
-    "geom:area_square_m":4514616982.220353,
+    "geom:area_square_m":4514616999.971951,
     "geom:bbox":"0.374531,8.352649,1.270393,9.066696",
     "geom:latitude":8.664105,
     "geom:longitude":0.834623,
@@ -145,9 +145,10 @@
     "wof:concordances":{
         "hasc:id":"TG.CE.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981966,
-    "wof:geomhash":"fb90209e8aad1f0ec75333f82ba3b88d",
+    "wof:geomhash":"eee901c9dd6120df334e582151cd9916",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1108561179,
-    "wof:lastmodified":1636501343,
+    "wof:lastmodified":1695886776,
     "wof:name":"Sotouboua",
     "wof:parent_id":85678545,
     "wof:placetype":"county",

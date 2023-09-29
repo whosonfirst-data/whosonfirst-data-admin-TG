@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.104065,
-    "geom:area_square_m":13497258666.444201,
+    "geom:area_square_m":13497258736.993359,
     "geom:bbox":"0.374531,7.901825,1.647506,9.307277",
     "geom:latitude":8.627918,
     "geom:longitude":1.069289,
@@ -286,16 +286,18 @@
         "gn:id":2367237,
         "gp:id":56048436,
         "hasc:id":"TG.CE",
+        "iso:code":"TG-C",
         "iso:id":"TG-C",
         "qs_pg:id":483102,
         "unlc:id":"TG-C",
         "wd:id":"Q316220"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db211b481d23d964ce55030aedb83d58",
+    "wof:geomhash":"f651232baa0fbecf681e633f4b876f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -310,7 +312,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690868597,
+    "wof:lastmodified":1695884883,
     "wof:name":"Centre",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

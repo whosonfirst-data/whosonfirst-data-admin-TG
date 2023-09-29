@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711282,
-    "geom:area_square_m":8645120208.89642,
+    "geom:area_square_m":8645120324.491814,
     "geom:bbox":"-0.145744,9.888401,0.922007,11.138991",
     "geom:latitude":10.59361,
     "geom:longitude":0.450795,
@@ -279,16 +279,18 @@
         "gn:id":2364205,
         "gp:id":56048434,
         "hasc:id":"TG.SA",
+        "iso:code":"TG-S",
         "iso:id":"TG-S",
         "qs_pg:id":1105216,
         "wd:id":"Q279945",
         "wk:page":"Savanes Region, Togo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"433ce91815f8f1e8c55604490e7bfd58",
+    "wof:geomhash":"b94974f0b80533b27f970c0e7b9c4c46",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690868598,
+    "wof:lastmodified":1695884883,
     "wof:name":"Savanes",
     "wof:parent_id":85632647,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087901,
-    "geom:area_square_m":1071854012.409312,
+    "geom:area_square_m":1071854269.592956,
     "geom:bbox":"0.917212,9.374588,1.363518,9.756333",
     "geom:latitude":9.550076,
     "geom:longitude":1.146597,
@@ -95,12 +95,13 @@
         "hasc:id":"TG.KA.KO",
         "qs_pg:id":9288
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1459009527,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b478b8b7b466fccbb7199cbb0dcc51c",
+    "wof:geomhash":"419aa524ce5135784b17cf8d931e5151",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":421187889,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Kozah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

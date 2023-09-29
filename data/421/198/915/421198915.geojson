@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066548,
-    "geom:area_square_m":817777470.441725,
+    "geom:area_square_m":817778009.062666,
     "geom:bbox":"1.382006,6.171069,1.803364,6.583679",
     "geom:latitude":6.383736,
     "geom:longitude":1.640427,
@@ -133,12 +133,13 @@
         "wd:id":"Q3910174",
         "wk:page":"Lacs Prefecture"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1459009965,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"982e125f228feb30350b7b23b471d4cb",
+    "wof:geomhash":"004a9eef547fe85edba455d1f386cddc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421198915,
-    "wof:lastmodified":1690868602,
+    "wof:lastmodified":1695886776,
     "wof:name":"Lacs",
     "wof:parent_id":85678537,
     "wof:placetype":"county",

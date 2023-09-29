@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313706,
-    "geom:area_square_m":3845189959.115273,
+    "geom:area_square_m":3845189143.726773,
     "geom:bbox":"1.035646,7.168864,1.646739,7.975738",
     "geom:latitude":7.572773,
     "geom:longitude":1.35298,
@@ -94,12 +94,13 @@
         "hasc:id":"TG.PL.OU",
         "qs_pg:id":22077
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1459009168,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"320bd53d2efbc58d90d516799af37bca",
+    "wof:geomhash":"9dba16fb2b4dfe3e32dcb50408f10d93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421178017,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886515,
     "wof:name":"Ogou",
     "wof:parent_id":85678531,
     "wof:placetype":"county",

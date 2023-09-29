@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046444,
-    "geom:area_square_m":566021256.364771,
+    "geom:area_square_m":566020683.874791,
     "geom:bbox":"1.195704,9.4233,1.400508,10.011878",
     "geom:latitude":9.732245,
     "geom:longitude":1.310856,
@@ -96,12 +96,13 @@
         "hasc:id":"TG.KA.BI",
         "qs_pg:id":1002806
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1459009418,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bfea08be593d1036b652558d15c33eab",
+    "wof:geomhash":"6ff6094c6c4853487afb2ef3448d9aef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":421184651,
-    "wof:lastmodified":1627522813,
+    "wof:lastmodified":1695886514,
     "wof:name":"Binah",
     "wof:parent_id":85678541,
     "wof:placetype":"county",

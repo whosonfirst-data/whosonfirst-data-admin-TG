@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160271,
-    "geom:area_square_m":1966642562.825451,
+    "geom:area_square_m":1966642887.830021,
     "geom:bbox":"0.520573,6.751821,0.98749,7.395925",
     "geom:latitude":7.085831,
     "geom:longitude":0.749029,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"TG.PL.DY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TG",
     "wof:created":1473981976,
-    "wof:geomhash":"be9b6e18459376250edc5732fea31140",
+    "wof:geomhash":"e8bbbdacf5a648a05417c414279701e5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108561193,
-    "wof:lastmodified":1627522814,
+    "wof:lastmodified":1695886516,
     "wof:name":"Kloto",
     "wof:parent_id":85678531,
     "wof:placetype":"county",
